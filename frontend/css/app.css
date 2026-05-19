@@ -132,7 +132,15 @@ button { font-family: inherit; }
   display: flex; align-items: center; justify-content: center;
   color: #fff; font-size: 13px; font-weight: 700;
   box-shadow: 0 4px 12px rgba(251,113,133,0.30);
+  object-fit: cover; flex-shrink: 0;
 }
+img.avatar { background: var(--bg-card); }
+.signin-link {
+  color: var(--coral);
+  text-decoration: none;
+  font-weight: 600;
+}
+.signin-link:hover { text-decoration: underline; }
 .user-pill .name { font-size: 13px; font-weight: 600; color: var(--text); }
 .user-pill .interests { font-size: 11px; color: var(--text-mute); }
 .user-pill .edit { color: var(--coral); cursor: pointer; margin-left: 4px; }

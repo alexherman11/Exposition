@@ -1,25 +1,33 @@
-"""In-memory store for the demo snapshot + per-user runtime state.
+"""In-memory store for the static expo corpus + DB-backed per-user state.
 
-Loads JSON files from `data/` once at startup. Embeddings live as a single
-NxD numpy array next to an `embedding_ids.json` index. Annotations and
-plan items live in tiny SQLite-shaped lists.
+Two-tier storage:
+  - Static corpus (sessions/speakers/exhibitors/booths/embeddings): loaded
+    once from JSON at startup, lives in RAM. Read-only at runtime.
+  - Per-user state (profiles, plans, annotations, behavioral logs, uploaded
+    LinkedIn connections): persisted in Postgres via `db.py`. Reads pull
+    a fresh row each call; writes commit immediately. No caching here —
+    SQLAlchemy session-per-call keeps things simple.
 
-This is intentionally simple — for a 750-entity corpus, pgvector is overkill
-and an in-memory cosine similarity is fast enough.
+The expo corpus methods stay sync; the per-user methods open a short-lived
+DB session each time. This means tools can call `store.add_to_plan(...)`
+without knowing or caring that it crossed a network boundary.
 """
 
 from __future__ import annotations
 
 import json
-import os
 import threading
-import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
 import numpy as np
 
+from . import db as db_module
+from .db import Annotation as DBAnnotation
+from .db import PlanItem as DBPlanItem
+from .db import User as DBUser
+from .db import db_session
 from .models import Annotation, Booth, Exhibitor, PlanItem, Session, Speaker, UserProfile
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
@@ -38,12 +46,7 @@ class Store:
         self._emb_ids: list[str] = []
         self._emb_types: list[str] = []
 
-        # runtime
-        self.profiles: dict[str, UserProfile] = {}
-        self.plans: list[PlanItem] = []
-        self.annotations: list[Annotation] = []
-
-    # ---------- loaders ----------
+    # ---------- static corpus loaders ----------
     def load(self) -> None:
         with self._lock:
             with open(DATA_DIR / "sessions.json") as f:
@@ -96,11 +99,9 @@ class Store:
         ref = (reference or "").strip()
         if not ref:
             return None
-        # booth number direct
         for key, b in self.booths.items():
             if key.lower() == ref.lower():
                 return b
-        # exhibitor name fuzzy
         ref_lc = ref.lower()
         for ex in self.exhibitors.values():
             if ex.company.lower() == ref_lc:
@@ -126,83 +127,242 @@ class Store:
             out.append({
                 "booth_number": b.booth_number,
                 "distance_px": d,
-                "approx_minutes": round(d / 240, 1),  # 1600px≈100m / ~1.2m/s
+                "approx_minutes": round(d / 240, 1),
                 "hall_zone": b.hall_zone,
                 "exhibitor": ex.model_dump(mode="json") if ex else None,
             })
         out.sort(key=lambda r: r["distance_px"])
         return out
 
-    # ---------- profile ----------
+    # ---------- user / profile (DB-backed) ----------
+    def _row_to_profile(self, u: DBUser) -> UserProfile:
+        return UserProfile(
+            user_id=u.id,
+            name=u.name or "Attendee",
+            role=u.role or "",
+            company=u.company or "",
+            career_history=list(u.career_history or []),
+            interests=list(u.interests or []),
+            session_intent=list(u.session_intent or []),
+            behavioral_log=list(u.behavioral_log or []),
+            connections=list(u.connections or []),
+            location_reference=u.location_reference,
+        )
+
+    def _ensure_user_row(self, s, user_id: str) -> DBUser:
+        u = s.get(DBUser, user_id)
+        if u is None:
+            is_guest = 1 if user_id.startswith("guest:") or user_id == "demo" else 0
+            u = DBUser(
+                id=user_id,
+                name="Guest Attendee" if is_guest else "Attendee",
+                is_guest=is_guest,
+                interests=[],
+                session_intent=[],
+                career_history=[],
+                behavioral_log=[],
+                connections=[],
+            )
+            s.add(u)
+            s.flush()
+        return u
+
     def get_profile(self, user_id: str) -> UserProfile:
-        with self._lock:
-            if user_id not in self.profiles:
-                self.profiles[user_id] = UserProfile(user_id=user_id)
-            return self.profiles[user_id]
+        with db_session() as s:
+            u = self._ensure_user_row(s, user_id)
+            return self._row_to_profile(u)
 
     def update_profile(self, user_id: str, **fields) -> UserProfile:
-        with self._lock:
-            p = self.get_profile(user_id)
+        # Whitelist — only fields the agent / API may write.
+        allowed = {
+            "name", "role", "company",
+            "career_history", "interests", "session_intent",
+            "connections", "location_reference",
+        }
+        with db_session() as s:
+            u = self._ensure_user_row(s, user_id)
             for k, v in fields.items():
-                if hasattr(p, k):
-                    setattr(p, k, v)
-            return p
+                if k in allowed:
+                    setattr(u, k, v)
+            s.flush()
+            return self._row_to_profile(u)
+
+    def upsert_linkedin_user(
+        self,
+        sub: str,
+        email: Optional[str],
+        name: Optional[str],
+        picture_url: Optional[str],
+    ) -> str:
+        """Create or refresh a user row from a LinkedIn OIDC userinfo payload.
+        Returns the canonical user_id ('linkedin:<sub>')."""
+        user_id = f"linkedin:{sub}"
+        with db_session() as s:
+            u = s.get(DBUser, user_id)
+            now = datetime.utcnow()
+            if u is None:
+                u = DBUser(
+                    id=user_id,
+                    linkedin_sub=sub,
+                    email=email,
+                    name=name or "LinkedIn User",
+                    picture_url=picture_url,
+                    is_guest=0,
+                    created_at=now,
+                    last_login_at=now,
+                    interests=[],
+                    session_intent=[],
+                    career_history=[],
+                    behavioral_log=[],
+                    connections=[],
+                )
+                s.add(u)
+            else:
+                u.last_login_at = now
+                if email and not u.email:
+                    u.email = email
+                if name:
+                    u.name = name
+                if picture_url:
+                    u.picture_url = picture_url
+            s.flush()
+        return user_id
+
+    def get_user_card(self, user_id: str) -> dict:
+        """Return the small payload the frontend renders in the user pill."""
+        with db_session() as s:
+            u = self._ensure_user_row(s, user_id)
+            return {
+                "user_id": u.id,
+                "name": u.name,
+                "email": u.email,
+                "picture_url": u.picture_url,
+                "is_guest": bool(u.is_guest),
+                "interests": list(u.interests or []),
+                "role": u.role or "",
+                "company": u.company or "",
+                "linkedin_connections_imported": len(u.connections or []),
+            }
 
     def log_behavior(self, user_id: str, action: str, entity_id: str, note: str = "") -> None:
-        with self._lock:
-            p = self.get_profile(user_id)
-            p.behavioral_log.append({
+        with db_session() as s:
+            u = self._ensure_user_row(s, user_id)
+            log = list(u.behavioral_log or [])
+            log.append({
                 "ts": datetime.utcnow().isoformat(),
                 "action": action,
                 "entity_id": entity_id,
                 "note": note,
             })
+            # cap log length so the JSON column doesn't grow unbounded
+            u.behavioral_log = log[-500:]
 
-    # ---------- plan ----------
+    # ---------- plan (DB-backed) ----------
     def add_to_plan(self, user_id: str, entity_id: str, layer: str, entity_type: str = "session") -> PlanItem:
-        with self._lock:
-            # idempotent: replace existing same-id+layer
-            self.plans = [p for p in self.plans if not (p.user_id == user_id and p.entity_id == entity_id and p.layer == layer)]
-            item = PlanItem(user_id=user_id, entity_id=entity_id, entity_type=entity_type, layer=layer)
-            self.plans.append(item)
-            return item
+        with db_session() as s:
+            self._ensure_user_row(s, user_id)
+            existing = (
+                s.query(DBPlanItem)
+                .filter_by(user_id=user_id, entity_id=entity_id, layer=layer)
+                .one_or_none()
+            )
+            if existing:
+                return PlanItem(
+                    user_id=existing.user_id,
+                    entity_id=existing.entity_id,
+                    entity_type=existing.entity_type,
+                    layer=existing.layer,
+                    note=existing.note,
+                    added_at=existing.added_at,
+                )
+            row = DBPlanItem(
+                user_id=user_id,
+                entity_id=entity_id,
+                entity_type=entity_type,
+                layer=layer,
+            )
+            s.add(row)
+            s.flush()
+            return PlanItem(
+                user_id=row.user_id,
+                entity_id=row.entity_id,
+                entity_type=row.entity_type,
+                layer=row.layer,
+                note=row.note,
+                added_at=row.added_at,
+            )
 
     def remove_from_plan(self, user_id: str, entity_id: str, layer: Optional[str] = None) -> int:
-        with self._lock:
-            before = len(self.plans)
-            self.plans = [
-                p for p in self.plans
-                if not (p.user_id == user_id and p.entity_id == entity_id and (layer is None or p.layer == layer))
-            ]
-            return before - len(self.plans)
+        with db_session() as s:
+            q = s.query(DBPlanItem).filter_by(user_id=user_id, entity_id=entity_id)
+            if layer is not None:
+                q = q.filter_by(layer=layer)
+            rows = q.all()
+            for r in rows:
+                s.delete(r)
+            return len(rows)
 
     def get_plan(self, user_id: str) -> list[dict]:
-        return [
-            {**p.model_dump(mode="json"), "entity": self.get(p.entity_id)}
-            for p in self.plans
-            if p.user_id == user_id
-        ]
+        with db_session() as s:
+            rows = s.query(DBPlanItem).filter_by(user_id=user_id).order_by(DBPlanItem.added_at).all()
+            out = []
+            for r in rows:
+                out.append({
+                    "user_id": r.user_id,
+                    "entity_id": r.entity_id,
+                    "entity_type": r.entity_type,
+                    "layer": r.layer,
+                    "note": r.note,
+                    "added_at": r.added_at.isoformat() if r.added_at else None,
+                    "entity": self.get(r.entity_id),
+                })
+            return out
 
-    # ---------- annotations ----------
+    # ---------- annotations (DB-backed, global / cross-user reads) ----------
     def add_annotation(self, user_id: str, entity_id: str, ann_type: str, payload: dict) -> Annotation:
-        with self._lock:
-            a = Annotation(user_id=user_id, entity_id=entity_id, type=ann_type, payload=payload)
-            self.annotations.append(a)
-            return a
+        with db_session() as s:
+            self._ensure_user_row(s, user_id)
+            row = DBAnnotation(
+                user_id=user_id,
+                entity_id=entity_id,
+                type=ann_type,
+                payload=payload or {},
+            )
+            s.add(row)
+            s.flush()
+            return Annotation(
+                entity_id=row.entity_id,
+                type=row.type,  # type: ignore[arg-type]
+                payload=row.payload,
+                user_id=row.user_id,
+                created_at=row.created_at,
+            )
 
     def annotations_for(self, entity_id: str) -> list[dict]:
-        return [a.model_dump(mode="json") for a in self.annotations if a.entity_id == entity_id]
+        with db_session() as s:
+            rows = s.query(DBAnnotation).filter_by(entity_id=entity_id).all()
+            return [
+                {
+                    "entity_id": r.entity_id,
+                    "type": r.type,
+                    "payload": r.payload,
+                    "user_id": r.user_id,
+                    "created_at": r.created_at.isoformat() if r.created_at else None,
+                }
+                for r in rows
+            ]
 
     def annotations_summary(self) -> dict[str, dict]:
-        """Aggregate per-entity: flags, rating mean, comments count."""
+        with db_session() as s:
+            rows = s.query(DBAnnotation).all()
         out: dict[str, dict] = {}
-        for a in self.annotations:
+        for a in rows:
             agg = out.setdefault(a.entity_id, {"flags": [], "ratings": [], "comments": 0})
             if a.type in ("free_drinks", "good_swag"):
                 if a.type not in agg["flags"]:
                     agg["flags"].append(a.type)
             elif a.type == "rating":
-                agg["ratings"].append(a.payload.get("value", 0))
+                agg["ratings"].append((a.payload or {}).get("value", 0))
             elif a.type == "comment":
                 agg["comments"] += 1
         for eid, agg in out.items():

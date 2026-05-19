@@ -46,6 +46,69 @@ PYTHONIOENCODING=utf-8 python -m uvicorn app.main:app --host 127.0.0.1 --port 80
 # open http://localhost:8000
 ```
 
+Locally, with no `DATABASE_URL` set, per-user state (accounts, plans,
+annotations, uploaded LinkedIn connections) falls back to a SQLite file at
+`backend/local.db`. Delete the file to reset.
+
+## Auth — Sign In with LinkedIn (OpenID Connect)
+
+The app supports real LinkedIn OAuth. Without it, it still runs in **guest
+mode** — every visitor gets a signed-cookie guest session and their plan
+persists in the database under a `guest:<uuid>` user id. If they later sign
+in with LinkedIn, the guest plan is migrated onto their real account.
+
+To enable real sign-in:
+
+1. Go to https://www.linkedin.com/developers/apps and create an app.
+2. On the app's **Products** tab, request **"Sign In with LinkedIn using
+   OpenID Connect"** (this is the OIDC product, instant-approval).
+3. On the **Auth** tab:
+   - Note the **Client ID** and **Client Secret**.
+   - Add a redirect URL, e.g. `https://yourapp.up.railway.app/api/auth/linkedin/callback`
+     (and `http://localhost:8000/api/auth/linkedin/callback` for dev).
+4. Set these env vars (Railway → Variables, or `.env` for local dev):
+
+   ```
+   LINKEDIN_CLIENT_ID=...
+   LINKEDIN_CLIENT_SECRET=...
+   LINKEDIN_REDIRECT_URI=https://yourapp.up.railway.app/api/auth/linkedin/callback
+   SESSION_SECRET=<openssl rand -hex 32>
+   ```
+
+Scopes requested: `openid profile email`. **Important caveat:** LinkedIn does
+not expose the user's connections graph via API. OAuth only gives us identity
+(name, email, profile picture, stable `sub`). To answer "who do I know at
+company X?", users still upload `Connections.csv` via the existing
+`POST /api/linkedin` endpoint — that file is exported from
+linkedin.com/mypreferences/d/download-my-data.
+
+## Database — Postgres on Railway
+
+The static expo corpus (sessions, speakers, exhibitors, booths, embeddings)
+stays in memory loaded from JSON. Only mutable per-user state lives in
+Postgres: `users`, `plan_items`, `annotations`.
+
+To set up Postgres on Railway:
+
+1. In your Railway project: **+ New → Database → Add PostgreSQL**.
+2. Railway auto-injects `DATABASE_URL` into the service that needs it. If
+   not, add a **Reference variable** `DATABASE_URL = ${{Postgres.DATABASE_URL}}`
+   to the web service.
+3. Redeploy. On startup the backend logs:
+   ```
+   [auth] linkedin sign-in: enabled
+   [store] 200 sessions, 540 speakers, ...
+   ```
+   Tables are auto-created on first boot (idempotent `CREATE TABLE IF NOT EXISTS`
+   via SQLAlchemy `metadata.create_all`).
+
+To inspect / wipe in production:
+```bash
+railway run psql $DATABASE_URL
+\dt                       # list tables
+TRUNCATE plan_items, annotations, users;
+```
+
 ### Tests
 
 ```bash

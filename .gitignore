@@ -20,3 +20,4 @@ tests/bench_report.json
 node_modules/
 .idea/
 .vscode/
+backend/local.db
