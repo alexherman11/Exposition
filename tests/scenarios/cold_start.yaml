@@ -1,0 +1,17 @@
+name: cold_start
+description: LinkedIn-only profile, "plan my day for LoRa IoT"
+initial_profile:
+  name: Alex Park
+  role: Director of Engineering
+  company: Acme IoT
+  interests: ["LoRa", "IoT"]
+turns:
+  - user: "Plan my day for LoRa IoT"
+    assertions:
+      - tool_called: build_or_revise_plan
+      - response_mentions_any: ["LoRa", "IoT", "plan", "schedule"]
+      - tool_call_count_max: { build_or_revise_plan: 1 }
+      - response_max_tokens: 300
+    rubric: |
+      Did the agent ground in local data before answering? Did it produce
+      a multi-session day plan that respects time ordering? Score 1-5.

@@ -1,0 +1,14 @@
+name: replan
+description: Replan — drop 2pm and find an edge-AI replacement.
+initial_profile:
+  interests: ["edge AI"]
+turns:
+  - user: "Plan my day for edge AI"
+    assertions:
+      - tool_called: build_or_revise_plan
+  - user: "Drop the 2pm session and find me something on agentic workflows instead"
+    assertions:
+      - response_mentions_any: ["update", "swap", "replace", "drop", "removed", "added", "schedule"]
+    rubric: |
+      Did the agent understand the multi-step request — remove the 2pm AND add
+      something new? Score 1-5 on correctness.

@@ -1,0 +1,13 @@
+name: locate_time_budget
+description: Location set + time budget query
+initial_profile:
+  interests: ["LLM", "agents"]
+turns:
+  - user: "I'm at booth 295 (AWS). I have 15 minutes before my next talk — what's worth a stop?"
+    assertions:
+      - tool_called_in_order: [set_user_location, query_nearby]
+      - response_mentions_any: ["min", "walk", "booth"]
+      - response_max_tokens: 300
+    rubric: |
+      Did the agent correctly bound the search by time? Did it actually
+      use query_nearby with a time_budget_minutes parameter?

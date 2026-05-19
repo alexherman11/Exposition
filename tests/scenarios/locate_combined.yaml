@@ -1,0 +1,15 @@
+name: locate_combined
+description: Combined location update + nearby query in one message
+initial_profile:
+  name: Alex Park
+  interests: ["edge AI", "IoT"]
+turns:
+  - user: "I'm at the IBM booth, what's near me with 20 minutes?"
+    assertions:
+      - tool_called_in_order: [set_user_location, query_nearby]
+      - response_mentions_any: ["nearby", "min", "booth"]
+      - response_max_tokens: 250
+    rubric: |
+      Did the agent correctly extract the location reference (IBM),
+      call set_user_location FIRST, then query_nearby with a time budget?
+      Were the nearby booths actually highlighted on the map (_ui)?

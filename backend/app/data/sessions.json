@@ -1,0 +1,5290 @@
+[
+  {
+    "id": "se_000",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 fireside",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Diego Aydin, Naomi Tanaka, Mei Romano from Nimbus Robotics, Mesh Foundry, SentinelOne. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "13:00",
+    "end": "13:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_041",
+      "sp_196",
+      "sp_150"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212762",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_001",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 case study",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Mei Larsen from Helix Compute. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "10:15",
+    "end": "10:55",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_200"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.212793",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_002",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Naomi Romano from Atlas Foundry. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "16:45",
+    "end": "17:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_167"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212806",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_003",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 lightning",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Jordan Khan from Foxglove Edge. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_112"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212825",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_004",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 fireside",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Vera Yoon, Aisha Webb from Mesh Quantum, Nimbus Compute. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_250",
+      "sp_141"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212849",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_005",
+    "title": "Building agentic workflows that actually ship \u2014 fireside",
+    "abstract": "Building agentic workflows that actually ship. Featuring Marcus Khan from Calyx Edge. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:30",
+    "end": "15:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_052"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212863",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_006",
+    "title": "Zero-trust for hybrid AI workloads \u2014 panel",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Marta Larsen from Nimbus Logic. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "17:00",
+    "end": "17:25",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_025"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.212884",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_007",
+    "title": "Vision models on $20 cameras \u2014 workshop",
+    "abstract": "Vision models on $20 cameras. Featuring Priya Lindqvist, Owen Costa from Veea, Iris Labs. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "16:30",
+    "end": "16:55",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_093",
+      "sp_131"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.212913",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_008",
+    "title": "Building agentic workflows that actually ship \u2014 fireside",
+    "abstract": "Building agentic workflows that actually ship. Featuring Marcus Khan from Calyx Edge. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_052"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212930",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_009",
+    "title": "LLM eval in production: what to actually measure \u2014 fireside",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Eva Reyes from Tessera Cloud. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:15",
+    "end": "09:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_070"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212945",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_010",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Sara Almeida, Layla Reyes from Crowdstrike, Foxglove AI. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_149",
+      "sp_019"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212959",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_011",
+    "title": "Multimodal agents for field operations \u2014 panel",
+    "abstract": "Multimodal agents for field operations. Featuring Hiroshi Park from AWS. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_133"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.212972",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_012",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Priya Larsen, Priya Romano, Tom Costa from Mesh Foundry, Prism Edge, Beacon Systems. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_240",
+      "sp_091",
+      "sp_114"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.212991",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_013",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 panel",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Priya Choudhury, Owen Schmidt from Weights & Biases, Calyx Compute. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_028",
+      "sp_185"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213011",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_014",
+    "title": "The asset-tracking stack in 2026 \u2014 panel",
+    "abstract": "The asset-tracking stack in 2026. Featuring Rhea Aydin from Veea. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_252"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213024",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_015",
+    "title": "RAG without regret: evaluation patterns",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Hiroshi Hadid from Echo Quantum. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "17:00",
+    "end": "17:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_038"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213033",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_016",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 lightning",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Diego Aydin, Alex Okafor, Mei Choudhury from Foxglove Cortex, Nimbus Robotics, Microsoft Azure. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-18",
+    "start": "13:15",
+    "end": "13:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_041",
+      "sp_044",
+      "sp_034"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.213044",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_017",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 workshop",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Sara Costa, Hiroshi Aydin, Anya Khan from Quanta Cortex, Solstice Systems, Helios Compute. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:45",
+    "end": "12:40",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_229",
+      "sp_037",
+      "sp_064"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213055",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_018",
+    "title": "Hardware roots of trust for IoT",
+    "abstract": "Hardware roots of trust for IoT. Featuring Tom Garcia from Aether Cloud. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "14:00",
+    "end": "14:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_014"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213065",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_019",
+    "title": "Multimodal agents for field operations \u2014 panel",
+    "abstract": "Multimodal agents for field operations. Featuring Tom Garcia, Sven Schmidt, Vera Yoon from Nimbus Compute, Halo Cloud, Helix Robotics. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "10:30",
+    "end": "11:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_086",
+      "sp_258",
+      "sp_250"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213078",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_020",
+    "title": "The asset-tracking stack in 2026 \u2014 lightning",
+    "abstract": "The asset-tracking stack in 2026. Featuring Sara Nguyen, Tom Romano, Anya Romano from NVIDIA, Beacon Logic, Google Cloud. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:40",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_181",
+      "sp_241",
+      "sp_217"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213099",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_021",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 workshop",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Marcus Okafor from Nimbus Labs. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "11:30",
+    "end": "12:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_031"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213112",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_022",
+    "title": "Multimodal agents for field operations \u2014 fireside",
+    "abstract": "Multimodal agents for field operations. Featuring Naomi Garcia from Nova Labs. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "17:45",
+    "end": "18:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_197"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213123",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_023",
+    "title": "LoRa-based IoT at industrial scale",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Mei Larsen, Marta Singh from Nimbus Edge, Helix Compute. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:10",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_200",
+      "sp_135"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213134",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_024",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 fireside",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Eva Romano from Atlas Foundry. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "16:30",
+    "end": "17:25",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_084"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213143",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_025",
+    "title": "From RPA to agents: the migration playbook \u2014 panel",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Sven Brown from Loom Cortex. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "13:30",
+    "end": "14:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_068"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213153",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_026",
+    "title": "Power optimization for hyperscale AI inference",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Marcus Rivera, Ines Larsen, Rhea Larsen from Lyra Logic, Prism Compute, Mesh Cloud. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_126",
+      "sp_053",
+      "sp_207"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213172",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_027",
+    "title": "Multimodal agents for field operations \u2014 case study",
+    "abstract": "Multimodal agents for field operations. Featuring Alex Bauer, Theo Okafor, Priya Costa from Sierra Wireless, Vanta Labs, Helios Foundry. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "09:00",
+    "end": "09:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_054",
+      "sp_203",
+      "sp_173"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213184",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_028",
+    "title": "Vision models on $20 cameras \u2014 panel",
+    "abstract": "Vision models on $20 cameras. Featuring Mei Larsen from Helix Compute. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_200"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213239",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_029",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 lightning",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Aisha Schmidt, Diego Park from Orbital Labs, Cortex Systems. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_145",
+      "sp_000"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213264",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_030",
+    "title": "From RPA to agents: the migration playbook \u2014 lightning",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Mei Aydin from Mesh Logic. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "11:00",
+    "end": "11:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_213"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213278",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_031",
+    "title": "Liquid cooling architectures for AI training clusters",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Felix Holm from Forge Labs. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_108"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213287",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_032",
+    "title": "Liquid cooling architectures for AI training clusters \u2014 lightning",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Jordan Liu from Hydra AI. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "16:00",
+    "end": "16:25",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_175"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213297",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_033",
+    "title": "Function-calling at scale: tool routing in agents \u2014 case study",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Owen Park, Diego Romano, Owen Bauer from Calyx Cortex, Orbital Robotics, Mira Compute. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "16:00",
+    "end": "16:55",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_156",
+      "sp_018",
+      "sp_171"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213318",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_034",
+    "title": "The asset-tracking stack in 2026 \u2014 case study",
+    "abstract": "The asset-tracking stack in 2026. Featuring Marcus Petrov, Anya Lindqvist, Diego Bauer from Submer, Foxglove AI, Quanta Quantum. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_198",
+      "sp_163",
+      "sp_146"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213335",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_035",
+    "title": "RAG without regret: evaluation patterns",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Felix Brown from Nova Logic. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_032"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213346",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_036",
+    "title": "Zero-trust for hybrid AI workloads",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Hiroshi Nguyen from Atlas Networks. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "09:15",
+    "end": "09:40",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_184"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213356",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_037",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 lightning",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Rhea Tanaka from Halo AI. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-19",
+    "start": "15:00",
+    "end": "15:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_199"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.213367",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_038",
+    "title": "Liquid cooling architectures for AI training clusters \u2014 workshop",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Ines Petrov from Forge Edge. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:15",
+    "end": "11:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_085"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213386",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_039",
+    "title": "Multimodal agents for field operations \u2014 panel",
+    "abstract": "Multimodal agents for field operations. Featuring Diego Petrov from Foxglove Compute. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "15:15",
+    "end": "16:10",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_157"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213408",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_040",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 workshop",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Anya Hadid, Hiroshi Bauer from Prism Cortex, Calyx Systems. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "10:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_101",
+      "sp_033"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213424",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_041",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 lightning",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Anya Costa from Helios Cortex. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:10",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_045"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213434",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_042",
+    "title": "Vision models on $20 cameras \u2014 lightning",
+    "abstract": "Vision models on $20 cameras. Featuring Sven Khan, Aisha Choudhury, Vera Lindqvist from ServiceNow, UiPath, Vanta Compute. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "17:30",
+    "end": "17:55",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_042",
+      "sp_251",
+      "sp_214"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213445",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_043",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 lightning",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Sven Khan from Helios Cortex. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "14:15",
+    "end": "15:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_166"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213455",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_044",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 panel",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Linh Nguyen from AWS. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "11:00",
+    "end": "11:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_092"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213465",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_045",
+    "title": "From RPA to agents: the migration playbook \u2014 workshop",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Aisha Choudhury from ServiceNow. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "11:00",
+    "end": "11:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_251"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213477",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_046",
+    "title": "LoRa-based IoT at industrial scale \u2014 panel",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Yusuf Brown from UiPath. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:25",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_058"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213495",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_047",
+    "title": "Vision models on $20 cameras \u2014 lightning",
+    "abstract": "Vision models on $20 cameras. Featuring Diego Park, Marcus Petrov from Orbital Labs, Quanta Quantum. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "17:55",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_000",
+      "sp_198"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213506",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_048",
+    "title": "Building agentic workflows that actually ship \u2014 lightning",
+    "abstract": "Building agentic workflows that actually ship. Featuring Rhea Holm from Pulse Labs. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "11:00",
+    "end": "11:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_100"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213516",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_049",
+    "title": "Vision models on $20 cameras",
+    "abstract": "Vision models on $20 cameras. Featuring Mei Park from Onyx AI. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_077"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213529",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_050",
+    "title": "Function-calling at scale: tool routing in agents \u2014 lightning",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Hiroshi Nguyen from Atlas Networks. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "14:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_184"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213538",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_051",
+    "title": "Liquid cooling architectures for AI training clusters",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Aisha Park from Calyx Cloud. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_076"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213548",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_052",
+    "title": "Hardware roots of trust for IoT \u2014 workshop",
+    "abstract": "Hardware roots of trust for IoT. Featuring Tom Romano from NVIDIA. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_241"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213558",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_053",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Sara Rivera from Iris Cortex. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:30",
+    "end": "15:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_083"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213569",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_054",
+    "title": "LoRa-based IoT at industrial scale",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Jordan Bauer, Layla Nguyen, Eva Bauer from Pulse Edge, Foxglove Robotics, Nimbus Labs. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:40",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_024",
+      "sp_206",
+      "sp_094"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213580",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_055",
+    "title": "The asset-tracking stack in 2026 \u2014 fireside",
+    "abstract": "The asset-tracking stack in 2026. Featuring Marcus Holm, Naomi Tanaka from Beacon Systems, SentinelOne. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "11:00",
+    "end": "11:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_012",
+      "sp_196"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213591",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_056",
+    "title": "Multimodal agents for field operations \u2014 lightning",
+    "abstract": "Multimodal agents for field operations. Featuring Naomi Larsen from Vanta Cortex. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:25",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_230"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213600",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_057",
+    "title": "Power optimization for hyperscale AI inference \u2014 case study",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Priya Khan, Sven Hadid, Felix Nguyen from Vertex AI, Actility, Calyx Foundry. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "16:45",
+    "end": "17:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_154",
+      "sp_020",
+      "sp_137"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.213611",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_058",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 workshop",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Theo Nguyen from Atlas Compute. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "10:45",
+    "end": "11:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_011"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213621",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_059",
+    "title": "The asset-tracking stack in 2026 \u2014 panel",
+    "abstract": "The asset-tracking stack in 2026. Featuring Owen Costa from Iris Labs. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "17:30",
+    "end": "18:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_131"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213633",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_060",
+    "title": "Hardware roots of trust for IoT \u2014 workshop",
+    "abstract": "Hardware roots of trust for IoT. Featuring Yusuf Brown from UiPath. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "13:45",
+    "end": "14:25",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_058"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213643",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_061",
+    "title": "Vision models on $20 cameras \u2014 panel",
+    "abstract": "Vision models on $20 cameras. Featuring Noah Garcia, Sara Aydin, Yusuf Almeida from Tessera Robotics, Iris Networks, ISARA. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "13:45",
+    "end": "14:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_132",
+      "sp_142",
+      "sp_017"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213653",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_062",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 fireside",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Yusuf Larsen from Nova Cloud. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_099"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213663",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_063",
+    "title": "LoRa-based IoT at industrial scale \u2014 case study",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Hiroshi Brown from Hailo. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_066"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213674",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_064",
+    "title": "The asset-tracking stack in 2026 \u2014 fireside",
+    "abstract": "The asset-tracking stack in 2026. Featuring Sven Khan, Yusuf Almeida, Alex Holm from Tessera Robotics, UiPath, Calyx Cloud. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "17:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_042",
+      "sp_017",
+      "sp_107"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213688",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_065",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 case study",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Hiroshi Khan, Rhea Webb, Mei Choudhury from Foxglove Cortex, Halo Compute, Loom Compute. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "16:45",
+    "end": "17:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_165",
+      "sp_179",
+      "sp_034"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213699",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_066",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 fireside",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Ines Liu from Helix Networks. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_254"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213710",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_067",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 workshop",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Ines Holm from Mesh Edge. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "13:15",
+    "end": "13:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_209"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213719",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_068",
+    "title": "LoRa-based IoT at industrial scale",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Sara Almeida, Diego Choudhury, Ines Okafor from Foxglove Edge, Foxglove AI, Vanta Robotics. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:15",
+    "end": "10:10",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_149",
+      "sp_104",
+      "sp_050"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213738",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_069",
+    "title": "Zero-trust for hybrid AI workloads \u2014 workshop",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Noah Garcia, Theo Yoon, Vera Webb from Iris Networks, Databricks, Tessera AI. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:15",
+    "end": "12:10",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_132",
+      "sp_168",
+      "sp_040"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213755",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_070",
+    "title": "The asset-tracking stack in 2026 \u2014 lightning",
+    "abstract": "The asset-tracking stack in 2026. Featuring Eva Reyes, Naomi Garcia from Nova Labs, Tessera Cloud. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "16:30",
+    "end": "16:55",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_070",
+      "sp_197"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.213774",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_071",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 case study",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Mei Park, Vera Nguyen from Salesforce, Forge Foundry. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "17:00",
+    "end": "17:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_056",
+      "sp_143"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213785",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_072",
+    "title": "Multimodal agents for field operations \u2014 case study",
+    "abstract": "Multimodal agents for field operations. Featuring Ines Holm from Mesh Edge. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:25",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_209"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213795",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_073",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 lightning",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Sven Brown from Loom Cortex. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "16:15",
+    "end": "16:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_068"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213805",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_074",
+    "title": "TinyML on Cortex-M: a maker's tour",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Rhea Webb from Halo Compute. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "10:45",
+    "end": "11:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_179"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213813",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_075",
+    "title": "Zero-trust for hybrid AI workloads \u2014 fireside",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Felix Schmidt, Linh Nguyen, Diego Almeida from AWS, Halo Labs, Atlas Compute. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:30",
+    "end": "11:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_071",
+      "sp_092",
+      "sp_228"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213827",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_076",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 lightning",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Kai Romano from Aether Cloud. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:15",
+    "end": "12:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_106"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213838",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_077",
+    "title": "Edge inference: when to compile, when to quantize \u2014 fireside",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Ines Webb, Anya Schmidt, Diego Costa from Helix Quantum, Atlas Foundry, Echo Systems. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "14:00",
+    "end": "14:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_049",
+      "sp_205",
+      "sp_087"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213853",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_078",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 case study",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Diego Larsen from Prism Networks. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "10:30",
+    "end": "11:25",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_245"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213862",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_079",
+    "title": "From RPA to agents: the migration playbook \u2014 lightning",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Diego Tanaka, Aisha Park from Calyx Cloud, ISARA. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "17:30",
+    "end": "18:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_160",
+      "sp_076"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213874",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_080",
+    "title": "LLM eval in production: what to actually measure \u2014 lightning",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Marcus Bauer from Loom Compute. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "10:15",
+    "end": "10:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_128"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213882",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_081",
+    "title": "Hardware roots of trust for IoT",
+    "abstract": "Hardware roots of trust for IoT. Featuring Vera Yoon, Aisha Choudhury from ServiceNow, Pinecone. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_079",
+      "sp_251"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213893",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_082",
+    "title": "Vision models on $20 cameras \u2014 panel",
+    "abstract": "Vision models on $20 cameras. Featuring Naomi Tanaka from SentinelOne. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "10:30",
+    "end": "10:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_196"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213924",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_083",
+    "title": "Building a Gemini-powered concierge in 48 hours",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Theo Almeida, Vera Garcia, Rhea Holm from Vertex Quantum, Actility, Pulse Labs. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "10:30",
+    "end": "10:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_005",
+      "sp_136",
+      "sp_100"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.213941",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_084",
+    "title": "Hardware roots of trust for IoT \u2014 lightning",
+    "abstract": "Hardware roots of trust for IoT. Featuring Tom Garcia from Aether Cloud. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "10:15",
+    "end": "11:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_014"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.213952",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_085",
+    "title": "Multimodal agents for field operations \u2014 fireside",
+    "abstract": "Multimodal agents for field operations. Featuring Diego Aydin, Tom Almeida from Nimbus Robotics, Snowflake. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "09:45",
+    "end": "10:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_041",
+      "sp_129"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.213965",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_086",
+    "title": "Edge inference: when to compile, when to quantize \u2014 fireside",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Priya Holm, Aisha Romano, Yusuf Hadid from Mesh Logic, Databricks, Solstice Edge. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_170",
+      "sp_158",
+      "sp_067"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.213978",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_087",
+    "title": "Multimodal agents for field operations \u2014 lightning",
+    "abstract": "Multimodal agents for field operations. Featuring Hiroshi Holm, Aisha Schmidt, Naomi Romano from Beacon Cloud, Cortex Systems, Atlas Foundry. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_097",
+      "sp_145",
+      "sp_167"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214001",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_088",
+    "title": "Building agentic workflows that actually ship \u2014 lightning",
+    "abstract": "Building agentic workflows that actually ship. Featuring Owen Park, Yusuf Wong from Databricks, Orbital Robotics. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "16:15",
+    "end": "16:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_156",
+      "sp_023"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214020",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_089",
+    "title": "RAG without regret: evaluation patterns \u2014 fireside",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Sara Larsen, Alex Reyes, Rhea Garcia from Nova Compute, Mesh Foundry, Hydra AI. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_015",
+      "sp_253",
+      "sp_089"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214035",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_090",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 panel",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Diego Park from Orbital Labs. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_000"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214047",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_091",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 case study",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Vera Yoon, Mei Choudhury from Foxglove Cortex, Pinecone. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "16:00",
+    "end": "16:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_079",
+      "sp_034"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214061",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_092",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Yusuf Lindqvist, Hiroshi Holm, Tom Costa from Beacon Cloud, Vantage Data Centers, Vertex Quantum. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "16:30",
+    "end": "17:25",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_186",
+      "sp_097",
+      "sp_187"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214072",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_093",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 panel",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Sven Brown, Rhea Tanaka, Naomi Yoon from Loom Cortex, Halo AI, Iris Cortex. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "13:00",
+    "end": "13:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_068",
+      "sp_199",
+      "sp_231"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214083",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_094",
+    "title": "Multimodal agents for field operations \u2014 lightning",
+    "abstract": "Multimodal agents for field operations. Featuring Naomi Larsen from Vanta Cortex. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "09:30",
+    "end": "10:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_230"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214095",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_095",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 fireside",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Hiroshi Park from AWS. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-18",
+    "start": "16:30",
+    "end": "17:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_133"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214105",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_096",
+    "title": "From RPA to agents: the migration playbook \u2014 fireside",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Naomi Schmidt from Foxglove Quantum. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "10:15",
+    "end": "10:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_103"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214117",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_097",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 fireside",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Hiroshi Khan from Loom Compute. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-19",
+    "start": "10:15",
+    "end": "11:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_165"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214126",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_098",
+    "title": "Modernizing legacy SCADA without breaking it",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Sven Garcia, Alex Liu, Noah Liu from Solstice Foundry, Atlas AI, Loom Edge. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-18",
+    "start": "17:00",
+    "end": "17:25",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_191",
+      "sp_113",
+      "sp_115"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214137",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_099",
+    "title": "RAG without regret: evaluation patterns \u2014 fireside",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Priya Lindqvist from Veea. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "10:30",
+    "end": "10:55",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_093"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214151",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_100",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 case study",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Diego Nguyen from Vantage Data Centers. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "14:15",
+    "end": "15:10",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_215"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214162",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_101",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 workshop",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Diego Choudhury, Marta Singh, Hiroshi Webb from Iris Networks, Vanta Robotics, Nimbus Edge. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "10:45",
+    "end": "11:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_104",
+      "sp_135",
+      "sp_216"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214173",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_102",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 panel",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Sara Almeida, Theo Yoon from Databricks, Foxglove AI. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "10:45",
+    "end": "11:25",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_149",
+      "sp_168"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214183",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_103",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 workshop",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Felix Choudhury from ISARA. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_010"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214194",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_104",
+    "title": "Post-quantum cryptography for the practical CTO",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Vera Yoon from Nimbus Compute. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:15",
+    "end": "12:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_250"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214203",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_105",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 panel",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Layla Reyes, Sara Rivera, Aisha Park from Calyx Cloud, Vanta Quantum, Atlas Robotics. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_227",
+      "sp_006",
+      "sp_076"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214215",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_106",
+    "title": "Function-calling at scale: tool routing in agents \u2014 fireside",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Tom Costa, Kai Park, Mei Aydin from Mesh Logic, Iris Quantum, Mesh Foundry. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "11:15",
+    "end": "12:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_114",
+      "sp_130",
+      "sp_213"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214227",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_107",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 workshop",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Alex Holm, Alex Hadid from Iris AI, Loom Compute. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_062",
+      "sp_223"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214242",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_108",
+    "title": "From RPA to agents: the migration playbook \u2014 panel",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Mei Aydin from Cortex Systems. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "09:45",
+    "end": "10:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_096"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214251",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_109",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 panel",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Aisha Park, Jordan Liu, Marcus Yoon from Calyx Cloud, Cortex Systems, Hydra AI. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-19",
+    "start": "13:45",
+    "end": "14:25",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_076",
+      "sp_175",
+      "sp_222"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214275",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_110",
+    "title": "LLM eval in production: what to actually measure",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Sven Khan from Helios Cortex. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_166"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214291",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_111",
+    "title": "RAG without regret: evaluation patterns \u2014 fireside",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Sara Almeida from Foxglove AI. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "15:15",
+    "end": "15:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_149"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214306",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_112",
+    "title": "Hardware roots of trust for IoT \u2014 lightning",
+    "abstract": "Hardware roots of trust for IoT. Featuring Diego Romano, Marcus Aydin, Naomi Schmidt from Foxglove Quantum, Calyx Edge, Mira Compute. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "16:45",
+    "end": "17:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_018",
+      "sp_147",
+      "sp_103"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214317",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_113",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Diego Almeida, Alex Reyes from Nova Compute, Halo Labs. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "18:10",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_228",
+      "sp_253"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214328",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_114",
+    "title": "Vision models on $20 cameras \u2014 panel",
+    "abstract": "Vision models on $20 cameras. Featuring Jordan Rivera from Iris Systems. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_248"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214339",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_115",
+    "title": "From RPA to agents: the migration playbook \u2014 lightning",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Marcus Okafor from Nimbus Labs. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_031"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214347",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_116",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 workshop",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Naomi Lindqvist, Anya Almeida from Calyx Cloud, Forge Logic. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "15:15",
+    "end": "16:10",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_046",
+      "sp_235"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214357",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_117",
+    "title": "Zero-trust for hybrid AI workloads \u2014 panel",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Jordan Liu, Marta Costa from Beacon Systems, Hydra AI. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "10:15",
+    "end": "10:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_175",
+      "sp_201"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214366",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_118",
+    "title": "Function-calling at scale: tool routing in agents",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Sven Brown, Sven Yoon, Ines Okafor from Loom Cortex, Loom AI, Foxglove Edge. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "13:00",
+    "end": "13:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_068",
+      "sp_016",
+      "sp_050"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214379",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_119",
+    "title": "Edge inference: when to compile, when to quantize \u2014 fireside",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Vera Okafor, Tom Holm, Tom Garcia from Prism Cortex, Mesh Cloud, Aether Cloud. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "14:30",
+    "end": "15:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_183",
+      "sp_193",
+      "sp_014"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214390",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_120",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Layla Petrov, Hiroshi Costa, Alex Tanaka from Forge Logic, Loom Systems, Foxglove Networks. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_074",
+      "sp_178",
+      "sp_072"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214403",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_121",
+    "title": "Building agentic workflows that actually ship \u2014 panel",
+    "abstract": "Building agentic workflows that actually ship. Featuring Layla Schmidt, Noah Garcia, Aisha Costa from Iris Networks, Ericsson, PQShield. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:15",
+    "end": "14:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_172",
+      "sp_132",
+      "sp_029"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214413",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_122",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 workshop",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Linh Tanaka, Yusuf Liu, Sara Aydin from Halo Logic, Photon Labs, ISARA. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "13:15",
+    "end": "13:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_174",
+      "sp_009",
+      "sp_142"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214425",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_123",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 lightning",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Owen Park, Hiroshi Nguyen from Atlas Networks, Orbital Robotics. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "15:15",
+    "end": "15:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_156",
+      "sp_184"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214435",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_124",
+    "title": "From RPA to agents: the migration playbook \u2014 fireside",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Tom Petrov from Atlas Networks. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "10:45",
+    "end": "11:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_159"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214443",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_125",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Anya Khan from Mesh Labs. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:45",
+    "end": "12:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_021"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214455",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_126",
+    "title": "LLM eval in production: what to actually measure \u2014 panel",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Alex Reyes, Noah Almeida, Sara Almeida from Nova Compute, Foxglove AI, Lyra Cloud. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_253",
+      "sp_162",
+      "sp_149"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214466",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_127",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 panel",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Anya Reyes from Nimbus Robotics. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "17:00",
+    "end": "17:55",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_139"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214476",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_128",
+    "title": "Hardware roots of trust for IoT \u2014 fireside",
+    "abstract": "Hardware roots of trust for IoT. Featuring Aisha Schmidt, Theo Okafor from Sierra Wireless, Cortex Systems. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_145",
+      "sp_203"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214487",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_129",
+    "title": "LoRa-based IoT at industrial scale \u2014 workshop",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Tom Holm from Cortex Edge. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "16:15",
+    "end": "16:55",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_057"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214498",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_130",
+    "title": "Function-calling at scale: tool routing in agents \u2014 panel",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Priya Romano from Beacon Systems. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "17:45",
+    "end": "18:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_091"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214508",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_131",
+    "title": "LLM eval in production: what to actually measure \u2014 workshop",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Sara Almeida, Sara Costa from Foxglove AI, Helios Compute. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_149",
+      "sp_229"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214518",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_132",
+    "title": "Function-calling at scale: tool routing in agents \u2014 lightning",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Alex Yoon from Mira Edge. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "16:45",
+    "end": "17:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_051"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214529",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_133",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Rhea Webb from Halo Compute. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:15",
+    "end": "11:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_179"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214540",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_134",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Tom Holm, Anya Hadid from Mesh Cloud, Calyx Systems. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "17:00",
+    "end": "17:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_193",
+      "sp_101"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214551",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_135",
+    "title": "Hardware roots of trust for IoT \u2014 lightning",
+    "abstract": "Hardware roots of trust for IoT. Featuring Marcus Choudhury from Foxglove Robotics. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_249"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214561",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_136",
+    "title": "From RPA to agents: the migration playbook \u2014 panel",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Sven Garcia, Kai Park from Iris Quantum, Atlas AI. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "13:15",
+    "end": "14:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_191",
+      "sp_130"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214570",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_137",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Felix Wong, Owen Yoon, Marcus Bauer from Foxglove Edge, Quanta Robotics, Iris Compute. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "13:30",
+    "end": "14:10",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_102",
+      "sp_176",
+      "sp_110"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214592",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_138",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 fireside",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Yusuf Larsen from Nova Cloud. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "16:00",
+    "end": "16:25",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_099"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214604",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_139",
+    "title": "Edge inference: when to compile, when to quantize",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Owen Khan, Diego Tanaka, Priya Bauer from Schneider Electric, ISARA, Photon Edge. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "10:25",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_148",
+      "sp_160",
+      "sp_121"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214620",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_140",
+    "title": "LLM eval in production: what to actually measure \u2014 workshop",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Hiroshi Bauer from Vanta Cloud. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:45",
+    "end": "12:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_161"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214630",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_141",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 fireside",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Owen Schmidt, Aisha Romano from Calyx Compute, Solstice Edge. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "11:30",
+    "end": "12:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_185",
+      "sp_158"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214641",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_142",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Tom Holm, Anya Schmidt, Yusuf Hadid from Mesh Logic, Mesh Cloud, Atlas Foundry. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "11:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_193",
+      "sp_205",
+      "sp_067"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214654",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_143",
+    "title": "Vision models on $20 cameras \u2014 panel",
+    "abstract": "Vision models on $20 cameras. Featuring Layla Nguyen, Kai Singh, Aisha Romano from Foxglove Quantum, Pulse Edge, Solstice Edge. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "15:15",
+    "end": "15:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_206",
+      "sp_075",
+      "sp_158"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214663",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_144",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 panel",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Diego Aydin from Nimbus Robotics. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "16:00",
+    "end": "16:55",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_041"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214673",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_145",
+    "title": "LLM eval in production: what to actually measure \u2014 fireside",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Sven Nguyen from Lyra Foundry. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "09:15",
+    "end": "09:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_236"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214683",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_146",
+    "title": "Power optimization for hyperscale AI inference \u2014 workshop",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Aisha Aydin from Aether Robotics. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "17:45",
+    "end": "18:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_002"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214693",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_147",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 case study",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Priya Liu, Tom Holm from Cortex Edge, Helix Robotics. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-19",
+    "start": "16:00",
+    "end": "16:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_208",
+      "sp_057"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214703",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_148",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 lightning",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Aisha Webb from Mesh Quantum. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "10:30",
+    "end": "10:55",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_141"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214722",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_149",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 panel",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Yusuf Hadid, Yusuf Larsen, Rhea Garcia from Mesh Logic, Mesh Foundry, Nova Cloud. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "17:45",
+    "end": "18:10",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_067",
+      "sp_099",
+      "sp_089"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214738",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_150",
+    "title": "Function-calling at scale: tool routing in agents",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Anya Lindqvist from Submer. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "17:30",
+    "end": "18:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_163"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214748",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_151",
+    "title": "Power optimization for hyperscale AI inference",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Tom Garcia, Theo Costa from Lyra Logic, Halo Cloud. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:25",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_086",
+      "sp_239"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214757",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_152",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 panel",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Theo Okafor from Sierra Wireless. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "11:55",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_203"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214766",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_153",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Tom Larsen from Mira AI. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "11:30",
+    "end": "12:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_211"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214776",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_154",
+    "title": "From RPA to agents: the migration playbook \u2014 panel",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Owen Costa, Layla Petrov, Tom Larsen from Mira AI, Forge Logic, Iris Labs. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_131",
+      "sp_074",
+      "sp_211"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.214786",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_155",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 workshop",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Linh Reyes, Sara Bauer, Owen Tanaka from Halo Logic, Prism Edge, Halo Foundry. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_111",
+      "sp_210",
+      "sp_238"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214797",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_156",
+    "title": "The asset-tracking stack in 2026 \u2014 workshop",
+    "abstract": "The asset-tracking stack in 2026. Featuring Marcus Aydin from Calyx Edge. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_147"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.214805",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_157",
+    "title": "LoRa-based IoT at industrial scale \u2014 lightning",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Anya Reyes from Nimbus Robotics. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "17:30",
+    "end": "18:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_139"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214816",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_158",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 fireside",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Tom Garcia from Halo Cloud. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "15:15",
+    "end": "15:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_086"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214824",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_159",
+    "title": "Power optimization for hyperscale AI inference \u2014 panel",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Tom Khan, Aisha Costa from Halo Cortex, PQShield. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "09:15",
+    "end": "10:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_081",
+      "sp_029"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214838",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_160",
+    "title": "Post-quantum cryptography for the practical CTO",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Layla Petrov from Forge Logic. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "15:00",
+    "end": "15:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_074"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214849",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_161",
+    "title": "Liquid cooling architectures for AI training clusters",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Naomi Petrov from Iris Systems. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_177"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214860",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_162",
+    "title": "LoRa-based IoT at industrial scale \u2014 fireside",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Linh Tanaka from Halo Logic. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "11:30",
+    "end": "11:55",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_174"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.214868",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_163",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 workshop",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Diego Nguyen, Felix Nguyen, Sven Schmidt from Vantage Data Centers, Helix Robotics, Calyx Foundry. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_215",
+      "sp_137",
+      "sp_258"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.214878",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_164",
+    "title": "Power optimization for hyperscale AI inference \u2014 workshop",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Aisha Brown, Diego Tanaka, Theo Okafor from Loom AI, Sierra Wireless, ISARA. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "18:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_116",
+      "sp_160",
+      "sp_203"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.214887",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_165",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 panel",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Hiroshi Brown, Anya Nguyen, Jordan Rivera from Hailo, Halo AI, Iris Systems. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "09:15",
+    "end": "09:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_066",
+      "sp_088",
+      "sp_248"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.214920",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_166",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 lightning",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Marcus Rivera from Calyx Compute. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-18",
+    "start": "16:00",
+    "end": "16:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_123"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.214940",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_167",
+    "title": "Function-calling at scale: tool routing in agents \u2014 fireside",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Tom Romano, Felix Liu from NVIDIA, Cortex Systems. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:45",
+    "end": "10:10",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_241",
+      "sp_073"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215003",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_168",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 case study",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Owen Rivera, Linh Romano from Sierra Wireless, Halo Compute. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_195",
+      "sp_225"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215018",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_169",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 lightning",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Marta Costa, Anya Schmidt, Anya Garcia from Helix Robotics, Beacon Systems, Atlas Foundry. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:15",
+    "end": "14:55",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_201",
+      "sp_205",
+      "sp_004"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215035",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_170",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Sara Brown from Aether Cloud. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "15:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_013"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215049",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_171",
+    "title": "From RPA to agents: the migration playbook \u2014 workshop",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Layla Lindqvist, Kai Romano from Loom Robotics, Aether Cloud. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "11:00",
+    "end": "11:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_105",
+      "sp_106"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215060",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_172",
+    "title": "From RPA to agents: the migration playbook \u2014 case study",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Hiroshi Garcia from Nimbus Compute. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "09:45",
+    "end": "10:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_065"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215070",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_173",
+    "title": "Building a Gemini-powered concierge in 48 hours",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Kai Khan, Priya Holm, Sven Aydin from Prism Compute, Nimbus AI, Databricks. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:55",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_082",
+      "sp_170",
+      "sp_061"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215090",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_174",
+    "title": "Power optimization for hyperscale AI inference \u2014 lightning",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Marcus Yoon, Mei Liu, Diego Costa from Weights & Biases, Helix Quantum, Cortex Systems. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_222",
+      "sp_048",
+      "sp_087"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215103",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_175",
+    "title": "The asset-tracking stack in 2026 \u2014 case study",
+    "abstract": "The asset-tracking stack in 2026. Featuring Diego Choudhury, Sven Aydin from Nimbus AI, Vanta Robotics. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "11:15",
+    "end": "11:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_104",
+      "sp_061"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.215114",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_176",
+    "title": "Liquid cooling architectures for AI training clusters \u2014 panel",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Diego Khan, Alex Holm, Aisha Park from Mira Edge, Iris AI, Calyx Cloud. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_027",
+      "sp_062",
+      "sp_076"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215127",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_177",
+    "title": "Zero-trust for hybrid AI workloads \u2014 lightning",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Mei Lindqvist from Nova Cloud. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "14:00",
+    "end": "14:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_095"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215140",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_178",
+    "title": "From RPA to agents: the migration playbook \u2014 panel",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Naomi Schmidt, Diego Petrov, Rhea Larsen from Foxglove Quantum, Mira Logic, Mesh Cloud. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "09:15",
+    "end": "10:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_103",
+      "sp_078",
+      "sp_207"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215156",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_179",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Kai Park from Iris Quantum. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "09:30",
+    "end": "10:10",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_130"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215170",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_180",
+    "title": "The asset-tracking stack in 2026 \u2014 lightning",
+    "abstract": "The asset-tracking stack in 2026. Featuring Kai Bauer from AWS. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_144"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.215182",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_181",
+    "title": "Hardware roots of trust for IoT",
+    "abstract": "Hardware roots of trust for IoT. Featuring Owen Costa, Tom Garcia from Aether Cloud, Iris Labs. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "09:45",
+    "end": "10:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_131",
+      "sp_014"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215206",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_182",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 case study",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Sven Brown from Loom Cortex. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "15:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_068"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215216",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_183",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 lightning",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Priya Liu, Alex Brown, Hiroshi Hadid from Vanta AI, Actility, Helix Robotics. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_208",
+      "sp_152",
+      "sp_119"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215239",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_184",
+    "title": "From RPA to agents: the migration playbook \u2014 case study",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Noah Park, Priya Lindqvist from Veea, Pulse Labs. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "10:00",
+    "end": "10:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_080",
+      "sp_093"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215252",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_185",
+    "title": "Multimodal agents for field operations \u2014 panel",
+    "abstract": "Multimodal agents for field operations. Featuring Linh Romano from Halo Compute. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:40",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_225"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215261",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_186",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 panel",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Tom Costa, Naomi Schmidt, Diego Petrov from Foxglove Quantum, Vertex Quantum, Mira Logic. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "10:45",
+    "end": "11:25",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_187",
+      "sp_103",
+      "sp_078"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215270",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_187",
+    "title": "Power optimization for hyperscale AI inference \u2014 case study",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Yusuf Almeida from Tessera Robotics. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "17:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_017"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215279",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_188",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 case study",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Owen Garcia from Together AI. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "13:15",
+    "end": "13:55",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_182"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215289",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_189",
+    "title": "Zero-trust for hybrid AI workloads \u2014 case study",
+    "abstract": "Zero-trust for hybrid AI workloads. Featuring Anya Nguyen, Diego Khan from Mira Edge, Halo AI. Topics include zero trust, AI security.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "14:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_088",
+      "sp_027"
+    ],
+    "tags": [
+      "zero trust",
+      "AI security"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215303",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_190",
+    "title": "LLM eval in production: what to actually measure \u2014 fireside",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Tom Holm from Cortex Edge. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:10",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_057"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215324",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_191",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 lightning",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Hiroshi Hadid from Vanta AI. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_119"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215336",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_192",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 workshop",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Tom Holm, Felix Choudhury from Mesh Cloud, ISARA. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:00",
+    "end": "11:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_193",
+      "sp_010"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215348",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_193",
+    "title": "Power optimization for hyperscale AI inference \u2014 fireside",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Eva Bauer from Nimbus Labs. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "18:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_094"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215358",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_194",
+    "title": "LoRa-based IoT at industrial scale \u2014 fireside",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Diego Bauer from Foxglove AI. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "15:10",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_146"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215375",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_195",
+    "title": "LLM eval in production: what to actually measure \u2014 fireside",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Sven Brown from Loom Cortex. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_068"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215385",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_196",
+    "title": "Modernizing legacy SCADA without breaking it \u2014 workshop",
+    "abstract": "Modernizing legacy SCADA without breaking it. Featuring Owen Tanaka, Sara Bauer from Halo Logic, Prism Edge. Topics include SCADA, industrial.",
+    "track": "Digital Transformation",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:10",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_238",
+      "sp_210"
+    ],
+    "tags": [
+      "SCADA",
+      "industrial"
+    ],
+    "microsite": "digitaltransformation-week.com",
+    "freshness": "2026-05-19T01:54:26.215394",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_197",
+    "title": "The asset-tracking stack in 2026 \u2014 fireside",
+    "abstract": "The asset-tracking stack in 2026. Featuring Anya Costa from Helios Cortex. Topics include asset tracking, fleet.",
+    "track": "IoT Tech",
+    "day": "2026-05-18",
+    "start": "11:15",
+    "end": "11:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_045"
+    ],
+    "tags": [
+      "asset tracking",
+      "fleet"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.215402",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_198",
+    "title": "Edge inference: when to compile, when to quantize \u2014 workshop",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Linh Romano from Halo Compute. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "16:15",
+    "end": "17:10",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_225"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215415",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_199",
+    "title": "From RPA to agents: the migration playbook \u2014 workshop",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Noah Liu from Loom Edge. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "17:55",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_115"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215427",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_200",
+    "title": "Vision models on $20 cameras \u2014 workshop",
+    "abstract": "Vision models on $20 cameras. Featuring Priya Lindqvist from Veea. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "13:45",
+    "end": "14:40",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_093"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215439",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_201",
+    "title": "RAG without regret: evaluation patterns \u2014 case study",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Yusuf Lindqvist from Vantage Data Centers. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:15",
+    "end": "09:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_186"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215456",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_202",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 case study",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Ines Larsen from Cortex Logic. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:10",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_109"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215470",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_203",
+    "title": "LLM eval in production: what to actually measure \u2014 case study",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Marcus Khan, Aisha Webb from Mesh Quantum, Calyx Edge. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "16:45",
+    "end": "17:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_052",
+      "sp_141"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215480",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_204",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 lightning",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Hiroshi Holm, Ines Tanaka from Strato AI, Beacon Cloud. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_097",
+      "sp_043"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215490",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_205",
+    "title": "Cooling 50kW racks without a chiller plant",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Rhea Holm from Pulse Labs. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "09:30",
+    "end": "09:55",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_100"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215500",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_206",
+    "title": "Function-calling at scale: tool routing in agents \u2014 case study",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Anya Almeida from Pulse Foundry. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:45",
+    "end": "15:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_069"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215509",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_207",
+    "title": "Power optimization for hyperscale AI inference \u2014 fireside",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Vera Yoon, Tom Romano, Alex Singh from NVIDIA, Nimbus Compute, Prism Robotics. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "16:15",
+    "end": "16:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_250",
+      "sp_241",
+      "sp_243"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215522",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_208",
+    "title": "LLM eval in production: what to actually measure \u2014 lightning",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Naomi Yoon from Iris Cortex. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "15:00",
+    "end": "15:55",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_231"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215532",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_209",
+    "title": "Liquid cooling architectures for AI training clusters \u2014 case study",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Linh Webb, Naomi Tanaka, Anya Hadid from Prism Labs, Calyx Systems, SentinelOne. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:25",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_204",
+      "sp_196",
+      "sp_101"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215550",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_210",
+    "title": "Building agentic workflows that actually ship \u2014 fireside",
+    "abstract": "Building agentic workflows that actually ship. Featuring Alex Khan from Loom Systems. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "11:45",
+    "end": "12:25",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_244"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215564",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_211",
+    "title": "Building agentic workflows that actually ship \u2014 panel",
+    "abstract": "Building agentic workflows that actually ship. Featuring Diego Romano from Mira Compute. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:00",
+    "end": "14:40",
+    "room": "Keynote Hall A",
+    "speaker_ids": [
+      "sp_018"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215574",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_212",
+    "title": "LoRa-based IoT at industrial scale \u2014 panel",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Marcus Rivera from Lyra Logic. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "15:45",
+    "end": "16:10",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_126"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215589",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_213",
+    "title": "Spectrum strategy for private 5G + LoRa coexistence \u2014 fireside",
+    "abstract": "Spectrum strategy for private 5G + LoRa coexistence. Featuring Felix Choudhury from ISARA. Topics include 5G, LoRa, spectrum.",
+    "track": "IoT Tech",
+    "day": "2026-05-19",
+    "start": "14:30",
+    "end": "14:55",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_010"
+    ],
+    "tags": [
+      "5G",
+      "LoRa",
+      "spectrum"
+    ],
+    "microsite": "iottechexpo.com",
+    "freshness": "2026-05-19T01:54:26.215605",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_214",
+    "title": "TinyML on Cortex-M: a maker's tour \u2014 workshop",
+    "abstract": "TinyML on Cortex-M: a maker's tour. Featuring Naomi Yoon, Sara Rivera from Iris Cortex. Topics include TinyML, Cortex-M.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:25",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_231",
+      "sp_083"
+    ],
+    "tags": [
+      "TinyML",
+      "Cortex-M"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215617",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_215",
+    "title": "LoRa-based IoT at industrial scale \u2014 case study",
+    "abstract": "LoRa-based IoT at industrial scale. Featuring Aisha Liu from Tessera Systems. Topics include LoRa, IoT, industrial.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "17:45",
+    "end": "18:25",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_246"
+    ],
+    "tags": [
+      "LoRa",
+      "IoT",
+      "industrial"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215629",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_216",
+    "title": "Edge inference: when to compile, when to quantize",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Marcus Okafor from Nimbus Labs. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_031"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215637",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_217",
+    "title": "Vision models on $20 cameras \u2014 workshop",
+    "abstract": "Vision models on $20 cameras. Featuring Aisha Schmidt, Priya Larsen, Kai Khan from Prism Compute, Prism Edge, Cortex Systems. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "09:45",
+    "end": "10:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_145",
+      "sp_240",
+      "sp_082"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215648",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_218",
+    "title": "Vision models on $20 cameras \u2014 lightning",
+    "abstract": "Vision models on $20 cameras. Featuring Jordan Romano from Mesh Labs. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-18",
+    "start": "15:15",
+    "end": "16:10",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_001"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215658",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_219",
+    "title": "Liquid cooling architectures for AI training clusters \u2014 panel",
+    "abstract": "Liquid cooling architectures for AI training clusters. Featuring Anya Reyes, Mei Holm from Helium, Nimbus Robotics. Topics include liquid cooling, HPC.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "13:15",
+    "end": "13:55",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_139",
+      "sp_237"
+    ],
+    "tags": [
+      "liquid cooling",
+      "HPC"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215668",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_220",
+    "title": "Power optimization for hyperscale AI inference \u2014 panel",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Diego Romano from Mira Compute. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "17:30",
+    "end": "18:25",
+    "room": "Theatre C",
+    "speaker_ids": [
+      "sp_018"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215677",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_221",
+    "title": "LLM eval in production: what to actually measure",
+    "abstract": "LLM eval in production: what to actually measure. Featuring Tom Garcia, Aisha Schmidt from Halo Cloud, Cortex Systems. Topics include LLM, evals.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "14:15",
+    "end": "15:10",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_086",
+      "sp_145"
+    ],
+    "tags": [
+      "LLM",
+      "evals"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215694",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_222",
+    "title": "Building agentic workflows that actually ship",
+    "abstract": "Building agentic workflows that actually ship. Featuring Mei Park, Tom Romano, Noah Park from NVIDIA, Forge Foundry, Pulse Labs. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:00",
+    "end": "09:25",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_056",
+      "sp_241",
+      "sp_080"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215707",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_223",
+    "title": "Function-calling at scale: tool routing in agents",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Layla Nguyen from Pulse Edge. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "17:15",
+    "end": "17:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_206"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215724",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_224",
+    "title": "Post-quantum cryptography for the practical CTO \u2014 fireside",
+    "abstract": "Post-quantum cryptography for the practical CTO. Featuring Diego Petrov, Kai Yoon from Mira Logic, Pulse Robotics. Topics include post-quantum, cryptography, cto.",
+    "track": "Cyber Security",
+    "day": "2026-05-18",
+    "start": "14:30",
+    "end": "14:55",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_078",
+      "sp_164"
+    ],
+    "tags": [
+      "post-quantum",
+      "cryptography",
+      "cto"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215735",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_225",
+    "title": "Building agentic workflows that actually ship \u2014 lightning",
+    "abstract": "Building agentic workflows that actually ship. Featuring Diego Romano from Mira Compute. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "17:00",
+    "end": "17:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_018"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215745",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_226",
+    "title": "Multimodal agents for field operations",
+    "abstract": "Multimodal agents for field operations. Featuring Diego Costa, Anya Hadid from Helix Quantum, Calyx Systems. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-19",
+    "start": "10:00",
+    "end": "10:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_087",
+      "sp_101"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215755",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_227",
+    "title": "Building agentic workflows that actually ship \u2014 lightning",
+    "abstract": "Building agentic workflows that actually ship. Featuring Alex Yoon from Mira Edge. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:15",
+    "end": "15:10",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_051"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215766",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_228",
+    "title": "Hardware roots of trust for IoT \u2014 case study",
+    "abstract": "Hardware roots of trust for IoT. Featuring Anya Romano from Beacon Logic. Topics include IoT, RoT, HSM.",
+    "track": "Cyber Security",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_217"
+    ],
+    "tags": [
+      "IoT",
+      "RoT",
+      "HSM"
+    ],
+    "microsite": "cybersecurityexpo.com",
+    "freshness": "2026-05-19T01:54:26.215776",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_229",
+    "title": "Power optimization for hyperscale AI inference \u2014 panel",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Diego Petrov from Foxglove Compute. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "14:00",
+    "end": "14:25",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_157"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215786",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_230",
+    "title": "RAG without regret: evaluation patterns",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Rhea Holm, Diego Almeida, Rhea Webb from Halo Labs, Mesh Cloud, Pulse Labs. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "09:45",
+    "end": "10:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_100",
+      "sp_228",
+      "sp_221"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215798",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_231",
+    "title": "Building agentic workflows that actually ship \u2014 panel",
+    "abstract": "Building agentic workflows that actually ship. Featuring Marta Khan, Sven Khan, Sven Brown from Loom Cortex, UiPath, Halo Compute. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "10:30",
+    "end": "11:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_194",
+      "sp_042",
+      "sp_068"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215810",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_232",
+    "title": "Building a Gemini-powered concierge in 48 hours",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Diego Romano from Mira Compute. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "09:30",
+    "end": "10:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_018"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215818",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_233",
+    "title": "Edge inference: when to compile, when to quantize \u2014 lightning",
+    "abstract": "Edge inference: when to compile, when to quantize. Featuring Sven Schmidt from Helix Robotics. Topics include edge AI, quantization, compilers.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "10:30",
+    "end": "11:25",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_258"
+    ],
+    "tags": [
+      "edge AI",
+      "quantization",
+      "compilers"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215831",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_234",
+    "title": "Power optimization for hyperscale AI inference",
+    "abstract": "Power optimization for hyperscale AI inference. Featuring Noah Park, Ines Holm, Owen Bauer from Vanta Logic, Calyx Cortex, Mesh Edge. Topics include power, inference.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "09:00",
+    "end": "09:25",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_134",
+      "sp_209",
+      "sp_171"
+    ],
+    "tags": [
+      "power",
+      "inference"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215842",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_235",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 fireside",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Kai Khan, Mei Park, Hiroshi Bauer from Prism Compute, Onyx AI, Vanta Cloud. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-19",
+    "start": "09:45",
+    "end": "10:40",
+    "room": "Theatre B",
+    "speaker_ids": [
+      "sp_082",
+      "sp_077",
+      "sp_161"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215853",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_236",
+    "title": "Building a Gemini-powered concierge in 48 hours \u2014 lightning",
+    "abstract": "Building a Gemini-powered concierge in 48 hours. Featuring Alex Bauer from Vanta Labs. Topics include Gemini, agents, hackathon.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "17:45",
+    "end": "18:10",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_054"
+    ],
+    "tags": [
+      "Gemini",
+      "agents",
+      "hackathon"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215862",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_237",
+    "title": "From RPA to agents: the migration playbook",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Felix Brown from Nova Logic. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "15:15",
+    "end": "15:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_032"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.215873",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_238",
+    "title": "Vision models on $20 cameras \u2014 case study",
+    "abstract": "Vision models on $20 cameras. Featuring Yusuf Larsen, Layla Lindqvist from Loom Robotics, Nova Cloud. Topics include vision, cheap hardware.",
+    "track": "Edge Computing",
+    "day": "2026-05-19",
+    "start": "16:15",
+    "end": "17:10",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_099",
+      "sp_105"
+    ],
+    "tags": [
+      "vision",
+      "cheap hardware"
+    ],
+    "microsite": "edgecomputing-expo.com",
+    "freshness": "2026-05-19T01:54:26.215884",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_239",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 fireside",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Aisha Romano, Tom Khan, Ines Larsen from Halo Cortex, Prism Compute, Solstice Edge. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "15:00",
+    "end": "15:40",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_158",
+      "sp_081",
+      "sp_053"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.215914",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_240",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Marcus Rivera from Lyra Logic. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "11:15",
+    "end": "12:10",
+    "room": "Demo Stage",
+    "speaker_ids": [
+      "sp_126"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.215941",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_241",
+    "title": "Multimodal agents for field operations \u2014 fireside",
+    "abstract": "Multimodal agents for field operations. Featuring Vera Liu from Cognex. Topics include multimodal, field ops.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "15:45",
+    "end": "16:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_259"
+    ],
+    "tags": [
+      "multimodal",
+      "field ops"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.216200",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_242",
+    "title": "RAG without regret: evaluation patterns",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Hiroshi Hadid, Layla Lindqvist from Echo Quantum, Loom Robotics. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "14:45",
+    "end": "15:40",
+    "room": "AI Track Stage",
+    "speaker_ids": [
+      "sp_038",
+      "sp_105"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.216247",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_243",
+    "title": "Cooling 50kW racks without a chiller plant \u2014 lightning",
+    "abstract": "Cooling 50kW racks without a chiller plant. Featuring Diego Larsen, Jordan Holm, Rhea Garcia from Halo Cortex, Mesh Foundry, Prism Networks. Topics include immersion cooling, sustainability.",
+    "track": "Data Centre",
+    "day": "2026-05-18",
+    "start": "11:45",
+    "end": "12:10",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_245",
+      "sp_047",
+      "sp_089"
+    ],
+    "tags": [
+      "immersion cooling",
+      "sustainability"
+    ],
+    "microsite": "datacentre-expo.com",
+    "freshness": "2026-05-19T01:54:26.216275",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_244",
+    "title": "RAG without regret: evaluation patterns \u2014 fireside",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Diego Tanaka, Anya Khan from Solstice Systems, ISARA. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "15:15",
+    "end": "15:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_160",
+      "sp_064"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.216293",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_245",
+    "title": "From RPA to agents: the migration playbook \u2014 lightning",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Aisha Costa from PQShield. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "10:45",
+    "end": "11:40",
+    "room": "Edge Stage",
+    "speaker_ids": [
+      "sp_029"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.216306",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_246",
+    "title": "Function-calling at scale: tool routing in agents \u2014 lightning",
+    "abstract": "Function-calling at scale: tool routing in agents. Featuring Naomi Tanaka, Naomi Garcia from Nova Labs, SentinelOne. Topics include function calling, agents.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "15:00",
+    "end": "15:40",
+    "room": "Workshop Room 2",
+    "speaker_ids": [
+      "sp_196",
+      "sp_197"
+    ],
+    "tags": [
+      "function calling",
+      "agents"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.216320",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_247",
+    "title": "Building agentic workflows that actually ship \u2014 lightning",
+    "abstract": "Building agentic workflows that actually ship. Featuring Vera Yoon, Jordan Rivera from Nimbus Compute, Iris Systems. Topics include agents, LLM, production.",
+    "track": "AI & Big Data",
+    "day": "2026-05-18",
+    "start": "15:30",
+    "end": "15:55",
+    "room": "Workshop Room 1",
+    "speaker_ids": [
+      "sp_250",
+      "sp_248"
+    ],
+    "tags": [
+      "agents",
+      "LLM",
+      "production"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.216336",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_248",
+    "title": "RAG without regret: evaluation patterns \u2014 lightning",
+    "abstract": "RAG without regret: evaluation patterns. Featuring Eva Bauer, Diego Choudhury from Vanta Robotics, Nimbus Labs. Topics include RAG, evals, LLM.",
+    "track": "AI & Big Data",
+    "day": "2026-05-19",
+    "start": "13:00",
+    "end": "13:40",
+    "room": "Theatre A",
+    "speaker_ids": [
+      "sp_094",
+      "sp_104"
+    ],
+    "tags": [
+      "RAG",
+      "evals",
+      "LLM"
+    ],
+    "microsite": "ai-expo.net",
+    "freshness": "2026-05-19T01:54:26.216348",
+    "is_synthetic": true
+  },
+  {
+    "id": "se_249",
+    "title": "From RPA to agents: the migration playbook",
+    "abstract": "From RPA to agents: the migration playbook. Featuring Noah Liu, Naomi Yoon from Loom Edge, Iris Cortex. Topics include RPA, agents.",
+    "track": "Intelligent Automation",
+    "day": "2026-05-18",
+    "start": "09:00",
+    "end": "09:55",
+    "room": "Hall B Stage",
+    "speaker_ids": [
+      "sp_115",
+      "sp_231"
+    ],
+    "tags": [
+      "RPA",
+      "agents"
+    ],
+    "microsite": "iotaexpo.net",
+    "freshness": "2026-05-19T01:54:26.216361",
+    "is_synthetic": true
+  }
+]

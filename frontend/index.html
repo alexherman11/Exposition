@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0a0e1f" />
+  <title>Expo Concierge — TechEx NA 2026</title>
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body>
+  <div id="app">
+
+    <!-- ───── Top bar ───── -->
+    <header class="topbar">
+      <div class="brand">
+        <div class="dot"></div>
+        <div>
+          <div class="brand-name">Expo Concierge</div>
+          <div class="brand-sub">TechEx NA 2026 · San Jose · May 18–19</div>
+        </div>
+      </div>
+      <nav class="view-switch">
+        <button data-view="chat" class="active">Chat</button>
+        <button data-view="map">Map</button>
+        <button data-view="schedule">Schedule</button>
+      </nav>
+      <div class="user-pill">
+        <div class="avatar">A</div>
+        <div class="meta">
+          <div class="name">Alex Park</div>
+          <div class="interests">LoRa IoT · edge compute · cooling <span class="edit">✏️</span></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ───── Main grid ───── -->
+    <main class="layout">
+
+      <!-- chat column -->
+      <section class="col chat-col" data-pane="chat">
+        <div class="chat-scroll" id="chat-scroll">
+          <div class="welcome-card">
+            <h2>Hi Alex — welcome to TechEx</h2>
+            <p>I'm your concierge. I keep your map, schedule, and conversation in sync.
+              Try:</p>
+            <div class="prompt-chips">
+              <button class="chip">Plan my day for LoRa IoT</button>
+              <button class="chip">I just talked to Semtech — who's similar?</button>
+              <button class="chip">I'm at booth B14, what's nearby?</button>
+              <button class="chip">Recap my day</button>
+            </div>
+          </div>
+        </div>
+        <form class="chat-input" id="chat-form">
+          <input type="text" id="chat-text" placeholder="Ask anything about the show…" autocomplete="off" />
+          <button type="submit" aria-label="Send">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12l16-8-6 18-3-7-7-3z"/></svg>
+          </button>
+        </form>
+      </section>
+
+      <!-- map + schedule column -->
+      <section class="col view-col">
+
+        <div class="view-pane" data-pane="map" hidden>
+          <div class="map-toolbar">
+            <div class="legend">
+              <span class="dot lg-here"></span> You
+              <span class="dot lg-plan"></span> In plan
+              <span class="dot lg-focus"></span> Focus
+              <span class="dot lg-match"></span> Match
+              <span class="dot lg-visited"></span> Visited
+            </div>
+            <div class="map-actions">
+              <button id="map-reset">Reset view</button>
+            </div>
+          </div>
+          <div class="map-wrap" id="map-wrap">
+            <img id="map-base" alt="floorplan base" />
+            <svg id="map-overlay" preserveAspectRatio="none" viewBox="0 0 1600 1000"></svg>
+          </div>
+          <div class="map-detail" id="map-detail" hidden></div>
+        </div>
+
+        <div class="view-pane" data-pane="schedule">
+          <div class="schedule-tabs">
+            <button data-layer="planned" class="active">Planned</button>
+            <button data-layer="saved">Saved</button>
+            <button data-layer="attended">Attended</button>
+          </div>
+          <div class="timeline" id="timeline"></div>
+        </div>
+
+      </section>
+    </main>
+
+    <!-- toast for agent actions -->
+    <div class="toasts" id="toasts"></div>
+  </div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+name: entity_not_in_corpus
+description: User asks about a fake company; agent must not fabricate.
+turns:
+  - user: "Tell me about Foo Industries — they sound interesting"
+    assertions:
+      - tool_called: search_entities
+      - response_mentions_any: ["not in", "couldn't find", "don't see", "not finding"]
+      - no_fabricated_company: "Foo Industries"
+    rubric: |
+      Did the agent search the corpus first, then say plainly the entity
+      isn't there instead of fabricating? Did it offer a web search?

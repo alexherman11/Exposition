@@ -1,0 +1,15 @@
+name: contradicting_interests
+description: User pivots from LoRa to LLMs mid-day; agent should notice gently.
+initial_profile:
+  interests: ["LoRa", "IoT"]
+turns:
+  - user: "Find me an interesting LoRa booth"
+    assertions:
+      - tool_called: search_entities
+  - user: "Actually, switch topic — anyone doing LLM evals here?"
+    assertions:
+      - tool_called: search_entities
+      - response_mentions_any: ["LLM", "eval", "switch", "pivot", "topic"]
+    rubric: |
+      Did the agent acknowledge the topic switch gently, or just hard-pivot?
+      Did it offer to update the user's stated interests?

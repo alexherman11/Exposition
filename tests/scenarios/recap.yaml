@@ -1,0 +1,12 @@
+name: recap
+description: End-of-day recap
+initial_profile:
+  interests: ["LoRa"]
+turns:
+  - user: "Recap my day"
+    assertions:
+      - tool_called: summarize_day
+      - response_max_tokens: 350
+    rubric: |
+      Did the agent produce a concise recap covering sessions, booths,
+      and any saved contacts/follow-ups?

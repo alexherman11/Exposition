@@ -1,0 +1,2855 @@
+[
+  {
+    "id": "ex_real_0000",
+    "company": "IBM",
+    "booth_number": "297",
+    "description": "IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the competitive edge in their industries. More than 4,000 government and corporate entities in critical infrastructure areas such as financial",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0001",
+    "company": "Amazon Web Services (AWS)",
+    "booth_number": "295",
+    "description": "Meet AWS and Amazon Sidewalk at IoT Tech Expo | Booth #295 AWS IoT helps you connect and manage billions of devices, collect and analyze data, and build intelligent solutions from cloud to edge. With services like AWS IoT Greengrass for edge runtime, FreeRTOS for devices and microcontrollers, IoT Core for secure device connectivity, and",
+    "website": "",
+    "tags": [
+      "iot",
+      "cloud",
+      "sustainability"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0002",
+    "company": "LG CNS",
+    "booth_number": "268",
+    "description": "LG CNS delivers end\u2011to\u2011end Smart Factory solutions that enhance manufacturing performance across key areas of manufacturing including manufacturing execution systems, quality management, process control and factory logistics. Leveraging our AX\u2011driven approach, we integrate data intelligence and process optimization to enable real\u2011time visibility, consistent quality, and efficient material flow across production sites. Our portfolio supports manufacturers",
+    "website": "",
+    "tags": [
+      "rag",
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0003",
+    "company": "Deloitte AI & Engineering",
+    "booth_number": "272",
+    "description": "Deloitte AI & Engineering is shaping the future of organizations with advanced artificial intelligence, data science, and cloud engineering solutions. We empower clients to unlock the full potential of their data through scalable AI strategies, tailored machine learning models, and dynamic platforms built for real-world impact. Our cross-industry experience spans responsible AI, automation, advanced analytics,",
+    "website": "",
+    "tags": [
+      "power",
+      "automation",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0004",
+    "company": "SAP",
+    "booth_number": "230",
+    "description": "SAP is a leading enterprise application and business AI company, addressing real business challenges with innovative technology. Our solutions support complex, demanding processes and adapt to dynamic global business environments. With AI at our core, we engineer progress and deliver tangible business value to customers daily, helping companies bring out their best.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0005",
+    "company": "HP",
+    "booth_number": "201",
+    "description": "We combine our Al-optimized hardware with cutting-edge Al software to make working and collaborating on projects simpler, faster and more secure. Our range of solutions slash setup configuration times, accelerate model development, and enable instant access to additional compute power helping you get to insights quicker. Visit www.hp.com/us-en/workstations/ai-workstations",
+    "website": "www.hp.com/us-en/workstations/ai-workstations",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0006",
+    "company": "Akamai",
+    "booth_number": "108",
+    "description": "Akamai is the cybersecurity and cloud computing company that powers and protects business online. We provide the critical infrastructure enterprises need to build, secure, and scale next-generation AI applications \u2013 without the cost and constraints of centralized clouds. Our distributed architecture and edge network deliver GPU-powered compute and adaptive security closer to users and data",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "power",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0007",
+    "company": "Lenovo",
+    "booth_number": "210",
+    "description": "Lenovo OEM Solutions empowers organizations to accelerate intelligent transformation featuring the new Intel-powered ThinkEdge portfolio \u2013 rugged, secure, and purpose\u2011built for real\u2011time AI at the edge. At Edge Computing Expo, we're showcasing how our scalable platforms integrate seamlessly with leading software partners including Telit, Scale Computing, and iOmniscient to unlock industrial automation, security/surveillance, and IoT",
+    "website": "",
+    "tags": [
+      "iot",
+      "cybersecurity",
+      "power",
+      "smart factory",
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0008",
+    "company": "Fortinet",
+    "booth_number": "164",
+    "description": "Fortinet Cloud Security delivers a comprehensive integrated code-to-cloud platform that enables organizations to securely build, deploy, and run applications while reducing complexity and increasing efficacy. As a result, organizations are empowered to achieve their digital acceleration and application modernization initiatives with 360-degree cloud defense-in-depth protection against all threat and risk vectors.",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity",
+      "power",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0009",
+    "company": "Red Hat",
+    "booth_number": "302",
+    "description": "Red Hat is the world's leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers develop cloud-native applications, integrate existing and new IT applications, and automate and manage complex environments. A trusted adviser to the Fortune 500,",
+    "website": "",
+    "tags": [
+      "power",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0010",
+    "company": "Unitree Robotics",
+    "booth_number": "483",
+    "description": "Unitree Robotics is a world-renowned civilian robotics company focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, six-axis manipulators, and more. Unitree Robotics has been invited to participate in the 2021 CCTV Spring Festival Gala, the opening ceremony of the 2022 Winter Games, the 2023 Super Bowl",
+    "website": "",
+    "tags": [
+      "robotics"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0011",
+    "company": "JBS Dev",
+    "booth_number": "199",
+    "description": "JBS Dev is a senior level, U.S.-based software development company delivering leading-edge custom software and application solutions. Whether modernizing systems, leveraging AI as a practical tool to enhance platforms and automate workflows, or building innovative mobile apps, we craft tailored solutions for complex challenges across industries. Our expertise spans the full product lifecycle, from ideation",
+    "website": "",
+    "tags": [
+      "rag",
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0012",
+    "company": "Rhino Federated Computing",
+    "booth_number": "269",
+    "description": "Rhino Federated Computing solves one of the biggest challenges in AI: seamlessly connecting siloed data through federated computing. The Rhino Federated Computing Platform (RhinoFCP) serves as the 'data collaboration tech stack', extending from providing computing resources to data preparation & discoverability, to model development & monitoring \u2014 all in a secure, privacy-preserving environment. To do",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0013",
+    "company": "Langley Holdings plc Power Solutions",
+    "booth_number": "340",
+    "description": "Burgeoning power demand requires innovative solutions when the grid can't cope. Langley brings together three highly regarded leaders in their field to offer a proven behind-the-meter power solution, delivering scalable, stabilised utility grade power. Bergen Engines (formerly Rolls-Royce Bergen Engines) of Norway; Italian generator manufacturer Marelli Motori and the gold-standard of power conditioning, Piller Power",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0014",
+    "company": "SS&C Blue Prism",
+    "booth_number": "292",
+    "description": "SS&C Blue Prism fuels the world's most complex businesses with agentic automation that's trusted, tested and ready to run. Backed by SS&C Technologies, a $25 billion enterprise, we fuse advanced AI-driven software with deep industry expertise to turn agentic from idea to impact. Our agents operate where it matters most: in high-stakes, high-compliance environments across",
+    "website": "",
+    "tags": [
+      "agents",
+      "automation"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0015",
+    "company": "Xebia",
+    "booth_number": "246",
+    "description": "Xebia is a global leader in IT consulting, software engineering, and training. With over 25 years of experience and a team of 5,500+ professionals across 16 countries, Xebia specializes in Artificial Intelligence, Data and Cloud, Intelligent Automation, and Digital Products and Platforms. With a strong focus on engineering excellence and a people-first culture, they equip",
+    "website": "",
+    "tags": [
+      "automation",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0016",
+    "company": "Atombeam Technologies",
+    "booth_number": "190",
+    "description": "Atombeam Technologies is a pioneering software company revolutionizing the way data is transmitted, stored, and secured. Through its patented Data-as-Codewords\u2122 technology, Atombeam delivers unprecedented efficiency in data communication \u2013 achieving up to 4\u00d7 bandwidth savings while enhancing security, reliability, and speed across networks. Atombeam's flagship product, Neurpac, transforms traditional data into compact, encoded codewords that",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "automation",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0017",
+    "company": "Avassa",
+    "booth_number": "214",
+    "description": "Companies require remote lifecycle management, outage resilience, and robust security for their edge workloads. The Avassa Edge Platform is an application management and operations platform built for resource-constrained edge environments. It enables companies to securely and remotely update, monitor, and troubleshoot edge applications and infrastructure, at scale and where connectivity isn't taken for granted. Based",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0018",
+    "company": "BlackFog",
+    "booth_number": "80",
+    "description": "BlackFog is the leader in on-device data privacy, data security and ransomware prevention. Our behavioral analysis and anti data exfiltration (ADX) technology stops hackers before they even get started. Our cyberthreat prevention software prevents ransomware, spyware, malware, phishing, unauthorized data collection and profiling and mitigates the risks associated with data breaches and insider threats. BlackFog",
+    "website": "",
+    "tags": [
+      "edge ai",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0019",
+    "company": "EchoMark",
+    "booth_number": "195",
+    "description": "EchoMark helps enterprises stop and investigate insider leaks by embedding invisible, recipient-specific forensic watermarks into emails, documents, and images. Unlike traditional controls that restrict access, EchoMark ensures accountability after information is shared\u2014persisting through screenshots, photos, printouts, and even retyped text. Security leaders across retail, finance, and manufacturing use EchoMark to deter risky behavior, accelerate investigations,",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0020",
+    "company": "Emnify",
+    "booth_number": "188",
+    "description": "emnify is the leading IoT connectivity partner to the innovators building our connected world. Founded in 2014, emnify developed the industry's first cloud-native, global connectivity \u2013 the SuperNetwork. Our unique approach to IoT connectivity, coupled with our comprehensive connectivity management platform and services, ensures seamless data exchange between devices, cloud environments, and IoT applications. Headquartered",
+    "website": "",
+    "tags": [
+      "iot",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0021",
+    "company": "Exein",
+    "booth_number": "207",
+    "description": "Exein is a leading embedded cybersecurity company for the Internet of Things (IoT), headquartered in Rome, Italy, with offices in Germany, the United States, and Taiwan. The company protects connected devices by integrating advanced security measures directly into the firmware. By leveraging artificial intelligence at the edge, Exein detects, responds to, and continuously evolves its",
+    "website": "",
+    "tags": [
+      "iot",
+      "rag",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0022",
+    "company": "GREYCORTEX",
+    "booth_number": "24",
+    "description": "GREYCORTEX helps organizations secure converged IT and OT environments with Mendel, a passive Network Detection and Response (NDR) solution built for industrial and operational networks. Mendel delivers continuous visibility into assets and communications, deep analysis of OT protocols, early detection of threats and anomalies, and insight into risks, misconfigurations, and external access activity. Because it",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "smart factory",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0023",
+    "company": "Hollingsworth & Vose",
+    "booth_number": "570",
+    "description": "Hollingsworth & Vose is an over 200 year old global leader in advanced materials manufacturing, including filtration media engineered to improve energy efficiency in data center air cooling systems.Our purpose-designed filtration technology is already deployed across data centers worldwide, delivering measurable improvements in air quality while reducing energy consumption and waste. By enabling longer service",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0024",
+    "company": "KNX Association",
+    "booth_number": "192",
+    "description": "KNX is the open global standard for smart home and building control. Connecting devices via IP, wireless, and bus communication from hundreds of manufacturers, KNX enables efficient and interoperable management of lighting, HVAC, and energy systems \u2013 avoiding vendor lock-in across the entire value chain and driving sustainability and innovation in residential and commercial buildings",
+    "website": "",
+    "tags": [
+      "power",
+      "sustainability"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0025",
+    "company": "Maddox",
+    "booth_number": "148",
+    "description": "Maddox is ready to power on your data center with fast lead times for transformers. We've got thousands of transformers in stock at locations across the United States. Whether you need padmounts with external gauges, kirk key provisions, or FR3\u00ae Fluid, our team has the inventory and know-how to get you what you need. We",
+    "website": "",
+    "tags": [
+      "power",
+      "vision"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0026",
+    "company": "MaintainX",
+    "booth_number": "214",
+    "description": "MaintainX is the leading maintenance and asset management platform designed specifically for industrial and frontline teams. It helps companies streamline maintenance, improve asset management, and manage regulatory compliance and audits \u2013 all while delivering insights to improve the bottom line. As a mobile-first platform trusted by 13,000+ customers, it delivers a modern IoT-enabled solution for",
+    "website": "",
+    "tags": [
+      "iot",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0027",
+    "company": "Narada AI",
+    "booth_number": "53",
+    "description": "Narada AI automates real-world enterprise workflows, delivering reliable execution where copilots and traditional automation fall short. Through visual reasoning and execution, Narada can navigate complex user interfaces, with or without APIs, and reason through each step of a task to completion. Its robust, scalable automations operate over disparate systems, require no programming, dynamically adapt as",
+    "website": "",
+    "tags": [
+      "agents",
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0028",
+    "company": "OPC Foundation",
+    "booth_number": "160",
+    "description": "OPC is the interoperability standard IEC 62541 for the secure and reliable exchange of data in the industrial automation space and other industries. It is platform independent and ensures seamless flow of information among devices from multiple vendors. The OPC standard is a series of specifications developed by industry vendors, end-users and software developers. These",
+    "website": "",
+    "tags": [
+      "smart factory",
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0029",
+    "company": "OmniTrust",
+    "booth_number": "154",
+    "description": "OmniTrust (formerly INTEGRITY Security Services) secures the connected world \u2013 from silicon to cloud systems and AI \u2013 by delivering verifiable, enforceable trust across the entire device and software lifecycle. As the leader in Trust Lifecycle Management, OmniTrust ensures security from design and provisioning through operation, update and retirement. Global customers, including many Fortune 100",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "vision",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0030",
+    "company": "OpenText",
+    "booth_number": "234",
+    "description": "OpenText, a leading enterprise information management company, integrates Internet of Things (IoT) technology extensively within its solutions to enhance operational efficiency and data management for businesses. The OpenText Internet of Things (IoT) Platform focuses on an identity-centric approach to managing connected devices. This platform provides key capabilities such as remote equipment monitoring, secure back-end system integration,",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0031",
+    "company": "Origina",
+    "booth_number": "30",
+    "description": "Origina is a global technology company providing independent software maintenance and support services to some of the world's largest enterprises. Headquartered in Ireland with offices across Europe and the United States, Origina helps organisations take control of their software environments by decoupling maintenance from original software vendors. The company delivers independent maintenance for enterprise software",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0032",
+    "company": "Pelion",
+    "booth_number": "76",
+    "description": "Pelion makes connecting your IoT devices effortless. We provide a fully managed IoT connectivity service that helps you deploy, connect, and scale with confidence. Our IoT SIMs give you reliable, secure multi-network connectivity in over 150 countries, available as physical SIM or eSIM. You manage every SIM in one place through the Pelion platform. Track",
+    "website": "",
+    "tags": [
+      "iot",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0033",
+    "company": "Security Validation | SecValMSSP",
+    "booth_number": "60",
+    "description": "Security Validation is your trusted advisor. Working with your System Engineers, Security Professionals and Internal Audit teams we help prepare your organization through all phases of the audit process. Our skilled professionals will coordinate with external auditors, making sure they receive a complete overview of your environment while acting as the single point of contact",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0034",
+    "company": "Spectro Cloud",
+    "booth_number": "212",
+    "description": "With our Palette and PaletteAI platforms, Spectro Cloud solves how enterprises and public sector organizations manage full-stack application and AI infrastructure in any environment: from edge to cloud, and from metal to model. Using the power of cloud-native technologies like Kubernetes, we give platform engineers and operations teams flexibility to choose their perfect stack, while",
+    "website": "",
+    "tags": [
+      "power",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0035",
+    "company": "Telenor IoT",
+    "booth_number": "280",
+    "description": "Telenor IoT \u2013 The first choice for IoT Building IoT solutions doesn't have to be complicated. With over 20 years of experience, Telenor IoT makes it simple for businesses worldwide. From seamless setup to secure, reliable connections, we bring the expertise and care you need to succeed in a connected world. Telenor IoT is the",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0036",
+    "company": "Thales",
+    "booth_number": "",
+    "description": "Thales is a global leader in advanced technologies specialized in three business domains: Defence & Security, Aeronautics & Space, and Cybersecurity & Digital identity. It develops products and solutions that help make the world safer, greener and more inclusive. Present in the cybersecurity business for years, Thales completed the acquisition of Imperva in December 2023,",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "sustainability"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0037",
+    "company": "TuxCare",
+    "booth_number": "200",
+    "description": "TuxCare secures the open-source software the world builds on \u2013 taking the risk out of innovation by keeping systems continuously protected, compliant, and running without disruption. We deliver enterprise-grade security and support across the open-source stack: rebootless patching for every major Linux distribution, enterprise-optimized support for community Linux, and endless lifecycle extensions for out-of-support versions",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0038",
+    "company": "Whatfix",
+    "booth_number": "241",
+    "description": "Whatfix drives \u201cuserization,\u201d enabling enterprises to maximize and accelerate ROI on multi-million dollar digital investments. By providing a unified experience layer, it ensures business continuity through major transformations and accelerates proficiency across complex tech stacks. Its GenAI-powered suite\u2014featuring a leading DAP, Mirror (simulation), and Product Analytics\u2014removes friction and ensures 100% compliance. Trusted by 600+ global",
+    "website": "",
+    "tags": [
+      "llm",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0039",
+    "company": "Ampera",
+    "booth_number": "304",
+    "description": "AMPERA is an advanced nuclear energy company pioneering subcritical thorium breeder microreactor systems. Through its proprietary TRISO fuel platform, hybrid fusion\u2013fission architecture and advanced additive manufacturing, AMPERA is developing technology to deliver ultra-safe, scalable, emission-free power for a range of applications including defense, data center, maritima and industrial applications. AMPERA is developing subcritical hybrid fusion\u2013fission",
+    "website": "",
+    "tags": [
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0040",
+    "company": "Blue Wireless",
+    "booth_number": "203",
+    "description": "Blue Wireless is a leading Global Provider of Wireless Solutions, offering LTE/5G Fixed Wireless Access and Managed Starlink connectivity for Global Enterprises. We deliver ultra-reliable and flexible connectivity solutions where traditional wired networks struggle \u2013 branches, retail stores, remote locations and the maritime sector.",
+    "website": "",
+    "tags": [
+      "5g",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0041",
+    "company": "Booz Allen",
+    "booth_number": "74",
+    "description": "Booz Allen is the advanced technology company delivering outcomes with speed for America's most critical defense, civil, and national security priorities. We build technology solutions using AI, cyber, and other cutting-edge technologies to advance and protect the nation and its citizens. By focusing on outcomes, we enable our people, clients, and their missions to succeed,",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0042",
+    "company": "Finite State",
+    "booth_number": "47",
+    "description": "Finite State empowers device OEMs to ship securely while enabling engineering teams to move at the speed of AI, immediately transforming product artifacts into audit-ready assurance through a single automated workflow. Leveraging deep binary analysis and AI-native execution, the platform unifies code, compiled components, and firmware in minutes\u2014connecting security design with deployed software. By continuously",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0043",
+    "company": "Foxit",
+    "booth_number": "243",
+    "description": "Founded in 2001, Foxit is a top contender in the PDF software market and a global leader in AI-enabled PDF and e-signature solutions. There are over 700 million users worldwide, ranging from small businesses and universities to multi-national enterprises. They are trusted partners with prominent technology companies like Google, Amazon, Microsoft, Dell, and Lenovo. Foxit",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0044",
+    "company": "Future Form",
+    "booth_number": "458",
+    "description": "Future Form is one of the largest AI Infrastructure manufacturers in the Western United States. Specializing in metal manufacturing we serve the Medical, Nuclear, Aerospace, Defense, and Data Center industries. From design engineering services, prototyping, mass production, all the way through final assembly and distribution, Future Form is a one-stop shop for clients who need",
+    "website": "",
+    "tags": [
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0045",
+    "company": "Guardsquare",
+    "booth_number": "82",
+    "description": "Guardsquare offers the most complete approach to mobile application security on the market, delivering the highest level of protection, with ease. Guardsquare integrates seamlessly across the full development cycle, from mobile app security testing and code hardening to real-time threat detection and app attestation. Guardsquare provides enhanced mobile application security across the entire development process",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0046",
+    "company": "National Power",
+    "booth_number": "390",
+    "description": "As data center demand continues to surge, National Power ensures your infrastructure keeps pace. We provide critical power and infrastructure solutions that not only meet today's needs but also anticipate tomorrow's growth. From small edge-of-network locations to large enterprise, colocation and hyperscale facilities, our services keep your data centers secure, efficient and operational 24/7, 365",
+    "website": "",
+    "tags": [
+      "power",
+      "networking"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0047",
+    "company": "Overhaul",
+    "booth_number": "481",
+    "description": "If it powers AI, we protect it. Whether you're moving a containerized data centre, manufacturing GPU racks, or high-performance AI servers, Overhaul gives you real-time protection, robust chain of custody, and risk response from first dispatch to final deployment. See how we protect the world's most valuable cargo at stand 481.",
+    "website": "",
+    "tags": [
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0048",
+    "company": "PIPE.FLO from Revalize",
+    "booth_number": "397",
+    "description": "PIPE-FLO\u00ae is the engineering standard for designing, simulating, and optimizing fluid piping systems. From initial concept design to operation and troubleshooting, PIPE-FLO delivers the speed, intelligence, and flexibility engineering teams need to design better systems faster.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0049",
+    "company": "Prosci",
+    "booth_number": "",
+    "description": "Prosci: Your Partner for Change Success Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in our ADKAR\u00ae Model, we've helped Fortune 100 companies thrive. We are passionate, research-based and results-focused. Whether you're within government, a growing enterprise, or a multinational",
+    "website": "",
+    "tags": [],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0050",
+    "company": "SUSE",
+    "booth_number": "232",
+    "description": "SUSE is a global leader in innovative, reliable and secure enterprise open source solutions, including SUSE\u24c7 Linux Suite, SUSE\u24c7 Rancher Suite, SUSE\u24c7 Edge Suite and SUSE\u24c7 AI Suite. More than 60% of the Fortune 500 rely on SUSE to power their mission-critical workloads, enabling them to innovate everywhere \u2013 from the data center to the",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0051",
+    "company": "Spartan Critical Systems",
+    "booth_number": "438",
+    "description": "Spartan Critical Systems delivers complete data center solutions that redefine efficiency and reliability. Our patented technologies reduce infrastructure demands while maximizing compute performance, giving clients a competitive edge in scalability and cost savings.\u201d",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0052",
+    "company": "Traceforce",
+    "booth_number": "470",
+    "description": "Traceforce secures AI native workloads running on endpoints.",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0053",
+    "company": "Vigiles Robotics Inc.",
+    "booth_number": "450",
+    "description": "Vigiles Robotics Inc. delivers AI-powered security and inspection robots for mission-critical facilities such as data centers and industrial campuses. Our BraveBot platform combines autonomous navigation, advanced sensing, and human-level reach to perform 24/7 patrols, equipment checks, and incident response across complex indoor and outdoor environments. By augmenting security staff with intelligent robotic patrols, Vigiles helps operators reduce",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "power",
+      "robotics",
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0054",
+    "company": "Zappsec",
+    "booth_number": "28",
+    "description": "Zappsec engineers Intelligent Infrastructure: the convergence of cloud, networking, security, and identity into a unified, programmable architecture that enterprises can trust, govern, and scale. What We Engineer:",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0055",
+    "company": "risk3sixty",
+    "booth_number": "72",
+    "description": "Risk3sixty enables mid-market and enterprise organizations to comply with any framework, optimize GRC programs with AI agents, and secure their attack surface. These outcomes are powered by its expert team and the fullCircle GRC platform. The firm is a SANS Cybersecurity Company of the Year finalist, a seven-time Atlanta Business Chronicle Best Places to Work",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0056",
+    "company": "Apex Compute",
+    "booth_number": "166",
+    "description": "Apex Compute is building a high-performance, low-power AI chip for edge devices. Our product is designed to run modern transformer models directly on devices like robots, drones, smart cameras, wearables, and vehicles without depending on the cloud. We are creating a more efficient alternative to GPU-based edge AI systems, with a focus on low latency,",
+    "website": "",
+    "tags": [
+      "edge ai",
+      "power",
+      "robotics",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0057",
+    "company": "Aras",
+    "booth_number": "205",
+    "description": "Aras provides a digital thread platform for product lifecycle management and engineering. Built on an AI-native, low-code foundation, it enables the rapid delivery of flexible solutions.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0058",
+    "company": "BotCity",
+    "booth_number": "42",
+    "description": "BotCity is a platform focused on Python and Agents governance. It monitors the use of Python+AI in official endpoints and pipelines, delivers reliable inventory, audit trails, and risk insights to mitigate Shadow Python and strengthen security.",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0059",
+    "company": "Cequence",
+    "booth_number": "378",
+    "description": "Cequence protects the applications and data that power enterprises in the agentic era. Our platform delivers deep insight into user, entity, and agent behavior, enabling organizations to secure and control agentic AI interactions while protecting against bad actors and rogue agents. And, we unlock AI-driven productivity and growth by securely making applications agent-ready.",
+    "website": "",
+    "tags": [
+      "agents",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0060",
+    "company": "DataCamp",
+    "booth_number": "265",
+    "description": "DataCamp is the leading learning platform for building data and AI literacy at scale. Our interactive courses, tailored learning paths, and hands-on assessments help businesses upskill their teams, unlock data-driven insights, and accelerate measurable growth.",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0061",
+    "company": "Nextcloud",
+    "booth_number": "245",
+    "description": "Nextcloud is the industry-leading, fully open-source, on premise content collaboration platform. Teams access, share and edit their documents, chat and participate in video calls and manage their mail and calendar and projects across mobile, desktop and web interfaces.",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0062",
+    "company": "ONEKEY",
+    "booth_number": "118",
+    "description": "ONEKEY is the leading European specialist in Product Cybersecurity & Compliance Management and part of the investment portfolio of PricewaterhouseCoopers Germany (PwC). The unique combination of the automated ONEKEY Product Cybersecurity & Compliance Platform (OCP) with expert knowledge and consulting services provides fast and comprehensive analysis, support, and management to improve product cybersecurity and compliance",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0063",
+    "company": "Pyxis",
+    "booth_number": "384",
+    "description": "Built by Water Pros. Engineered for the Future. Founded by industry experts with decades of hands-on experience in water treatment and process chemistry, Pyxis Lab, Inc. is redefining how water quality is measured and managed in mission-critical environments. Pyxis Lab, Inc. is pioneering smart monitoring solutions for modern data centers, delivering inline sensor systems that ensure coolant integrity",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0064",
+    "company": "Rypos",
+    "booth_number": "341",
+    "description": "Rypos designs and manufactures advanced emissions control systems that enable diesel backup power to operate cleaner and more reliably in mission-critical environments. For data centers, our verified diesel particulate filter (DPF) and integrated Tier IV solutions significantly reduce PM, NOx, and other hazardous air pollutants while meeting stringent regulatory and site-specific requirements. With decades of",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0065",
+    "company": "S&P Global Market Intelligence",
+    "booth_number": "134",
+    "description": "S&P Global Market Intelligence's Capital IQ Pro \u2013 TMT delivers end-to-end intelligence on a single, AI-powered platform. Designed for media and telecom professionals, we offer granular asset data and insights across TV networks, towers, broadcast stations, film box office, sports rights, streaming, and more. Evaluate companies with deep financials, estimates, credit risk metrics, transactions, transcripts,",
+    "website": "",
+    "tags": [
+      "power",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0066",
+    "company": "Scylos",
+    "booth_number": "206",
+    "description": "Scylos is defining stateless endpoint infrastructure for always\u2011on edge environments. Our ZeroCore\u2122 execution surface runs authorized workloads on demand and retains nothing when the session ends, delivering Ephemeral Endpoint Architecture (EEA) that eliminates persistence, drift, and residue. Central intent\u2011driven control via Switchboard\u2122 turns kiosks, industrial PCs, thin clients, and more into clean, compliant execution surfaces,",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0067",
+    "company": "Subzero Engineering",
+    "booth_number": "132",
+    "description": "Subzero Engineering specializes in providing turnkey, precision-engineered data center containment solutions that are designed for industry-leading functionality and scalable fast deployments. With a focus on sustainability, our solutions are built to provide maximum efficiency, minimize downtime, and reduce energy consumption. Our team of experts works closely with clients to understand their unique needs and requirements",
+    "website": "",
+    "tags": [
+      "power",
+      "sustainability"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0068",
+    "company": "Tiger Data",
+    "booth_number": "104",
+    "description": "Tiger Data is Postgres for sensor data, telemetry, tick data, and events, at petabyte scale. Creators of TimescaleDB. Used by Speedcast, CERN, Lucid Motors, Bloomberg, and 2,000+ teams who need fast Postgres without complexity for time-series and analytics workloads.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0069",
+    "company": "UltraViolet Cyber",
+    "booth_number": "96",
+    "description": "UltraViolet Cyber is a tech-enabled managed security services provider delivering deep cybersecurity expertise to Global 2000 enterprises and the Federal Government. Ranked #19 on the Top 250 MSSPs list, the company is known for transparency, accountability, and helping customers stay ahead of evolving threats. Founded by former national intelligence community practitioners, UltraViolet Cyber integrates offensive",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0070",
+    "company": "2J Antennas",
+    "booth_number": "162",
+    "description": "2J Antennas delivers high-performance embedded and external RF solutions trusted by engineers worldwide.We design and manufacture cutting-edge off the shelf and custom solutions for 4G/5G, GNSS/GPS, Wi-Fi, Bluetooth, NFC, and more. Our products power mission-critical applications across automotive, telematics, IoT, public safety, industrial, medical, and enterprise markets. With advanced R&D, global engineering support, and precision",
+    "website": "",
+    "tags": [
+      "iot",
+      "5g",
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0071",
+    "company": "5C",
+    "booth_number": "262",
+    "description": "5C Group is one of North America's largest AI digital infrastructure providers. The company delivers purpose-built infrastructure for AI with a network of state-of-the-art data centers. With over 2 gigawatts (GW) of roadmap capacity and the ability to power hundreds of thousands of GPUs, 5C Group delivers secure, reliable, and sustainable data center and AI",
+    "website": "",
+    "tags": [
+      "power",
+      "networking",
+      "sustainability"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0072",
+    "company": "AB ARK",
+    "booth_number": "217",
+    "description": "AB Ark Solutions is a forward-thinking company specializing in AI-driven software services and products. We are committed to empowering businesses to stay ahead in a rapidly evolving technological landscape.We are a global software company with offices in Pakistan, the UAE, and the USA, trusted by 500+ clients worldwide. We connect you with a team of",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0073",
+    "company": "ABC Electronics inc",
+    "booth_number": "204",
+    "description": "ABC Electronics is an electronics manufacturing company that designed and produced Eneron, a proprietary, non-invasive power measurement IoT solution. Eneron is redefining how industrial, commercial, and critical infrastructure facilities understand their power \u2013 without ever touching a wire. As an IoT innovator in the energy Intelligence domain, Eneron's patented non-invasive sensing technology clamps directly onto",
+    "website": "",
+    "tags": [
+      "iot",
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0074",
+    "company": "Aciano Technologies",
+    "booth_number": "191",
+    "description": "We help organizations accelerate innovation through cutting\u2011edge AI solutions, scalable resource augmentation, and intelligent IoT implementations. Our team enables businesses to unlock efficiency, optimize operations, and build future\u2011ready digital ecosystems. With deep domain expertise and a proven track record across global enterprises, we support clients in navigating complex technology challenges while delivering measurable impact. Whether",
+    "website": "",
+    "tags": [
+      "iot",
+      "edge ai"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0075",
+    "company": "Active Power",
+    "booth_number": "290",
+    "description": "Active Power Inc. delivers efficient, reliable, and sustainable critical power solutions that keep data centers running through any disturbance. Trusted in over 50 countries, our flywheel-based UPS systems provide seamless, uninterrupted power to protect data integrity and eliminate downtime. Designed and manufactured in Austin, Texas, in our ISO 9001:2015-certified facility, our solutions combine innovation with",
+    "website": "",
+    "tags": [
+      "power",
+      "sustainability"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0076",
+    "company": "Adaptive Security",
+    "booth_number": "58",
+    "description": "Adaptive Security is redefining how organizations defend against the evolving threat landscape. Our AI-powered platform helps security teams move faster than attackers \u2014 detecting, analyzing, and responding to threats in real time, without the noise. As adversaries increasingly leverage AI to launch more sophisticated attacks, we give defenders the intelligence and automation they need to",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0077",
+    "company": "Agnotic Technologies",
+    "booth_number": "428",
+    "description": "Are you building an MVP and want to be in market in weeks, not months? Your biggest bottleneck is not the idea, it is getting the right team, stack, and first production-ready line of code in place. We eliminate that. Using Claude, GPT-5, and Cursor as core build infrastructure, our AI-native engineering team moves faster",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0078",
+    "company": "Akave Cloud",
+    "booth_number": "474",
+    "description": "Akave Cloud is fully managed, S3-compatible decentralized storage for ai with programmable privacy, enterprise-grade performance, and global compliance baked in.",
+    "website": "",
+    "tags": [
+      "rag",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0079",
+    "company": "Alation",
+    "booth_number": "224",
+    "description": "Alation delivers an agentic knowledge layer that enables enterprises to achieve business outcomes and grow their most critical asset, knowledge. Global enterprises, including hundreds of Fortune 5000 companies, and organizations like AbbVie, American Family, Cisco, Finnair, Nasdaq, and Sallie Mae partner with Alation to realize hard ROI and business outcomes from data and AI. Alation",
+    "website": "",
+    "tags": [
+      "agents"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0080",
+    "company": "Alps Alpine North America, Inc.",
+    "booth_number": "220",
+    "description": "Alps Alpine, a leading manufacturer of electronic components and automotive infotainment systems, has brought the world numerous \u201cFirst 1\u201d and \u201cNumber 1\u201d products since its founding in 1948. The Alps Alpine Group currently operates 110 bases in 26 countries and regions, supplying roughly 40,000 different products and solutions to around 2,000 companies worldwide. In January",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0081",
+    "company": "Altimate AI",
+    "booth_number": "264",
+    "description": "Altimate Code is the open-source agentic coding tool built for data engineers. While general-purpose AI coding tools struggle with the complexity of data pipelines, SQL transformations, and dbt workflows, Altimate Code is purpose-built for the data stack. IT understands your models, lineage, and schema out of the box.Stop context-switching. Get instant PR reviews, automated documentation,",
+    "website": "",
+    "tags": [
+      "agents",
+      "automation"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0082",
+    "company": "AnyLog",
+    "booth_number": "68",
+    "description": "AnyLog is redefining edge data with a decentralized platform that delivers real-time insights and AI\u2014without moving your data. No pipelines. No centralization. No delays. With true plug-and-play deployment, data stays where it's created while remaining instantly queryable as a single system. A shared metadata layer and Unified Namespace unify all edge resources, accessible via simple",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0083",
+    "company": "App in Snap",
+    "booth_number": "215",
+    "description": "App in Snap is a technology solutions provider specializing in enterprise software development, fintech platforms, cloud modernization, and AI digital transformation.We help organizations modernize legacy systems, adopt cloud technologies, and automate operations using scalable and secure platforms.Our services include custom enterprise application development, managed IT services, and dedicated engineering teams to support long-term technology initiatives",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0084",
+    "company": "Apptio, an IBM Company",
+    "booth_number": "297",
+    "description": "Apptio, an IBM company, is the leading provider of Technology Business Management (TBM) SaaS applications. With AI-powered insights based on billions in managed technology spend, we're a pioneer in the TBM practice areas of IT Financial Management, FinOps, and Strategic Portfolio Management and a founding member of the TBM Council. Apptio solutions enable cost management",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0085",
+    "company": "Aptly Technology",
+    "booth_number": "392",
+    "description": "Aptly Technology Corporation is a global cloud and AI services company helping enterprises modernize infrastructure and accelerate their AI journey. Trusted by Microsoft to build and support hyperscale datacenter environments, Aptly brings deep expertise in GPU datacenter design and operations, AI workload optimization, cloud migration, and managed IT services across Azure and AWS. We work",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0086",
+    "company": "Argos Data",
+    "booth_number": "239",
+    "description": "Argos Data delivers multilingual data solutions that power global enterprise AI systems. Built on 30 years of localization expertise and coverage across 150+ languages, we help organizations operationalize AI in complex global environments. We design secure, compliant data pipelines and human-in-the-loop workflows that deliver highly accurate, domain-specific data. Our customizable technology and platform support end-to-end",
+    "website": "",
+    "tags": [
+      "rag",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0087",
+    "company": "Aria Networks",
+    "booth_number": "",
+    "description": "The networking industry was built for a different era. Aria Networks was built for this one. Founded in 2025 and headquartered in Palo Alto, Aria Networks is building the networking company for the AI era, from scratch, with AI at the center of everything. Aria Networks' approach, Deep Networking, combines hardened SONiC, end-to-end telemetry, intelligent",
+    "website": "",
+    "tags": [
+      "networking"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0088",
+    "company": "Athos Systems",
+    "booth_number": "251",
+    "description": "Athos Systems helps enterprises turn fragmented data into trusted, AI-ready intelligence. Many organizations operate with multiple systems, conflicting KPIs, and disconnected analytics, making it difficult for leadership to make confident decisions. We specialize in consolidating enterprise data into governed platforms like Snowflake, building structured semantic models that standardize definitions across departments, and enabling real-time observability,",
+    "website": "",
+    "tags": [
+      "rag"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0089",
+    "company": "Aurigo Software Technologies",
+    "booth_number": "59",
+    "description": "Aurigo builds software that helps build the world. Aurigo provides modern, cloud-based solutions for capital infrastructure and private owners to help plan with confidence, build with quality, and maintain their assets efficiently. With more than $450 billion of capital programs under management, Aurigo's solutions are trusted by over 300 customers in transportation, water and utilities,",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0090",
+    "company": "Axonis",
+    "booth_number": "427",
+    "description": "Meet with us to explore how you can activate siloed data, reduce risk, and drive measurable outcomes with AI\u2014while maintaining full control. If you're focused on scaling AI responsibly and turning data into decisions, Axonis is built for you.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0091",
+    "company": "Axzon Inc.",
+    "booth_number": "55",
+    "description": "Axzon is the world leader in RFID battery-free wireless sensor products, and the inventor and patent owner of the technology. Axzon has assembled a coalition of tier-1 stake holders, serving customers in various stages of the pipeline. The Coalition includes: Legacy market movers with deep and vast sales channel presence: \u25cf Collaborating with the tier-1",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0092",
+    "company": "BBT ANTENNAS INC",
+    "booth_number": "56",
+    "description": "BBT ANTENNAS INC integrates antenna research & development, production and sales, and focuses on technology research & development and innovation, owns complete independent intellectual property rights and have made many new breakthroughs especially in the Internet of Things and Internet communication industry products and also obtained a number of product patents. We are concentrating on",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0093",
+    "company": "BRELYON, INC",
+    "booth_number": "376",
+    "description": "Brelyon is pioneering a new category of ultra-immersive and multi-focal display hardware and software solutions for entertainment, enterprise, automotive, and defense applications.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0094",
+    "company": "Backblaze",
+    "booth_number": "434",
+    "description": "Backblaze gives businesses the freedom to innovate without limits by removing the barriers of lock-in, complexity, and cost. Our high-performance cloud object storage accelerates AI workflows, powers data-heavy applications, streamlines media management, and protects critical data. As an award-winning independent cloud, we provide unparalleled levels of interoperability that enable over 500,000 of our customers to",
+    "website": "",
+    "tags": [
+      "rag",
+      "power",
+      "automation",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0095",
+    "company": "Bimser",
+    "booth_number": "228",
+    "description": "Founded by partners with more than 26 years of consultancy and management experience in the field of Information Technology, BIMSER continues to work with a total of nearly 300 employees, including more than 70 software experts. With its Maintenance and Asset Management System BEAM, Integrated Management System QDMS, Process Management System ENSEMBLE, Workflow and Document",
+    "website": "",
+    "tags": [
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0096",
+    "company": "Blancco",
+    "booth_number": "579",
+    "description": "Confidently remove end-of-life data from endpoints, data centers, and virtual environments with Blancco erasure software. Additional capabilities include diagnostics and process automation across a variety of devices. https://www.linkedin.com/company/blancco-ltd-/?trk=biz-companies-cym",
+    "website": "https://www.linkedin.com/company/blancco-ltd-/?trk=biz-companies-cym",
+    "tags": [
+      "cybersecurity",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0097",
+    "company": "Blast Security",
+    "booth_number": "422",
+    "description": "Blast Security is pioneering Preemptive Cloud Defense for the AI era, helping organizations move beyond reactive security to continuous prevention. Our platform turns native cloud controls into automated guardrails that stop risks before they reach production across AWS, Azure, GCP, and Kubernetes. As AI accelerates cloud change and introduces new identity and agent-driven risks, traditional",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0098",
+    "company": "BlueDolphin",
+    "booth_number": "222",
+    "description": "",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0099",
+    "company": "Building Automation Products, Inc. (BAPI)",
+    "booth_number": "57",
+    "description": "Building Automation Products, Inc. (BAPI) is a premier sensor manufacturer for HVAC/R. Specializing in sensors for temperature, relative humidity, pressure, wireless and air quality monitoring, plus test instruments, electronics technician assistants (ETA) and accessories. BAPI is based in Gays Mills, Wisconsin, USA.",
+    "website": "",
+    "tags": [
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0100",
+    "company": "C&L Refrigeration",
+    "booth_number": "578",
+    "description": "We provide specialized HVAC and refrigeration solutions engineered for mission-critical environments, including data centers where uptime is non-negotiable. Our team supports high-density cooling, redundancy planning, and energy-efficient system design to ensure optimal performance and reliability. With deep field experience and a rapid-response service model, we help operators reduce risk, improve thermal management, and extend equipment",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0101",
+    "company": "Callplex, Inc.",
+    "booth_number": "114",
+    "description": "Our complete sovereign communications package enables organizations to deploy their own private and secure messaging.Patented serverless and distributed architecture provides a vanishing attack surface for extreme resilience.Post-quantum cryptography protects against emerging threats.Use any cloud, multi-cloud, or on-premises infrastructure.No third-party dependencies and no vendor lock-in.Rapid deployment to user devices with automatic updates\u2014no app store approvals or",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "post-quantum",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0102",
+    "company": "Carahsoft Technology Corp.",
+    "booth_number": "174",
+    "description": "Carahsoft is The Trusted IT Solutions Provider\u00ae, supporting Federal, State, Local Government, Education, Healthcare, and Private Sector industries. As the Master Aggregator\u2122 for our vendor, reseller and integrator partners, we deliver solutions for Cybersecurity, FinOps, MultiCloud, DevSecOps, Artificial Intelligence, Human Capital, Legal & Courtroom Technology, Geospatial, Customer Experience & Engagement, and more. Carahsoft is consistently",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0103",
+    "company": "Cargo Signal",
+    "booth_number": "138",
+    "description": "Cargo Signal delivers intelligent shipment protection through cutting-edge sensor technology and expert intervention. Our platform gives you real-time visibility and actionable alerts on location, delays, intrusion, humidity, and temperature so you can safeguard quality and security at every step. Backed by deep logistics expertise, we interpret data faster, pinpoint risks with precision, and help you",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0104",
+    "company": "Cassia Networks",
+    "booth_number": "147",
+    "description": "Cassia Networks is the leading provider for enterprise Bluetooth IoT products and solutions. Our patented technology provides the most reliable and easy to manage long-range, multiple device connectivity, edge-processing and locationing for Bluetooth IoT networks.",
+    "website": "",
+    "tags": [
+      "iot",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0105",
+    "company": "Certusoft",
+    "booth_number": "249",
+    "description": "Certusoft is a provider of cloud-based solution for the customization of complex custom products. Our services and technology is used by leading manufacturers of commercial and emergency vehicles to customize, engineer and manufacture their products, all in the same platform. The company developed a proprietary constraint-based AI technology capable of high level customization and precision",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0106",
+    "company": "Chetu",
+    "booth_number": "308",
+    "description": "Chetu is a global provider of AI-powered software development and digital transformation solutions, helping enterprises modernize systems, unlock data value, and accelerate innovation. Founded in 2000, Chetu supports organizations worldwide with scalable, secure, and custom-built technology solutions tailored to complex business environments. At TechEx North America, Chetu is showcasing enterprise-grade solutions designed to help technology",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0107",
+    "company": "Claroty",
+    "booth_number": "235",
+    "description": "The CPS security landscape has matured over the last few years, CPS operators recognize the impact that cyber risk can have on their organization and are ready to leverage insights into their risk posture to drive real outcomes. At the same time, gaps in the knowledge required to secure CPS and their processes, organizational structures,",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0108",
+    "company": "ClearPath",
+    "booth_number": "50",
+    "description": "Everything about scaling a startup is hard. Security compliance shouldn't be. ClearPath is Security Compliance Made Simple, built for founders, not Fortune 500s. We give your team the power to achieve and maintain compliance without external GRC consultants or massive budget allocations. Our platform acts as an AI-driven workbench, enabling continuous tracking and fast evidence",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0109",
+    "company": "Complement AI",
+    "booth_number": "374",
+    "description": "Complement AI does the coordination that runs your factory \u2013 without replacing a single system.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0110",
+    "company": "Corvia AI",
+    "booth_number": "314",
+    "description": "Corvia AI empowers enterprises to achieve peak productivity through a suite of intelligent Agents seamlessly embedded into existing workflows. We specialize in transforming labor-intensive tasks into automated growth engines. Our Lead Gen Agent identifies global prospects with precision, while our Email Marketing Agent deploys sophisticated, tiered outreach with hyper-personalized content. To close the loop, our",
+    "website": "",
+    "tags": [
+      "agents",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0111",
+    "company": "Cotool",
+    "booth_number": "48",
+    "description": "Cotool is building the AI operating system for security teams. Deploy agents in the cloud to detect, respond, and hunt threats across the entire security footprint.",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0112",
+    "company": "Cribl",
+    "booth_number": "28",
+    "description": "Cribl, the AI Platform for Telemetry, empowers enterprises to manage and analyze telemetry for humans and agents. Our vendor-agnostic platform helps organizations collect, process, route, and optimize data across observability and security\u2014getting the right data to the right place at the right time. Teams reduce costs, eliminate data lock-in, and gain greater flexibility and visibility",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0113",
+    "company": "Cubeless",
+    "booth_number": "326",
+    "description": "",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0114",
+    "company": "Cywarden",
+    "booth_number": "360",
+    "description": "Cywarden, Inc, an Adaptive Decision Mesh (ADM) platform for SOC teams, a centralized AI-native intelligence platform that unifies fragmented security telemetry, coordinates domain-specialized agents, and continuously learns from outcomes to drive verified security decisions by using AI agents. We deliver adaptive normalization, risk decisioning, and closed-loop remediation learning without moving logs or sensitive data outside",
+    "website": "",
+    "tags": [
+      "agents",
+      "rag",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0115",
+    "company": "DEI POWER SOLUTIONS",
+    "booth_number": "362",
+    "description": "We specialize exclusively in UL891-certified low voltage switchgear\u2014and that focus makes all the difference. While larger manufacturers spread wide, we go deep, delivering precision-built systems with faster turnarounds, and lasting performance.We are a Siemens OEM Approved Partner, delivering UL Certified switchgear built for safety, reliability, and compliance. https://www.tiktok.com/@deipowersolutions?_r=1&_t=ZT-95Mvg2EnnXq https://www.facebook.com/profile.php?id=61583156220464&mibextid=wwXIfr https://www.instagram.com/deipowersolutions/",
+    "website": "https://www.tiktok.com/@deipowersolutions?_r=1&_t=ZT-95Mvg2EnnXq",
+    "tags": [
+      "cybersecurity",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0116",
+    "company": "DeepRoot AI",
+    "booth_number": "86",
+    "description": "DeepRoot AI: Your Data. Your Agents. Your AI Edge. DeepRoot AI is an enterprise GenAI platform designed to close the gap between AI ambition and measurable impact. It transforms how organizations operationalize generative AI by prioritizing data readiness, quantifying the AI readiness of enterprise data to surface high-ROI opportunities mapped directly to specific business outcomes",
+    "website": "",
+    "tags": [
+      "llm",
+      "agents"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0117",
+    "company": "Denodo Technologies",
+    "booth_number": "266",
+    "description": "Denodo is a global leader in data management, powering trustworthy AI agents and applications. The Denodo Platform, an award-winning logical data management solution, transforms enterprise data into reliable insights for AI, analytics, and self-service initiatives. Organizations worldwide use Denodo to deliver AI-ready, business-ready data in a fraction of the time compared to traditional data lakehouses,",
+    "website": "",
+    "tags": [
+      "agents",
+      "data platform",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0118",
+    "company": "Devsloop",
+    "booth_number": "291",
+    "description": "Devsloop helps startups and growing tech companies turn ideas into launch-ready products through Vibe Engineering\u2122, Our AI-augmented development approach built for speed and structure. With 245+ products delivered across 7 countries and MVPs launched in 2\u20138 weeks, we help teams build faster without losing technical clarity.",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0119",
+    "company": "Digitus Biometrics",
+    "booth_number": "334",
+    "description": "With over 20 years of experience and a deep understanding of the key components and challenges you face, we offer a comprehensive range of advanced Data Center Cabinet access control solutions designed to fortify your defenses. Whether you're concerned about unauthorized access, insider threats, data breaches or data protection, our innovative technologies ensure that data",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0120",
+    "company": "DuraLabel",
+    "booth_number": "300",
+    "description": "Graphic Products, through the DuraLabel brand, delivers industrial sign and label print systems, innovative labeling software, all-purpose floor marking, ready-made signs and labels and heavy-duct pipe and duct markers for any facility's compliance and safety requirements. DuraLabel products are backed with world-class support and warranties. Our mission is to solve workplace compliance, safety, and productivity",
+    "website": "",
+    "tags": [
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0121",
+    "company": "Dust",
+    "booth_number": "339",
+    "description": "Dust is the AI platform to deploy secure, customised AI agents across your entire organisation. Built security-first with multiple LLMs connected, Dust integrates with your company data \u2013 Slack, Notion, Google Drive, GitHub \u2013 so teams get answers grounded in real company knowledge.With rapid growth across Europe, and the United States, Dust now serves thousands",
+    "website": "",
+    "tags": [
+      "llm",
+      "agents",
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0122",
+    "company": "E Ink",
+    "booth_number": "182",
+    "description": "E Ink is the originator, pioneer and commercial leader in ePaper technology. The company delivers its advanced display products to the world's most influential brands and manufacturers, enabling them to install extremely durable, low power displays in previously impossible or unimaginable applications and environments. E Ink's corporate philosophy centers around delivering revolutionary products, excellent user",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0123",
+    "company": "E-T-A",
+    "booth_number": "T7",
+    "description": "We are a German manufacturer specialized in (custom) solutions for power distribution and protection against overload and short-circuit for DC. E\u2011T\u2011A offers rack\u2011mount PDUs, for horizontal as well as for vertical (0U) installations, covering a wide voltage range from -48VDC up to 400VDC. At the moment 800VDC is under exploration for customer specific approaches. Our",
+    "website": "",
+    "tags": [
+      "lora",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0124",
+    "company": "ECOLTO ENERGY",
+    "booth_number": "209",
+    "description": "Ecolto Energy founded in 2014, is a China leading manufacturer who specialized in R&D, production, sales and technology support of IOT battery. We provide full solution for your battery inquiry. One-stop service from battery design to delivery.",
+    "website": "",
+    "tags": [
+      "iot",
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0125",
+    "company": "EDB",
+    "booth_number": "254",
+    "description": "EDB Postgres\u00ae AI is the first open, enterprise-grade sovereign data and AI platform\u2014secure, compliant, and scalable, on-premises and across clouds. Built on Postgres, the world's leading database, EDB PG AI unifies transactional, analytical, and AI workloads, enabling organizations to operationalize their data and LLMs while maintaining control over sovereign environments. EDB PG AI is supported",
+    "website": "",
+    "tags": [
+      "llm",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0126",
+    "company": "EM Microelectronic",
+    "booth_number": "208",
+    "description": "EM Microelectronic designs and manufactures ultra\u2011low\u2011power ICs and modules that power a variety of compact, long\u2011life, and highly reliable devices across the IoT landscape. Our portfolio includes Bluetooth\u00ae Low Energy silicon and the beacon solutions built on it, along with advanced RFID technologies that support modern track\u2011and\u2011trace applications. If you're designing track-and-trace, asset monitoring, or",
+    "website": "",
+    "tags": [
+      "iot",
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0127",
+    "company": "ENEOS USA Inc.",
+    "booth_number": "336",
+    "description": "ENEOS is Japanese energy and materials conglomerate. We create advanced fluid technologies that power performance, efficiency, and the future of energy.",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0128",
+    "company": "Edimax Group",
+    "booth_number": "180",
+    "description": "Edimax Group designs IoT connectivity solutions that connect anything, anywhere. We work with VARs, integrators, and enterprises to build tailored solutions for security, agriculture, industrial IoT, and smart city deployments. Using technologies such as Wi-Fi networking, Wi-Fi HaLow, LoRaWAN, 5G Wireless, Bluetooth, Z-Wave, and Zigbee, we enable reliable connectivity across diverse environments and device ecosystems",
+    "website": "",
+    "tags": [
+      "iot",
+      "lora",
+      "5g",
+      "cybersecurity",
+      "smart factory",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0129",
+    "company": "Embedded Works | Teltonika",
+    "booth_number": "78",
+    "description": "Embedded Works helps businesses simplify IoT adoption with end-to-end hardware, connectivity, and solution support. We provide cellular routers, gateways, sensors, asset trackers, IoT SIM/data plans, and complete solution kits designed for real-world business use cases such as asset tracking, smart buildings, remote monitoring, predictive maintenance, and industrial connectivity. Our team works closely with customers to",
+    "website": "",
+    "tags": [
+      "iot",
+      "smart factory"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0130",
+    "company": "Eventage Pvt Ltd",
+    "booth_number": "213/215/217",
+    "description": "Founded in 2010, Eventage Pvt Ltd is a leading international exhibition management and trade promotion company connecting global markets through impactful pavilion participation. As the official representative of world-renowned tech exhibitions, Eventage enables startups, SMEs, and enterprises to expand internationally by offering end-to-end solutions\u2014from space acquisition and design to marketing and on-site support. With a",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0131",
+    "company": "Exadel",
+    "booth_number": "229",
+    "description": "Exadel is a leading global consulting and engineering company that delivers AI-powered transformation that enables our clients to become digital leaders in their industries. Through continuous innovation and expert proficiency, Exadel drives critical business outcomes for clients through open collaboration, deep industry insights, and unique technology expertise. Exadel specializes in multiple high-impact service areas, including",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0132",
+    "company": "EyePop.ai",
+    "booth_number": "261",
+    "description": "EyePop.ai is the visual intelligence platform that turns cameras, images, and video into structured data your software can act on. Our growing library of production-ready, customizable abilities goes beyond object detection: analyze scenes, classify events, perform OCR, moderate content, summarize activity, and extract rich metadata from any image, recorded clip, or live stream. Call them",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0133",
+    "company": "FILO Systems",
+    "booth_number": "477",
+    "description": "FILO delivers world-leading lossless compression that dramatically reduces storage costs while multiplying your infrastructure capacity, with zero performance penalty.",
+    "website": "",
+    "tags": [
+      "rag"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0134",
+    "company": "Freudenberg Filtration Technologies",
+    "booth_number": "187",
+    "description": "Freudenberg Filtration Technologies is a global leader in advanced air filtration solutions which help data centers maintain reliable, energy-efficient, and contaminant-controlled environments. We design high-performance filtration products for HVAC and air handling systems to manage particulate contamination, optimize airflow, and protect critical IT infrastructure. Our state-of-the art, long lifecycle air filtration solutions support optimal cooling",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0135",
+    "company": "GUS Technology",
+    "booth_number": "388",
+    "description": "GUS Technology Co., Ltd. is a lithium-ion battery manufacturer specializing in high-power cell, module, and pack solutions for mobility and industrial applications. Core operations include cell manufacturing, module and pack assembly, testing, and system integration.",
+    "website": "",
+    "tags": [
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0136",
+    "company": "GXO Logistics, Inc",
+    "booth_number": "253",
+    "description": "Choosing GXO for data center support means partnering with a proven leader in mission\u2011critical logistics. GXO delivers end\u2011to\u2011end services including inbound receiving, secure warehousing, kitting, staging, and white\u2011glove deployment, all designed to minimize downtime. Our scalable operating model supports hyperscale, colocation, and enterprise environments globally. Advanced technology, real\u2011time visibility, and rigorous compliance ensure accuracy, security,",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0137",
+    "company": "Gallagher Security",
+    "booth_number": "431",
+    "description": "We are a global leader in integrated technology solutions that unlock customer value through the power of our people and solutions. Our award-winning technology is trusted by government, data centers, commercial, industrial, healthcare, transportation, mining, and educational institutions and more in 140 countries. Our team designs and manufactures a comprehensive suite of security software and",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0138",
+    "company": "GateKeeper Proximity",
+    "booth_number": "49",
+    "description": "GateKeeper Proximity provides patented, award-winning wireless proximity access control for enterprises. Our solutions enable fast, secure MFA for shared workstations using proximity-based login and automatic PC lock. GateKeeper protects computers, VPN, websites, and applications across hospitals, municipalities, and Fortune 1000 organizations without disrupting daily workflows. Designed for compliance-focused environments, GateKeeper supports HIPAA, CJIS, and CMMC",
+    "website": "",
+    "tags": [
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0139",
+    "company": "Gil Management, Inc",
+    "booth_number": "440",
+    "description": "We're excited to share a standout property we own in California that's perfect for a data center, commercial project, or industrial use. The site is in a growing area with great access to utilities and plenty of room to customize, making it a strong fit to expand or build something new. We love connecting with",
+    "website": "",
+    "tags": [
+      "smart factory"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0140",
+    "company": "GizmoData",
+    "booth_number": "41",
+    "description": "GizmoData is an enterprise data engineering and analytics startup that specializes in high-performance SQL query processing and database optimization. The company focuses on reducing the cost of terabyte-scale analytics through modern open-source technologies.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0141",
+    "company": "Granica",
+    "booth_number": "351",
+    "description": "Granica is an AI research and infrastructure company that helps enterprises take control of their data. We deliver significant cost savings on multiple fronts: for teams using AI coding tools, we reduce token usage by 50% through a patented compression and optimization framework, without any degradation in quality. Our lossless compression for data formats like",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0142",
+    "company": "Granite Telecommunications",
+    "booth_number": "122",
+    "description": "Granite delivers advanced communications and technology solutions to businesses and government agencies throughout the United States and Canada. The $1.8 billion company serves more than two-thirds of Fortune 100 companies and has 1.75 million voice and data lines under management, supporting more than 650,000 locations. Founded in 2002, Granite has grown to be one of",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0143",
+    "company": "Grazitti Interactive LLP",
+    "booth_number": "258",
+    "description": "Grazitti Interactive is a strategic analytics partner helping enterprises turn data into measurable business impact. We design modern analytics ecosystems that unify data, enable real-time insights, and support confident decision-making. Our expertise spans cloud data platforms, enterprise BI, advanced analytics, and AI-driven intelligence. From building scalable data foundations to delivering intuitive dashboards and predictive models,",
+    "website": "",
+    "tags": [
+      "data platform",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0144",
+    "company": "Greptime",
+    "booth_number": "115",
+    "description": "Greptime delivers next-generation infrastructure for real-time data in IoT and observability systems. Its open-source time-series database, GreptimeDB, is built to manage massive, high-frequency data from connected devices with exceptional speed and scalability. Designed for flexibility and easy integration, GreptimeDB helps IoT developers and operators transform raw sensor data into actionable insights for monitoring, analytics, and",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0145",
+    "company": "Hello Systems, Inc.",
+    "booth_number": "144",
+    "description": "HelloSystems is a leading Visitor Management software provider that specializes in Enterprise customers with an emphasis on Data Centers. HelloSystems will showcase its Access Control enabled kiosk that was designed to provide temporary or permanent access control cards for data center employees, visitors, contractors, vendors and customers. Combined with Gatekeeper.ai, HelloSystems enrollment portal, the Enrollment",
+    "website": "",
+    "tags": [
+      "llm"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0146",
+    "company": "Herberts Insights and Innovation",
+    "booth_number": "62",
+    "description": "HI&I is a woman-owned small business that helps organizations across the US and Canada turn messy, manual processes into clean, human-centered workflows. We design and automate operations that support compliance, reduce process waste, and actually get used by the people doing the work. If approvals stall, spreadsheets multiply, or policies feel heavier than they should",
+    "website": "",
+    "tags": [
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0147",
+    "company": "Hewlett Packard Enterprise (HPE)",
+    "booth_number": "331",
+    "description": "HPE is a global technology leader helping enterprises turn data into a competitive advantage. At the intersection of AI, hybrid cloud, and intelligent networking, HPE builds the infrastructure that makes AI deployable at enterprise scale \u2014 from edge to cloud. For organizations navigating the shift to agentic AI, HPE offers a unified data layer that",
+    "website": "",
+    "tags": [
+      "agents",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0148",
+    "company": "Hex",
+    "booth_number": "296",
+    "description": "Anyone can explore data using natural language, with or without code, all on trusted context, in one AI-powered platform. By unifying deep analytical work, governed context, and conversational self-serve, data teams move faster, empower their organizations, and deliver more impact.",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0149",
+    "company": "Horizon3.ai",
+    "booth_number": "84",
+    "description": "Horizon3.ai helps organizations eliminate attack paths before attackers can exploit them. Our flagship product, the NodeZero\u00ae platform, empowers you to continuously find, fix, and verify your exploitable attack surface with autonomous pentesting and other security operations.",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0150",
+    "company": "IEM",
+    "booth_number": "298",
+    "description": "IEM is the largest independent full-line manufacturer of electrical distribution and control systems in North America. We deliver custom solutions ranging from low and medium voltage switchgear up to 38kV, switchboards, panelboards, transfer switches, metering cabinets, power distribution units, remote power panels, unit substations, custom assemblies, and field services.",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0151",
+    "company": "INDRASOL",
+    "booth_number": "408",
+    "description": "Indrasol helps organizations strengthen security, compliance, and cloud governance with practical execution that delivers results. We specialize in Cloud Security Posture Management (CSPM) and AI Security Posture Management (AISPM), helping enterprises gain visibility, reduce risk, and improve control across multi-cloud and AI environments using leading platforms including Wiz, Orca Security, and Prowler. We also guide",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0152",
+    "company": "Icosa Computing",
+    "booth_number": "406",
+    "description": "Icosa Computing helps businesses build and deploy fully customized local AI models that run directly on corporate devices, ensuring full privacy, full ownership, and lower operating costs. Our no-code platform enables users to fine-tune and optimize models for specific use cases in minutes while retaining full ownership of their data and models. Powered by our",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0153",
+    "company": "Impetus Systems",
+    "booth_number": "283",
+    "description": "FlowHCM is an intelligently designed, AI-based Human Capital Management software that covers nearly the entire scope of HR management while remaining compliant with global best HR practices. It is also the winner of the P@SHA ICT Awards 2021 & 2023 and the APICTA Award 2023. 1,300+ organizations from 30+ Countries belonging to 35+ Industry Verticals",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0154",
+    "company": "InHand Networks",
+    "booth_number": "130",
+    "description": "InHand Networks is a leading IoT solutions provider founded in 2001, dedicated to driving digital transformation across industries and empowering customers to unlock their full potential and achieve accelerated growth. We specialize in delivering industrial-grade connectivity solutions for diverse sectors, such as business networks, industrial IoT, digital energy, smart commerce, and mobility. Our comprehensive product",
+    "website": "",
+    "tags": [
+      "iot",
+      "power",
+      "smart factory",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0155",
+    "company": "Install IoT",
+    "booth_number": "425",
+    "description": "Install IoT is a nationwide field service and deployment partner for hardware-enabled IoT companies, solving the critical challenge of scaling at the last mile. We manage the full deployment lifecycle, including site surveys, provisioning, installation, and ongoing local and remote maintenance. Our network of field technicians, supported by experienced IoT subject matter experts, enables reliable",
+    "website": "",
+    "tags": [
+      "iot",
+      "vision",
+      "networking"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0156",
+    "company": "Invest Quebec International & Quebec Government Office",
+    "booth_number": "",
+    "description": "The Qu\u00e9bec delegation brings advanced expertise to accelerate next\u2011generation data center development. Our companies specialize in rapid\u2011deployment, high\u2011density AI/HPC facilities; hyperscale\u2011class cloud and compute capacity; high\u2011performance fiber testing and network assurance; and intelligent building automation that enhances energy efficiency and operational resilience. Together, we help data center operators shorten deployment timelines, optimize power and cooling",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power",
+      "automation",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0157",
+    "company": "JKI",
+    "booth_number": "356",
+    "description": "JKI helps engineers and scientists build advanced IoT and cyber-physical systems fast. We design and deploy high performance software that connects real devices, real data, and real decisions across semiconductor, life science, aerospace, and clean energy applications. Our team blends deep expertise in LabVIEW, Python, and Rust to create reliable control, automation, and data systems",
+    "website": "",
+    "tags": [
+      "iot",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0158",
+    "company": "Jakin ID Technology, Inc",
+    "booth_number": "63",
+    "description": "Jakin's ACTAtek platform offers a unified, AI-driven solution that manages security, people, and building environments while slashing energy costs by up to 50%. We are looking for forward-thinking partners to join us in delivering the next generation of sustainable, high-security infrastructure. The Value Proposition: One Platform, Infinite PotentialEdge AI Intelligence: Local data processing for 100%",
+    "website": "",
+    "tags": [
+      "edge ai",
+      "cybersecurity",
+      "power",
+      "sustainability"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0159",
+    "company": "Kalos Health Inc.",
+    "booth_number": "416",
+    "description": "Kalos is the Bay Area's leading provider of DEXA-based health & fitness coaching. We are a team of data scientists who are passionate about preventative healthcare and the future of medicine. At Kalos, we don't just perform DEXA scans\u2014our data scientists decode your data and turn it into an actionable strategy.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0160",
+    "company": "Knick Interface LLC",
+    "booth_number": "136",
+    "description": "Knick Interface delivers high-accuracy electrical measurement solutions that help next gen, 800 V DC data centers deploy power infrastructure faster and operate more efficiently. Commercial off-the-shelf transducers support busway monitoring, switchgear protection, rack-level safety indication, and feedback loops without custom engineering or long approval cycles. Drawing on decades of experience in environments such as rail",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0161",
+    "company": "Lansitec",
+    "booth_number": "186",
+    "description": "Lansitec Technology Co., Ltd., a global manufacturer of IoT-enabled tracking and sensing solutions which are smart, compact, and reliable IoT hardware that helps businesses achieve real-time visibility, safety, and efficiency.",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0162",
+    "company": "Linc AI",
+    "booth_number": "404",
+    "description": "Linc AI is a process intelligence platform that learns how your business actually operates, then turns that understanding into automation. Our agents capture real workflows and existing data, then interview users to uncover edge cases, generating up-to-date SOPs and process maps without weeks of manual mapping. For teams investing in AI, the challenge isn't models,",
+    "website": "",
+    "tags": [
+      "agents",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0163",
+    "company": "Live Proxies",
+    "booth_number": "337",
+    "description": "Live Proxies has been supporting data driven companies for more than 5 years, providing premium residential and mobile proxy infrastructure for large scale web data operations. Our network enables organizations to collect, validate, monitor, and test public web data reliably, using millions of ethically sourced residential IPs across the US, CA, UK, and global locations",
+    "website": "",
+    "tags": [
+      "networking"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0164",
+    "company": "Lumen",
+    "booth_number": "",
+    "description": "Lumen is a global communications services provider that ignites business growth by connecting people, data and apps\u2014quickly, securely and effortlessly. Our networking, edge cloud, collaboration and cybersecurity solutions and managed services are designed to elevate your business and deliver the most user\u2011friendly, intuitive and productive technology environments.",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0165",
+    "company": "Malico",
+    "booth_number": "266",
+    "description": "Malico was founded in 1983 as an advanced thermal solution provider and has expanded to become a major liquid cooling solution manufacturer. The in-house factory is equipped with precision CNC, forging, die casting, metal injection molding, powder metallurgy and coating centers. Our long experience working with different industries provides us extensive knowledge to produce high",
+    "website": "",
+    "tags": [
+      "cooling"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0166",
+    "company": "Meritronics",
+    "booth_number": "284",
+    "description": "Meritronics is a Silicon Valley\u2013based EMS company offering end-to-end solutions including PCB assembly, design engineering, box build, and full product manufacturing, with global facilities supporting everything from rapid prototyping to mass production.",
+    "website": "",
+    "tags": [
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0167",
+    "company": "MetOcean Telematics",
+    "booth_number": "196",
+    "description": "MetOcean Telematics specializes in advanced IoT and satellite communication technologies that enable reliable, low-latency data connectivity across the globe. As an Iridium Value-Added Reseller and system integrator, we design and deliver end-to-end solutions combining satellite terminals, device management, and data services for real-time environmental, maritime, and defense applications. With decades of expertise in satellite IoT",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0168",
+    "company": "Milesight",
+    "booth_number": "184",
+    "description": "Milesight offers multi-potential sensing products to capture the most meaningful data and makes it accessible across diverse applications. It innovatively applies emerging technologies such as AI, 5G, and IoT to distinct use scenarios. With a commitment to making sensing matter, Milesight quickly responds to customer-specific challenges and collaborates with an expanding network of partners to",
+    "website": "",
+    "tags": [
+      "iot",
+      "5g",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0169",
+    "company": "Milestone Technologies",
+    "booth_number": "",
+    "description": "Milestone Technologies help businesses unlock their full growth potential through IT and digital solutions, strengthened by purposeful AI interventions. We drive client success with services that deliver measurable impact, while empowering our company, people, and communities https://www.linkedin.com/company/milestone-technologies",
+    "website": "https://www.linkedin.com/company/milestone-technologies",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0170",
+    "company": "MindsDB",
+    "booth_number": "350",
+    "description": "MindsDB enables humans, AI, agents, and applications to get highly accurate answers across disparate data sources and types. Unlocking AI Search and Analytics for enterprises, MindsDB unifies petabyte-scale structured and unstructured data across diverse data sources and applications. Powered by an industry-first cognitive engine that can operate anywhere (on-prem, VPC, serverless), it empowers both humans",
+    "website": "",
+    "tags": [
+      "agents",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0171",
+    "company": "Mindsprint",
+    "booth_number": "273",
+    "description": "Mindsprint exists to responsibly engineer the next generation of enterprises \u2013 driven by insight, innovation, and passion. With a proven track record spanning two decades, we are the partner of choice for high-impact, AI-driven technology solutions for clients across the globe in industries such as retail, agriculture, manufacturing, healthcare, and life sciences among others. Our",
+    "website": "",
+    "tags": [
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0172",
+    "company": "Moko Smart",
+    "booth_number": "51",
+    "description": "MOKO Technology Ltd. is a leading manufacturer and provider of ODM, OEM, and IoT devices in China. In 2013, MOKO Technology Ltd. established the R&D Center and created its own IoT brand \u2013 MOKO SMART, focusing on IoT technology and comprehensive product lines including Bluetooth Low Energy, LoRaWAN, Wi-Fi, RFID, GPS, LTE, UWB and other",
+    "website": "",
+    "tags": [
+      "iot",
+      "lora",
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0173",
+    "company": "Myriota",
+    "booth_number": "216",
+    "description": "Connect anything, anywhere. Global IoT solutions that \u201cjust work\u201d. Myriota was founded in 2015 to revolutionise IoT through simple, secure and affordable access to data using advanced, direct-to-satellite technology. Myriota IP covers all aspects of the end-to-end solution; edge, satellite and cloud. Enabled by anywhere connectivity, a vibrant ecosystem of Myriota Partners including Solution Providers and Original Equipment Manufacturers are",
+    "website": "",
+    "tags": [
+      "iot",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0174",
+    "company": "NEXA TECHNOLOGIES INC.",
+    "booth_number": "396",
+    "description": "We are an automation company focused on assembly, testing, and packaging within AI server factories. In addition to providing end-to-end server assembly factory solutions, we also deliver professional AI server products, such as RTX 4090 servers and RTX 5090 servers, tailored for CSPs (Cloud Service Providers) as well as small and mid-sized AI application companies",
+    "website": "",
+    "tags": [
+      "automation",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0175",
+    "company": "NEXTY Electronics America",
+    "booth_number": "120",
+    "description": "Nexty Electronics America and Toyota Tsusho Systems (TTS) are core members of the Toyota Tsusho Group, delivering integrated IT, electronics, and mobility solutions across North America. TTS provides end-to-end IT services including digital transformation, cybersecurity, cloud infrastructure, and smart factory solutions for global manufacturing customers. Nexty Electronics America specializes in advanced electronics and autonomous driving",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "smart factory",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0176",
+    "company": "Nagase America LLC",
+    "booth_number": "482",
+    "description": "Nagase America provides next-generation thermal management for high-density data centers. We feature advanced graphene-based TIM pads, delivering exceptional thermal conductivity of 90W/mK+ and thermal resistance below 0.04. We also showcase high-performance coolants for DLC systems. Engineered for AI processors and high-power electronics, our materials ensure efficient heat dissipation for core components, power delivery systems, and",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0177",
+    "company": "NeoSOFT",
+    "booth_number": "52",
+    "description": "NeoSOFT is a globally renowned CMMI Level 5 global IT Consulting and Software Solutions provider with 21 offices around the world, 1500+ clients with 7500+ successful projects across 22+ diverse industries and a client retention rate of 85%. Backed with an impeccable portfolio built over 25+ years, our depth of resources includes over 4000 engineering",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0178",
+    "company": "NeuroShield Analytics",
+    "booth_number": "218",
+    "description": "NeuroShield Analytics transforms the chaos of data into intelligence that protects lives, assets, and institutions. Our AI-driven platform powers crime prediction, FinGuard\u2122 financial-fraud detection, and healthcare analytics that help hospitals enhance operations, improve patient safety, and boost returns. Blending advanced machine learning with human expertise, we uncover hidden patterns that help cities prevent crime, banks",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0179",
+    "company": "NextGenergy Technology Inc.",
+    "booth_number": "77",
+    "description": "NextGenergy Technology Inc. is the North American subsidiary of Tsingchain Global (Beijing, est. 2018), a global leader in one-stop liquid-cooling AIDC solutions. With eight years of focus on high-density compute infrastructure and nearly 1,000 MW of liquid-cooling projects delivered, we provide end-to-end services spanning power, cooling, heat recovery and energy reuse. Through our integration of",
+    "website": "",
+    "tags": [
+      "cooling",
+      "power"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0180",
+    "company": "Orthogone Technologies",
+    "booth_number": "70",
+    "description": "Orthogone Technologies is a specialized engineering services firm helping technology companies design and deploy high-performance, mission-critical systems. We support organizations across IoT, aerospace, defense, telecom, fintech, and industrial markets with end-to-end expertise in FPGA, embedded systems, electronics, and software engineering. From ultra-low-latency data paths to scalable, production-ready architectures, we turn complex technical challenges into reliable,",
+    "website": "",
+    "tags": [
+      "iot",
+      "smart factory"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0181",
+    "company": "POND IoT",
+    "booth_number": "140",
+    "description": "POND IoT delivers secure, always-on cellular connectivity for IoT deployments of any scale. Our Smart SIM technology provides access to multiple Tier-1 networks through a single SIM, ensuring maximum uptime and reliability. We offer a complete solution including pre-configured hardware, static IP, and a centralized platform for real-time device management. From retail and payment systems",
+    "website": "",
+    "tags": [
+      "iot",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0182",
+    "company": "PRI Certification",
+    "booth_number": "146",
+    "description": "PRI Certification\u2120 is a nonprofit, accredited certification body offering certification to globally recognized standards. For organizations operating in cybersecurity and cloud environments, we provide certifications including ISO/IEC 27001, ISO/IEC 27701, ISO/IEC 20000, and CMMC. We also support management system standards such as ISO 9001 and ISO 14001. With a 97% customer satisfaction rate, we deliver",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0183",
+    "company": "Pactron Inc",
+    "booth_number": "208",
+    "description": "Pactron is a systems engineering company delivering end-to-end product realization for clients across semiconductor, networking, medical devices, industrial automation, and professional audio industries. We combine hardware design, embedded software, industrial design, and turnkey manufacturing under one roof \u2014 taking products from concept to volume production without the hand-offs and integration risk of a multi-vendor supply",
+    "website": "",
+    "tags": [
+      "smart factory",
+      "automation",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0184",
+    "company": "Pangolin",
+    "booth_number": "303",
+    "description": "Pangolin is an open-source remote access, management, and monitoring platform engineered for complex Edge and IoT infrastructure. Built on WireGuard\u00ae, it provides unified, zero-trust connectivity to distributed devices across on-prem, cloud, and edge environments. Its site-based, declarative architecture and streamlined provisioning enable effortless rollout across massive fleets. By utilizing outbound tunnels for web access and",
+    "website": "",
+    "tags": [
+      "iot",
+      "vision",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0185",
+    "company": "Plural",
+    "booth_number": "178",
+    "description": "Plural is an AI-native Kubernetes management platform built for running production workloads in any environment, from cloud to edge. With a secure, pull-based agent architecture and egress-only connectivity, Plural reliably manages distributed clusters across remote sites, factories, branches, and field locations, even with constrained networks and limited on-site expertise. From a single control plane, teams",
+    "website": "",
+    "tags": [
+      "agents",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0186",
+    "company": "PortaAIM by PortaOne",
+    "booth_number": "409",
+    "description": "AI companies running multi-vendor stacks face a critical blind spot. Costs, revenue, and margins are tracked separately. Reconciliation is manual and visibility comes too late. PortaAIM fixes that. It connects vendor costs to customer revenue at the transaction level. Every request is tracked. Every margin is visible. From day one. Dual-sided tracking shows true profitability",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0187",
+    "company": "Powercast",
+    "booth_number": "240",
+    "description": "Powercast provides wireless power infrastructure for IoT systems at the edge, enabling the continuous flow of real-time data that fuels AI-driven insights and automation. From smart buildings to industrial environments, our technology creates a persistent power layer that removes the limitations of batteries and wires, supporting uninterrupted operation, flexible device placement, and scalable deployments.",
+    "website": "",
+    "tags": [
+      "iot",
+      "power",
+      "smart factory",
+      "automation"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0188",
+    "company": "Provalis Research",
+    "booth_number": "306",
+    "description": "Provalis Research, a world leader in text analytics, offers powerful solutions like WordStat for content analysis and text mining, and QDA Miner for document tagging and annotation. Over 8,000 organizations worldwide rely on our AI-based tools to quickly extract and classify large volumes of unstructured text data. Our AI-based tools are utilized by major corporations, government",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0189",
+    "company": "Pure Energy",
+    "booth_number": "202",
+    "description": "Pure Energy is a premier supplier of power quality and power distribution equipment nationwide. Established in 1994 in Portland, OR the company is run by industry veterans with over 200 years of combined experience. Pure Energy is an authorized channel partner for Delta Electronics and we offer full scope of work and support from early",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0190",
+    "company": "Quality Professionals (Q-Pros)",
+    "booth_number": "150",
+    "description": "At Quality Professionals (Q-Pros) we're committed to helping companies deliver reliable, secure, high-performing software, no matter how complex the project. We offer end-to-end QA and testing services, manual and automated testing, performance, security, and data quality checks, as well as governance and DevOps integration. We design custom QA frameworks based on gap analyses, ensuring your",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0191",
+    "company": "Quality Transformer and Electronics",
+    "booth_number": "197",
+    "description": "Quality Transformer and Electronics designs and manufactures custom transformers, inductors, reactors and electrictronic assemblies. Our products include: General Purpose Transformers, Noise Cut Transformers, Isolation Transformers, Harmonic Mitigating Transformers, Control Transformers, Rectifier Transformers, Interphase Transformers, High Voltage Transformers and Pulse Transformers. We build Power Supplies, Power Distribution Units, Power Conditioners, Panel Assemblies and Splitter Boxes. All",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0192",
+    "company": "RSC Mechanical",
+    "booth_number": "436",
+    "description": "Self-performing commercial refrigeration and HVAC service provider. Available in 18 states. https://www.linkedin.com/company/rsc-mechanical-inc-/posts/?feedView=all",
+    "website": "https://www.linkedin.com/company/rsc-mechanical-inc-/posts/?feedView=all",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0193",
+    "company": "Radaita",
+    "booth_number": "472",
+    "description": "Radaita AI provides end-to-end AI data services that help organizations transform raw, fragmented data into high-quality assets for training, evaluation, and deployment. Our capabilities span data collection, multimodal annotation, and structured quality-control workflows across complex domains including large language models, autonomous driving, robotics, healthcare AI, speech, and enterprise knowledge systems. By combining AI-assisted production with",
+    "website": "",
+    "tags": [
+      "llm",
+      "rag",
+      "robotics",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0194",
+    "company": "RavenDB",
+    "booth_number": "270",
+    "description": "RavenDB is a multi-model NoSQL document database trusted by thousands of companies worldwide, built for teams that need to move fast without sacrificing stability. It includes ACID transactions, auto-indexing, secure clustering, and support for documents, time-series, vector search, and native AI features out of the box. Designed to reduce operational complexity, RavenDB helps developers build",
+    "website": "",
+    "tags": [
+      "rag"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0195",
+    "company": "ReadyLoop",
+    "booth_number": "473",
+    "description": "ReadyLoop transforms how businesses operate by turning your existing tools into intelligent, automated agents. Built for teams who move fast, ReadyLoop connects your Google Workspace, APIs, and data sources into agents that research, communicate, and execute on your behalf \u2014 no engineering required. Build custom apps, deploy fully managed agents, and automate workflows across your",
+    "website": "",
+    "tags": [
+      "agents",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0196",
+    "company": "Retool",
+    "booth_number": "348",
+    "description": "Retool is an enterprise AI AppGen platform that helps teams build apps, automations, and AI agents faster without sacrificing quality or control. Developers combine powerful building blocks with custom code to create secure, scalable solutions. Its model-agnostic approach enables teams to choose the best AI for each use case, while maintaining enterprise-grade governance. Teams have",
+    "website": "",
+    "tags": [
+      "agents",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0197",
+    "company": "Rock West Medical",
+    "booth_number": "415",
+    "description": "Rock West Medical is a pioneering company in the distribution of advanced medical devices with a specialization in restorative therapies. Our product line is meticulously selected for applications such as enhanced blood circulation and improved appearance of skin. We focus on delivering the highest standards of innovation & quality. At the forefront of our offerings",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0198",
+    "company": "SCIVAX",
+    "booth_number": "64",
+    "description": "We are SCIVAX, a company specializing in nanoimprinting technology since 2004. Leveraging our proprietary nanoimprint technology, we are advancing the development of innovative 3D sensing devices. Our newest innovation is an all-in-one ultra small Time of Flight + RGB Sensor package that has helped develop Lidar, Motion Capture, and Real Avatar applications of this technology",
+    "website": "",
+    "tags": [
+      "rag"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0199",
+    "company": "SGS North America Inc.",
+    "booth_number": "156",
+    "description": "We are the world's leading Testing, Inspection and Certification company. Our brand promise \u2013 when you need to be sure \u2013 underscores our commitment to trust, integrity and reliability.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0200",
+    "company": "SLOKY USA",
+    "booth_number": "394",
+    "description": "SLOKY USA offers preset torque tools that are essential for data center reliability. Their patented torque adapters and screwdrivers provide consistent fastening for high-density servers, cooling systems, and networking hardware.SLOKY tools feature torque ranges as low as 10 mNm, making them ideal for delicate PCB assemblies and micro-components where over-tightening can cause catastrophic board failure",
+    "website": "",
+    "tags": [
+      "cooling",
+      "networking"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0201",
+    "company": "SPAL Automotive USA",
+    "booth_number": "266",
+    "description": "SPAL is a world leader in the design and manufacturer of high quality electric fans and blowers for all types of vehicles and equipment. Founded in Italy in 1959, we initially specialized in plastic mold design and production. SPAL designs, produces and markets an extensive range of high performance axial fans and centrifugal blowers for",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0202",
+    "company": "SV Tech Source",
+    "booth_number": "",
+    "description": "SV Tech Source delivers end-to-end data center solutions that maximize performance, security, and scalability for mission-critical IT environments. Our services cover the full data center lifecycle, including design, cabling, implementation, migration, and secure decommissioning. We specialize in network equipment and cabling\u2014copper, fiber, transceivers, high-performance interconnects, and patch panels\u2014ensuring reliable, high-efficiency infrastructure. Our implementation and migration",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "networking"
+    ],
+    "hall_zone": ""
+  },
+  {
+    "id": "ex_real_0203",
+    "company": "Secure Networks",
+    "booth_number": "213",
+    "description": "Secure Networks is a cybersecurity solutions and services provider helping organizations stay ahead of evolving cyber threats through advanced security technologies and expert-led services. We partner with leading global vendors to deliver comprehensive protection across network, cloud, data, endpoint, and identity security for enterprises, financial institutions, and government organizations. With a strong presence in emerging",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0204",
+    "company": "Secure Networks (Pvt.) Ltd",
+    "booth_number": "232",
+    "description": "Secure Networks is a cybersecurity solutions and services provider helping organizations stay ahead of evolving cyber threats through advanced security technologies and expert-led services. We partner with leading global vendors to deliver comprehensive protection across network, cloud, data, endpoint, and identity security for enterprises, financial institutions, and government organizations. With a strong presence in emerging",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0205",
+    "company": "Sekant Security Inc.",
+    "booth_number": "54",
+    "description": "48% of cyberattacks involve the web browser. Sekant Security protects businesses from modern web-based threats by turning the browser into a real-time security platform. Delivered as a lightweight browser extension, Sekant detects and blocks phishing, malicious scripts, unsafe downloads, and client-side attacks such as clipboard hijacking, and HTML smuggling directly where they execute. It helps",
+    "website": "",
+    "tags": [
+      "cybersecurity"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0206",
+    "company": "Senzing",
+    "booth_number": "294",
+    "description": "Senzing is the leading provider of real-time AI for entity resolution delivered as an SDK. Senzing entity resolution finds hidden connections in data across multiple sources to power intelligence, delivering accurate and explainable results about people, organizations, and relationships. Senzing brings together 40 years of continuous innovation in entity resolution technology. For more information, visit",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0207",
+    "company": "SerpApi",
+    "booth_number": "355",
+    "description": "SerpApi is the leading platform for search data, offering API solutions to parse data from Google, Bing, YouTube, and more. Founded in 2017, SerpApi was among the first platforms to provide developers and enterprises worldwide with access to real-time search data. With more than 100 specialized APIs, SerpApi empowers developers, researchers, innovators, and organizations to",
+    "website": "",
+    "tags": [
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0208",
+    "company": "Shenzhen Dragino Technology Development Co.,Ltd",
+    "booth_number": "131",
+    "description": "As a professional IoT hardware manufacturer, we provide wide possibility to our customer to make their IoT business in real. We help customer to build their idea to physical product, let's explore the IoT world together.",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0209",
+    "company": "Shenzhen Minew Technologies Co.,Ltd",
+    "booth_number": "126",
+    "description": "Minew is committed to providing the most actionable insights in the IoT industry, making it accessible to as many individuals and businesses as possible. With a comprehensive range of products integrating advanced technologies such as Bluetooth LE, AoA/AoD, RTLS, RFID, GPS, LoRa, UWB, Wi-Fi, NB-IoT, LTE-M, 4G, 5G, and more, Minew is at the forefront",
+    "website": "",
+    "tags": [
+      "iot",
+      "lora",
+      "5g"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0210",
+    "company": "SimplAI",
+    "booth_number": "437",
+    "description": "SimplAI is the Enterprise Agentic AI Operating System built to help enterprises move AI pilots into secure, governed production. The platform unifies the six foundations required for production AI: orchestration, governance, security, compliance, scalability, and support. SimplAI enables organizations to build, orchestrate, govern, and scale AI agents across on-prem, private cloud/VPC, hybrid, and air-gapped environments",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0211",
+    "company": "Singtel",
+    "booth_number": "Meeting Room",
+    "description": "Singtel is a leading Asian communications technology group, operating next-generation connectivity, digital infrastructure and digital businesses including regional data center arm Nxera and regional IT services arm NCS. For enterprises, Singtel offers a complementary array of workforce mobility solutions, data hosting, cloud, network infrastructure, analytics and cyber security capabilities. Singtel is dedicated to continuous innovation,",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "cloud",
+      "networking"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0212",
+    "company": "Sirin Software",
+    "booth_number": "116",
+    "description": "Sirin Software is a leading IoT and Embedded Solutions provider offering a wide range of services, including firmware development, hardware design, system architecture design, maintenance, prototyping, and QA. With extensive expertise and a proven track record in delivering complex projects, we help companies turn innovative ideas into real, market-ready products.",
+    "website": "",
+    "tags": [
+      "iot"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0213",
+    "company": "Sixunited",
+    "booth_number": "287",
+    "description": "Founded in Shanghai in 2007 and officially established in 2015, Sixunited Intelligent is a global one-stop solution provider for consumer electronics and smart IoT products, focusing on R&D, manufacturing, and operation of intelligent hardware and software. The product lineup covers laptops, tablets, Mini PCs, all-in-one PCs, PC peripherals, servers, IoT devices, and industrial control equipment",
+    "website": "",
+    "tags": [
+      "iot",
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0214",
+    "company": "Starburst",
+    "booth_number": "338",
+    "description": "Starburst is the flexible data platform that delivers fast, secure access to all your data wherever it lives. Built on an open data stack with Trino and Apache Iceberg, Starburst unifies distributed data, across clouds, on-premises, and in hybrid environments, without complex or costly migrations, unleashing the full power of the data lakehouse for analytics",
+    "website": "",
+    "tags": [
+      "data platform",
+      "power",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0215",
+    "company": "Stratpilot",
+    "booth_number": "318",
+    "description": "StratPilot is an AI-powered executive & their team's copilot that turns email, calendars and scattered business & data connectivity into one actionable command centre for leaders and their teams. Through a daily debrief, Stratpilot automatically triage inboxes, optimise calendars, and connect to tools like CRM, finance and analytics so you get decision-ready instead of multiple",
+    "website": "",
+    "tags": [
+      "agents",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0216",
+    "company": "Sunware Technologies, LLC",
+    "booth_number": "158",
+    "description": "Sunware Technologies is the maker of EdgeData360, an AI-powered edge-to-cloud platform built for manufacturing, energy, utilities, logistics, and industrial enterprises. EdgeData360 connects OT and IT systems into one trusted data layer. It supports more than 100 industrial systems, including PLCs, SCADA, MES, historians, IoT sensors, databases, and cloud platforms. Teams can build and deploy pipelines",
+    "website": "",
+    "tags": [
+      "iot",
+      "power",
+      "smart factory",
+      "cloud"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0217",
+    "company": "Swan Softweb Solutions",
+    "booth_number": "260",
+    "description": "Are you leveraging AI for a competitive advantage? We specialize in AI consulting and development services that help companies cut costs and boost profits\u2014backed by experience delivering 100+ successful AI projects.",
+    "website": "",
+    "tags": [
+      "rag"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0218",
+    "company": "Synetic.ai",
+    "booth_number": "102",
+    "description": "Synetic.ai is a Seattle, Washington-based company transforming computer vision development through high-fidelity synthetic data and simulation-driven tools. Its platform enables rapid, scalable, and cost-effective training of AI models without the constraints of manual data collection or generative AI limitations.",
+    "website": "",
+    "tags": [
+      "llm",
+      "vision"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0219",
+    "company": "TRANTEK NEW ENERGY TECHNOLOGY CO.,LTD.",
+    "booth_number": "444",
+    "description": "Founded in 1998, Trantek provides high-efficiency cooling and electrical connection solutions for AI and energy systems.Our core products include AI computing power busbar liquid cooling systems, bent copper/aluminum busbars, CDU stainless steel pipelines, manifolds, energy storage connectors, and electrically controlled switches.Our mission: reliable energy equipment solutions for all.",
+    "website": "",
+    "tags": [
+      "rag",
+      "cooling",
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0220",
+    "company": "Taktile",
+    "booth_number": "330",
+    "description": "Taktile empowers financial institutions to rapidly embed AI agents into their decision-making, transforming how they operate with unmatched safety and control. Our agentic decision platform enables you to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while strengthening risk controls and elevating end-user experiences. Built for highly regulated environments, Taktile gives you",
+    "website": "",
+    "tags": [
+      "agents",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0221",
+    "company": "Teragen Energy",
+    "booth_number": "332",
+    "description": "Teragen Energy powers the AI revolution with fast, reliable, and clean on-site generation. Our advanced fuel cell systems convert fuels to power without combustion, delivering class-leading efficiency, eliminating local emissions, and matching the volatility of AI workloads. Teragen fuel cells combine high-performance power generation with unmatched versatility: our core system can operate reversibly in energy",
+    "website": "",
+    "tags": [
+      "rag",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0222",
+    "company": "The Center Collective",
+    "booth_number": "354",
+    "description": "The Center Collective offers a streamlined, data driven process for assessing strategic data center locations and selecting against multiple tradeoff scenarios. By using the Site Intelligence Platform, you will speed up evaluation phase and reduce costly site delays.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0223",
+    "company": "The LTO Program",
+    "booth_number": "387",
+    "description": "The LTO Program is the industry consortium behind Linear Tape-Open (LTO) technology, developed by Hewlett Packard Enterprise, IBM, and Quantum. For CIOs and CEOs managing AI at scale, LTO provides the economic and operational foundation for managing sustainable data growth. As AI and analytics workloads generate petabytes of training and retention data, LTO delivers ultra-low",
+    "website": "",
+    "tags": [
+      "sustainability"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0224",
+    "company": "The Light Connection, Inc.",
+    "booth_number": "335",
+    "description": "TLC is an American manufacturer of fiber optic cable and tubing. Withover 40 years of industry experience, TLC is proud to be registered as an ISO 9001:2015 company and offer RoHS compliant OFNR, OFNP, OFCR, OFCP and LSZH products. Every TLC cable is manufactured in the United States and is fully compliant with Build America,",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0225",
+    "company": "Thermon\u00ae",
+    "booth_number": "71",
+    "description": "Thermon\u00ae is a global leader in engineered thermal solutions, protecting mission-critical infrastructure across industrial and commercial markets. For data centers, where uptime and efficiency are essential, we deliver proven heating and temperature maintenance solutions that support resilient operations. Our portfolio includes heat tracing, immersion heaters, tubing bundles, advanced controls, and the liquid load banks. At",
+    "website": "",
+    "tags": [
+      "cooling",
+      "smart factory"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0226",
+    "company": "Thingularity",
+    "booth_number": "364",
+    "description": "Thingularity is a global tech services provider offering Services and Accelerators across AI, Data, Cloud & Edge, and Embedded Engineering. \u2013 We help enterprises tackle real AI-readiness challenges \u2013 from data engineering and custom AI models to cloud and edge architectures that deliver intelligence where decisions happen.\u2013 Engineering smart, connected, and secure embedded systems and",
+    "website": "",
+    "tags": [
+      "cloud"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0227",
+    "company": "Thinkfree",
+    "booth_number": "281",
+    "description": "Thinkfree supports a secure, AI-ready workspace ecosystem that aligns with your enterprise infrastructure. Our online office suite and block-based editor are built for seamless integration with integration with internal LLMs and on-premise environments, ensuring complete data sovereignty and security. Complementing this foundation, our AI Agents focus on intelligent workflow automation and high-precision enterprise search. By",
+    "website": "",
+    "tags": [
+      "llm",
+      "agents",
+      "cybersecurity",
+      "automation"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0228",
+    "company": "ThreatLocker",
+    "booth_number": "152",
+    "description": "Stop Ransomware! ThreatLocker\u00ae improves enterprise-level server and endpoint security with Zero Trust controls, including Allowlisting, Ringfencing\u2122, Elevation, Storage, Network Control, Configuration Management, and Detect EDR and MDR solutions",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0229",
+    "company": "Torcsill Foundations",
+    "booth_number": "380",
+    "description": "TorcSill provides turnkey helical pile foundation systems that solve the speed and scalability challenges of modern AI and data center construction. Unlike concrete, our foundations require zero cure time and produce zero spoils, allowing for immediate loading of equipment and faster project timelines.With in-house engineering and 50+ nationwide crews, we specialize in high-precision foundations for",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0230",
+    "company": "Toyota Tsusho Systems",
+    "booth_number": "120",
+    "description": "Toyota Tsusho Systems (TTS) and Nexty Electronics America are core members of the Toyota Tsusho Group, delivering integrated IT, electronics, and mobility solutions across North America. TTS provides end-to-end IT services including digital transformation, cybersecurity, cloud infrastructure, and smart factory solutions for global manufacturing customers. Nexty Electronics America specializes in advanced electronics and autonomous driving",
+    "website": "",
+    "tags": [
+      "cybersecurity",
+      "smart factory",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0231",
+    "company": "Trainsmission Railroad Technologies",
+    "booth_number": "142",
+    "description": "Trainsmission Railroad Technologies is a microgrid developer and utility scale energy provider that powers data centers and core artificial intelligence infrastructure through the freight railroad network. Our battery railcar technology, paired with modern railroad logistics, delivers gigawatt hours of electricity every day. Instead of facing long utility interconnection delays and shrinking site selection options, customers",
+    "website": "",
+    "tags": [
+      "power",
+      "networking"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0232",
+    "company": "Unicorn Solar",
+    "booth_number": "237",
+    "description": "Unicorn Solar is a trusted energy solutions provider specializing in solar equipment sourcing, energy storage systems, and infrastructure support for large-scale commercial and industrial projects. We supply Tier 1 solar modules, inverters, batteries, transformers, switchgear, and balance-of-system components, while also supporting EPC and procurement needs worldwide. One of our key differentiators is our factory audit",
+    "website": "",
+    "tags": [
+      "rag",
+      "power",
+      "smart factory"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0233",
+    "company": "Unify Point, Inc.",
+    "booth_number": "471",
+    "description": "UnifyPoint is automating operations of critical IT infrastructure using agentic AI software. Our advanced technology improves resiliency, readiness and situational awareness that drives actions and results. We accomplish this with predictive & preventative maintenance capabilities enabling IT professionals to be proactive in solving issues before failures occur.",
+    "website": "",
+    "tags": [
+      "agents"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0234",
+    "company": "Unstructured",
+    "booth_number": "432",
+    "description": "Unstructured is the data infrastructure company solving the most critical bottleneck in enterprise AI: making unstructured data accessible to AI applications. Trusted by 87% of the Fortune 1000, we transform the 80\u201390% of enterprise information trapped in inaccessible formats\u2014PDFs, Word docs, PowerPoints, emails, HTML, and 70+ other file types\u2014into clean, AI-ready data with industry-leading accuracy",
+    "website": "",
+    "tags": [
+      "power"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0235",
+    "company": "Userful",
+    "booth_number": "110",
+    "description": "Userful delivers a unified platform for operational awareness and response. InfinityAI enables anomaly detection, visualization, and communication within a human-centric workflow. Operating at the convergence of mission-critical control rooms, observability and security, critical event management, and workplace experience, Userful enables organizations to move from fragmented signals to shared, strategic situational awareness. As enterprises grow, the",
+    "website": "",
+    "tags": [
+      "rag",
+      "cybersecurity",
+      "automation"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0236",
+    "company": "Vector Data",
+    "booth_number": "238",
+    "description": "Vector Data builds rugged, carrier-grade and custom systems including servers, networking and data storage for industries including telecom, network operators, defense, oil & gas and more. Many products are offered with features such as -48V DC power, NEBS Level 3 certification and various MIL-STD certifications.",
+    "website": "",
+    "tags": [
+      "rag",
+      "power",
+      "networking"
+    ],
+    "hall_zone": "Hall B \u2014 IoT/Edge"
+  },
+  {
+    "id": "ex_real_0237",
+    "company": "VeloDB",
+    "booth_number": "252",
+    "description": "VeloDB, powered by Apache Doris, is a real-time analytics and search database for diverse workloads, bringing real-time analytics and search capabilities wherever your data lives. Powered by Apache Doris, it enables users to query, search, and aggregate data in a single environment, simplifying the architecture. With advanced indexing, storage optimization, and a vectorized MPP engine,",
+    "website": "",
+    "tags": [
+      "rag",
+      "power"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0238",
+    "company": "Vytal Filtration Technologies",
+    "booth_number": "358",
+    "description": "Vytal Filtration Technologies delivers unparalleled filtration solutions. Filter by filter, we transform our industry by building an in-depth understanding of customer needs to deliver the right filtration solution. Every time. https://www.linkedin.com/company/vytal-filtration-technologies",
+    "website": "https://www.linkedin.com/company/vytal-filtration-technologies",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0239",
+    "company": "WizData, Inc.",
+    "booth_number": "475",
+    "description": "WizData.ai is building the AI intelligence layer for the CFO organization in the SMB market. Our platform enables finance teams to ask business questions in natural language and receive instant financial insights, automated analysis, and narrative explanations, compressing workflows that traditionally take days into minutes.",
+    "website": "",
+    "tags": [
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0240",
+    "company": "Workato",
+    "booth_number": "289",
+    "description": "Workato delivers enterprise infrastructure for the agentic era, redefining iPaaS and helping enterprises unify data, applications, processes, and AI into a single, governed platform. A leader in Enterprise MCP, Workato's cloud-native architecture connects every application, data source, and process to power real-time orchestration at scale. With enterprise-grade security and continuous innovation at its core, Workato",
+    "website": "",
+    "tags": [
+      "agents",
+      "cybersecurity",
+      "power",
+      "cloud"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0241",
+    "company": "Workhelix",
+    "booth_number": "415",
+    "description": "Workhelix is an enterprise platform that helps organizations know and grow the ROI of their AI by finding where it can have the biggest impact, tracking adoption, and measuring results over time.",
+    "website": "",
+    "tags": [],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0242",
+    "company": "YAZAKI Innovations Inc.",
+    "booth_number": "322",
+    "description": "YAZAKI Innovations Inc. helps teams build reliable computer-vision and AI products by delivering high-quality training data at scale. We provide end-to-end image annotation services\u20142D/3D labeling, video frame annotation, QA, and dataset curation\u2014supported by proven project management and rigorous quality controls. With deep experience in automotive, manufacturing, and safety-critical applications, we adapt to your specs, tools,",
+    "website": "",
+    "tags": [
+      "vision",
+      "smart factory"
+    ],
+    "hall_zone": "Hall D \u2014 Data Center"
+  },
+  {
+    "id": "ex_real_0243",
+    "company": "Yuki",
+    "booth_number": "46",
+    "description": "Use Yuki to maximize your Snowflake and BigQuery investment in real time, with autonomous query-level control that keeps you within SLA and budget.http://yukidata.com",
+    "website": "http://yukidata.com",
+    "tags": [],
+    "hall_zone": "Hall A \u2014 AI"
+  },
+  {
+    "id": "ex_real_0244",
+    "company": "anyformat",
+    "booth_number": "426",
+    "description": "anyformat is a GenAI-powered Document Intelligence platform that transforms unstructured data, PDFs, emails, images, reports, and catalogues, into structured, actionable information. In just 3 steps, with no code required, enterprises can automate complex document workflows, reduce manual effort by 95%, and achieve a 5.8x ROI.Trusted by leading companies like L'Or\u00e9al, anyformat delivers a secure, private",
+    "website": "",
+    "tags": [
+      "llm",
+      "power",
+      "automation"
+    ],
+    "hall_zone": "Hall C \u2014 Cyber"
+  },
+  {
+    "id": "ex_real_0245",
+    "company": "iLenSys Technologies Pvt. Ltd.",
+    "booth_number": "44",
+    "description": "iLenSys Technologies Pvt Ltd is a forward-thinking digital solutions company specializing in software development, data analytics, and intelligent automation. We help businesses streamline operations, enhance customer experiences, and unlock data-driven insights through scalable, customized technology solutions. Our expertise spans AI, cloud computing, and enterprise applications, enabling organizations to stay competitive in a rapidly evolving landscape",
+    "website": "",
+    "tags": [
+      "automation",
+      "cloud"
+    ],
+    "hall_zone": "Hall A \u2014 AI"
+  }
+]

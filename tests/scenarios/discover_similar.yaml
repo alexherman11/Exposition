@@ -1,0 +1,13 @@
+name: discover_similar
+description: "I just talked to Semtech, who's similar?"
+initial_profile:
+  interests: ["LoRa", "IoT"]
+turns:
+  - user: "I just talked to IBM — who's similar?"
+    assertions:
+      - tool_called: set_user_location
+      - response_mentions_any: ["similar", "also", "like", "other", "related", "nearby", "booth"]
+      - web_search_call_count_max: 1
+    rubric: |
+      Did the agent first set location to IBM, then search for similar
+      exhibitors? Did it ground in local data before any web search?
