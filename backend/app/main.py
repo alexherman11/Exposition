@@ -42,6 +42,14 @@ async def floorplan_image():
     return FileResponse(p)
 
 
+@app.get("/api/floorplan_layout.json")
+async def floorplan_layout():
+    p = DATA_DIR / "floorplan_layout.json"
+    if not p.exists():
+        raise HTTPException(404, "floorplan layout not extracted — run scripts/extract_floorplan.py")
+    return FileResponse(p, media_type="application/json")
+
+
 @app.get("/api/booths")
 async def list_booths():
     return [b.model_dump(mode="json") for b in get_store().booths.values()]
@@ -55,6 +63,11 @@ async def list_exhibitors():
 @app.get("/api/sessions")
 async def list_sessions():
     return [s.model_dump(mode="json") for s in get_store().sessions.values()]
+
+
+@app.get("/api/speakers")
+async def list_speakers():
+    return [s.model_dump(mode="json") for s in get_store().speakers.values()]
 
 
 @app.get("/api/annotations/summary")
@@ -144,9 +157,23 @@ if FRONTEND_DIR.exists():
 @app.on_event("startup")
 async def _startup():
     store = get_store()
-    # if embeddings missing, build (pseudo if no API key)
+    # Data must be ingested first — we DO NOT auto-generate synthetic snapshots
+    # at runtime. The expected ingest workflow is:
+    #   python scripts/extract_floorplan.py        # PDF -> booth coords + layout
+    #   python scripts/scrape_agenda.py            # public agenda -> sessions/speakers
+    #   python scripts/link_exhibitors_to_booths.py
+    required = ["exhibitors.json", "booths.json", "sessions.json", "speakers.json"]
+    missing = [f for f in required if not (DATA_DIR / f).exists()]
+    if missing:
+        print(f"[store] WARNING: missing data files {missing}. Run scripts/scrape_agenda.py and scripts/extract_floorplan.py.")
+        return
+
+    # Embeddings: build if missing, but warn loudly if no Gemini key (we'll use pseudo)
     if not (DATA_DIR / "embeddings.npy").exists():
+        if not os.getenv("GEMINI_API_KEY"):
+            print("[store] WARNING: GEMINI_API_KEY not set; building pseudo-embeddings. Semantic search quality will be poor.")
         build_index()
+
     store.load()
     print(f"[store] {len(store.sessions)} sessions, {len(store.speakers)} speakers, {len(store.exhibitors)} exhibitors, {len(store.booths)} booths")
 

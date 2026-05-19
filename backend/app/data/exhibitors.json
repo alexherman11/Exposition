@@ -33,7 +33,7 @@
       "rag",
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0003",
@@ -46,7 +46,7 @@
       "automation",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0004",
@@ -55,7 +55,7 @@
     "description": "SAP is a leading enterprise application and business AI company, addressing real business challenges with innovative technology. Our solutions support complex, demanding processes and adapt to dynamic global business environments. With AI at our core, we engineer progress and deliver tangible business value to customers daily, helping companies bring out their best.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0005",
@@ -66,7 +66,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0006",
@@ -80,7 +80,7 @@
       "cloud",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0007",
@@ -95,7 +95,7 @@
       "smart factory",
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0008",
@@ -109,7 +109,7 @@
       "power",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0009",
@@ -121,7 +121,7 @@
       "power",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0010",
@@ -144,7 +144,7 @@
       "rag",
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0012",
@@ -153,7 +153,7 @@
     "description": "Rhino Federated Computing solves one of the biggest challenges in AI: seamlessly connecting siloed data through federated computing. The Rhino Federated Computing Platform (RhinoFCP) serves as the 'data collaboration tech stack', extending from providing computing resources to data preparation & discoverability, to model development & monitoring \u2014 all in a secure, privacy-preserving environment. To do",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0013",
@@ -164,7 +164,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0014",
@@ -176,7 +176,7 @@
       "agents",
       "automation"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0015",
@@ -188,7 +188,7 @@
       "automation",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0016",
@@ -201,7 +201,7 @@
       "automation",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0017",
@@ -224,7 +224,7 @@
       "edge ai",
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0019",
@@ -236,7 +236,7 @@
       "cybersecurity",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0020",
@@ -249,7 +249,7 @@
       "cloud",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0021",
@@ -262,7 +262,7 @@
       "rag",
       "cybersecurity"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0022",
@@ -275,7 +275,7 @@
       "smart factory",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0023",
@@ -288,7 +288,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0024",
@@ -300,7 +300,7 @@
       "power",
       "sustainability"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0025",
@@ -312,7 +312,7 @@
       "power",
       "vision"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0026",
@@ -324,7 +324,7 @@
       "iot",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0027",
@@ -336,7 +336,7 @@
       "agents",
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0028",
@@ -348,7 +348,7 @@
       "smart factory",
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0029",
@@ -361,7 +361,7 @@
       "vision",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0030",
@@ -372,7 +372,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0031",
@@ -381,7 +381,7 @@
     "description": "Origina is a global technology company providing independent software maintenance and support services to some of the world's largest enterprises. Headquartered in Ireland with offices across Europe and the United States, Origina helps organisations take control of their software environments by decoupling maintenance from original software vendors. The company delivers independent maintenance for enterprise software",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0032",
@@ -393,7 +393,7 @@
       "iot",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0033",
@@ -404,7 +404,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0034",
@@ -416,7 +416,7 @@
       "power",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0035",
@@ -427,7 +427,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0036",
@@ -450,7 +450,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0038",
@@ -462,7 +462,7 @@
       "llm",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0039",
@@ -474,7 +474,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0040",
@@ -486,7 +486,7 @@
       "5g",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0041",
@@ -497,7 +497,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0042",
@@ -511,7 +511,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0043",
@@ -520,7 +520,7 @@
     "description": "Founded in 2001, Foxit is a top contender in the PDF software market and a global leader in AI-enabled PDF and e-signature solutions. There are over 700 million users worldwide, ranging from small businesses and universities to multi-national enterprises. They are trusted partners with prominent technology companies like Google, Amazon, Microsoft, Dell, and Lenovo. Foxit",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0044",
@@ -531,7 +531,7 @@
     "tags": [
       "smart factory"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0045",
@@ -542,7 +542,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0046",
@@ -554,7 +554,7 @@
       "power",
       "networking"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0047",
@@ -604,7 +604,7 @@
     "description": "Spartan Critical Systems delivers complete data center solutions that redefine efficiency and reliability. Our patented technologies reduce infrastructure demands while maximizing compute performance, giving clients a competitive edge in scalability and cost savings.\u201d",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0052",
@@ -615,7 +615,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0053",
@@ -629,7 +629,7 @@
       "robotics",
       "smart factory"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0054",
@@ -655,7 +655,7 @@
       "cybersecurity",
       "power"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0056",
@@ -669,7 +669,7 @@
       "robotics",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0057",
@@ -678,7 +678,7 @@
     "description": "Aras provides a digital thread platform for product lifecycle management and engineering. Built on an AI-native, low-code foundation, it enables the rapid delivery of flexible solutions.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0058",
@@ -690,7 +690,7 @@
       "agents",
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0059",
@@ -702,7 +702,7 @@
       "agents",
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0060",
@@ -713,7 +713,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0061",
@@ -724,7 +724,7 @@
     "tags": [
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0062",
@@ -735,7 +735,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0063",
@@ -744,7 +744,7 @@
     "description": "Built by Water Pros. Engineered for the Future. Founded by industry experts with decades of hands-on experience in water treatment and process chemistry, Pyxis Lab, Inc. is redefining how water quality is measured and managed in mission-critical environments. Pyxis Lab, Inc. is pioneering smart monitoring solutions for modern data centers, delivering inline sensor systems that ensure coolant integrity",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0064",
@@ -755,7 +755,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0065",
@@ -767,7 +767,7 @@
       "power",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0066",
@@ -779,7 +779,7 @@
       "cybersecurity",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0067",
@@ -791,7 +791,7 @@
       "power",
       "sustainability"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0068",
@@ -800,7 +800,7 @@
     "description": "Tiger Data is Postgres for sensor data, telemetry, tick data, and events, at petabyte scale. Creators of TimescaleDB. Used by Speedcast, CERN, Lucid Motors, Bloomberg, and 2,000+ teams who need fast Postgres without complexity for time-series and analytics workloads.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0069",
@@ -811,7 +811,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0070",
@@ -825,7 +825,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0071",
@@ -838,7 +838,7 @@
       "networking",
       "sustainability"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0072",
@@ -862,7 +862,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0074",
@@ -886,7 +886,7 @@
       "power",
       "sustainability"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0076",
@@ -900,7 +900,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0077",
@@ -909,7 +909,7 @@
     "description": "Are you building an MVP and want to be in market in weeks, not months? Your biggest bottleneck is not the idea, it is getting the right team, stack, and first production-ready line of code in place. We eliminate that. Using Claude, GPT-5, and Cursor as core build infrastructure, our AI-native engineering team moves faster",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0078",
@@ -921,7 +921,7 @@
       "rag",
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0079",
@@ -932,7 +932,7 @@
     "tags": [
       "agents"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0080",
@@ -941,7 +941,7 @@
     "description": "Alps Alpine, a leading manufacturer of electronic components and automotive infotainment systems, has brought the world numerous \u201cFirst 1\u201d and \u201cNumber 1\u201d products since its founding in 1948. The Alps Alpine Group currently operates 110 bases in 26 countries and regions, supplying roughly 40,000 different products and solutions to around 2,000 companies worldwide. In January",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0081",
@@ -953,7 +953,7 @@
       "agents",
       "automation"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0082",
@@ -962,7 +962,7 @@
     "description": "AnyLog is redefining edge data with a decentralized platform that delivers real-time insights and AI\u2014without moving your data. No pipelines. No centralization. No delays. With true plug-and-play deployment, data stays where it's created while remaining instantly queryable as a single system. A shared metadata layer and Unified Namespace unify all edge resources, accessible via simple",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0083",
@@ -995,7 +995,7 @@
     "tags": [
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0086",
@@ -1008,7 +1008,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0087",
@@ -1030,7 +1030,7 @@
     "tags": [
       "rag"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0089",
@@ -1041,7 +1041,7 @@
     "tags": [
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0090",
@@ -1050,7 +1050,7 @@
     "description": "Meet with us to explore how you can activate siloed data, reduce risk, and drive measurable outcomes with AI\u2014while maintaining full control. If you're focused on scaling AI responsibly and turning data into decisions, Axonis is built for you.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0091",
@@ -1059,7 +1059,7 @@
     "description": "Axzon is the world leader in RFID battery-free wireless sensor products, and the inventor and patent owner of the technology. Axzon has assembled a coalition of tier-1 stake holders, serving customers in various stages of the pipeline. The Coalition includes: Legacy market movers with deep and vast sales channel presence: \u25cf Collaborating with the tier-1",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0092",
@@ -1070,7 +1070,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0093",
@@ -1079,7 +1079,7 @@
     "description": "Brelyon is pioneering a new category of ultra-immersive and multi-focal display hardware and software solutions for entertainment, enterprise, automotive, and defense applications.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0094",
@@ -1093,7 +1093,7 @@
       "automation",
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0095",
@@ -1104,7 +1104,7 @@
     "tags": [
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0096",
@@ -1116,7 +1116,7 @@
       "cybersecurity",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0097",
@@ -1129,7 +1129,7 @@
       "cybersecurity",
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0098",
@@ -1138,7 +1138,7 @@
     "description": "",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0099",
@@ -1149,7 +1149,7 @@
     "tags": [
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0100",
@@ -1161,7 +1161,7 @@
       "cooling",
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0101",
@@ -1174,7 +1174,7 @@
       "post-quantum",
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0102",
@@ -1186,7 +1186,7 @@
       "cybersecurity",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0103",
@@ -1197,7 +1197,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0104",
@@ -1209,7 +1209,7 @@
       "iot",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0105",
@@ -1220,7 +1220,7 @@
     "tags": [
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0106",
@@ -1231,7 +1231,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0107",
@@ -1256,7 +1256,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0109",
@@ -1265,7 +1265,7 @@
     "description": "Complement AI does the coordination that runs your factory \u2013 without replacing a single system.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0110",
@@ -1278,7 +1278,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0111",
@@ -1291,7 +1291,7 @@
       "cybersecurity",
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0112",
@@ -1304,7 +1304,7 @@
       "cybersecurity",
       "power"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0113",
@@ -1313,7 +1313,7 @@
     "description": "",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0114",
@@ -1326,7 +1326,7 @@
       "rag",
       "cybersecurity"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0115",
@@ -1338,7 +1338,7 @@
       "cybersecurity",
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0116",
@@ -1350,7 +1350,7 @@
       "llm",
       "agents"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0117",
@@ -1374,7 +1374,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0119",
@@ -1385,7 +1385,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0120",
@@ -1396,7 +1396,7 @@
     "tags": [
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0121",
@@ -1409,7 +1409,7 @@
       "agents",
       "cybersecurity"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0122",
@@ -1420,7 +1420,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0123",
@@ -1444,7 +1444,7 @@
       "iot",
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0125",
@@ -1456,7 +1456,7 @@
       "llm",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0126",
@@ -1479,7 +1479,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0128",
@@ -1495,7 +1495,7 @@
       "smart factory",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0129",
@@ -1507,7 +1507,7 @@
       "iot",
       "smart factory"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0130",
@@ -1529,7 +1529,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0132",
@@ -1538,7 +1538,7 @@
     "description": "EyePop.ai is the visual intelligence platform that turns cameras, images, and video into structured data your software can act on. Our growing library of production-ready, customizable abilities goes beyond object detection: analyze scenes, classify events, perform OCR, moderate content, summarize activity, and extract rich metadata from any image, recorded clip, or live stream. Call them",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0133",
@@ -1549,7 +1549,7 @@
     "tags": [
       "rag"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0134",
@@ -1561,7 +1561,7 @@
       "cooling",
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0135",
@@ -1573,7 +1573,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0136",
@@ -1584,7 +1584,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0137",
@@ -1608,7 +1608,7 @@
     "tags": [
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0139",
@@ -1619,7 +1619,7 @@
     "tags": [
       "smart factory"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0140",
@@ -1628,7 +1628,7 @@
     "description": "GizmoData is an enterprise data engineering and analytics startup that specializes in high-performance SQL query processing and database optimization. The company focuses on reducing the cost of terabyte-scale analytics through modern open-source technologies.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0141",
@@ -1646,7 +1646,7 @@
     "description": "Granite delivers advanced communications and technology solutions to businesses and government agencies throughout the United States and Canada. The $1.8 billion company serves more than two-thirds of Fortune 100 companies and has 1.75 million voice and data lines under management, supporting more than 650,000 locations. Founded in 2002, Granite has grown to be one of",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0143",
@@ -1658,7 +1658,7 @@
       "data platform",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0144",
@@ -1669,7 +1669,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0145",
@@ -1680,7 +1680,7 @@
     "tags": [
       "llm"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0146",
@@ -1691,7 +1691,7 @@
     "tags": [
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0147",
@@ -1704,7 +1704,7 @@
       "cloud",
       "networking"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0148",
@@ -1715,7 +1715,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0149",
@@ -1727,7 +1727,7 @@
       "cybersecurity",
       "power"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0150",
@@ -1738,7 +1738,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0151",
@@ -1750,7 +1750,7 @@
       "cybersecurity",
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0152",
@@ -1761,7 +1761,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0153",
@@ -1770,7 +1770,7 @@
     "description": "FlowHCM is an intelligently designed, AI-based Human Capital Management software that covers nearly the entire scope of HR management while remaining compliant with global best HR practices. It is also the winner of the P@SHA ICT Awards 2021 & 2023 and the APICTA Award 2023. 1,300+ organizations from 30+ Countries belonging to 35+ Industry Verticals",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0154",
@@ -1784,7 +1784,7 @@
       "smart factory",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0155",
@@ -1797,7 +1797,7 @@
       "vision",
       "networking"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0156",
@@ -1825,7 +1825,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0158",
@@ -1848,7 +1848,7 @@
     "description": "Kalos is the Bay Area's leading provider of DEXA-based health & fitness coaching. We are a team of data scientists who are passionate about preventative healthcare and the future of medicine. At Kalos, we don't just perform DEXA scans\u2014our data scientists decode your data and turn it into an actionable strategy.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0160",
@@ -1859,7 +1859,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0161",
@@ -1870,7 +1870,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0162",
@@ -1882,7 +1882,7 @@
       "agents",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0163",
@@ -1893,7 +1893,7 @@
     "tags": [
       "networking"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0164",
@@ -1928,7 +1928,7 @@
     "tags": [
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0167",
@@ -1939,7 +1939,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0168",
@@ -1952,7 +1952,7 @@
       "5g",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0169",
@@ -1975,7 +1975,7 @@
       "agents",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0171",
@@ -1999,7 +1999,7 @@
       "lora",
       "power"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0173",
@@ -2011,7 +2011,7 @@
       "iot",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0174",
@@ -2023,7 +2023,7 @@
       "automation",
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0175",
@@ -2057,7 +2057,7 @@
     "description": "NeoSOFT is a globally renowned CMMI Level 5 global IT Consulting and Software Solutions provider with 21 offices around the world, 1500+ clients with 7500+ successful projects across 22+ diverse industries and a client retention rate of 85%. Backed with an impeccable portfolio built over 25+ years, our depth of resources includes over 4000 engineering",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0178",
@@ -2068,7 +2068,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0179",
@@ -2092,7 +2092,7 @@
       "iot",
       "smart factory"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0181",
@@ -2104,7 +2104,7 @@
       "iot",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0182",
@@ -2116,7 +2116,7 @@
       "cybersecurity",
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0183",
@@ -2129,7 +2129,7 @@
       "automation",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0184",
@@ -2142,7 +2142,7 @@
       "vision",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0185",
@@ -2155,7 +2155,7 @@
       "cloud",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0186",
@@ -2164,7 +2164,7 @@
     "description": "AI companies running multi-vendor stacks face a critical blind spot. Costs, revenue, and margins are tracked separately. Reconciliation is manual and visibility comes too late. PortaAIM fixes that. It connects vendor costs to customer revenue at the transaction level. Every request is tracked. Every margin is visible. From day one. Dual-sided tracking shows true profitability",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0187",
@@ -2178,7 +2178,7 @@
       "smart factory",
       "automation"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0188",
@@ -2189,7 +2189,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0189",
@@ -2200,7 +2200,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0190",
@@ -2211,7 +2211,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0191",
@@ -2231,7 +2231,7 @@
     "description": "Self-performing commercial refrigeration and HVAC service provider. Available in 18 states. https://www.linkedin.com/company/rsc-mechanical-inc-/posts/?feedView=all",
     "website": "https://www.linkedin.com/company/rsc-mechanical-inc-/posts/?feedView=all",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0193",
@@ -2245,7 +2245,7 @@
       "robotics",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0194",
@@ -2256,7 +2256,7 @@
     "tags": [
       "rag"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0195",
@@ -2268,7 +2268,7 @@
       "agents",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0196",
@@ -2281,7 +2281,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0197",
@@ -2301,7 +2301,7 @@
     "tags": [
       "rag"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0199",
@@ -2310,7 +2310,7 @@
     "description": "We are the world's leading Testing, Inspection and Certification company. Our brand promise \u2013 when you need to be sure \u2013 underscores our commitment to trust, integrity and reliability.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0200",
@@ -2322,7 +2322,7 @@
       "cooling",
       "networking"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0201",
@@ -2331,7 +2331,7 @@
     "description": "SPAL is a world leader in the design and manufacturer of high quality electric fans and blowers for all types of vehicles and equipment. Founded in Italy in 1959, we initially specialized in plastic mold design and production. SPAL designs, produces and markets an extensive range of high performance axial fans and centrifugal blowers for",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0202",
@@ -2369,7 +2369,7 @@
       "cloud",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0205",
@@ -2380,7 +2380,7 @@
     "tags": [
       "cybersecurity"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0206",
@@ -2391,7 +2391,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0207",
@@ -2414,7 +2414,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0209",
@@ -2427,7 +2427,7 @@
       "lora",
       "5g"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0210",
@@ -2464,7 +2464,7 @@
     "tags": [
       "iot"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0213",
@@ -2476,7 +2476,7 @@
       "iot",
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0214",
@@ -2489,7 +2489,7 @@
       "power",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0215",
@@ -2501,7 +2501,7 @@
       "agents",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0216",
@@ -2515,7 +2515,7 @@
       "smart factory",
       "cloud"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0217",
@@ -2526,7 +2526,7 @@
     "tags": [
       "rag"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0218",
@@ -2538,7 +2538,7 @@
       "llm",
       "vision"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0219",
@@ -2551,7 +2551,7 @@
       "cooling",
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0220",
@@ -2563,7 +2563,7 @@
       "agents",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0221",
@@ -2575,7 +2575,7 @@
       "rag",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0222",
@@ -2584,7 +2584,7 @@
     "description": "The Center Collective offers a streamlined, data driven process for assessing strategic data center locations and selecting against multiple tradeoff scenarios. By using the Site Intelligence Platform, you will speed up evaluation phase and reduce costly site delays.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0223",
@@ -2595,7 +2595,7 @@
     "tags": [
       "sustainability"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0224",
@@ -2604,7 +2604,7 @@
     "description": "TLC is an American manufacturer of fiber optic cable and tubing. Withover 40 years of industry experience, TLC is proud to be registered as an ISO 9001:2015 company and offer RoHS compliant OFNR, OFNP, OFCR, OFCP and LSZH products. Every TLC cable is manufactured in the United States and is fully compliant with Build America,",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0225",
@@ -2627,7 +2627,7 @@
     "tags": [
       "cloud"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0227",
@@ -2641,7 +2641,7 @@
       "cybersecurity",
       "automation"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0228",
@@ -2654,7 +2654,7 @@
       "cybersecurity",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0229",
@@ -2663,7 +2663,7 @@
     "description": "TorcSill provides turnkey helical pile foundation systems that solve the speed and scalability challenges of modern AI and data center construction. Unlike concrete, our foundations require zero cure time and produce zero spoils, allowing for immediate loading of equipment and faster project timelines.With in-house engineering and 50+ nationwide crews, we specialize in high-precision foundations for",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0230",
@@ -2676,7 +2676,7 @@
       "smart factory",
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0231",
@@ -2688,7 +2688,7 @@
       "power",
       "networking"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0232",
@@ -2701,7 +2701,7 @@
       "power",
       "smart factory"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0233",
@@ -2712,7 +2712,7 @@
     "tags": [
       "agents"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0234",
@@ -2723,7 +2723,7 @@
     "tags": [
       "power"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0235",
@@ -2736,7 +2736,7 @@
       "cybersecurity",
       "automation"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0236",
@@ -2749,7 +2749,7 @@
       "power",
       "networking"
     ],
-    "hall_zone": "Hall B \u2014 IoT/Edge"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0237",
@@ -2761,7 +2761,7 @@
       "rag",
       "power"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0238",
@@ -2770,7 +2770,7 @@
     "description": "Vytal Filtration Technologies delivers unparalleled filtration solutions. Filter by filter, we transform our industry by building an in-depth understanding of customer needs to deliver the right filtration solution. Every time. https://www.linkedin.com/company/vytal-filtration-technologies",
     "website": "https://www.linkedin.com/company/vytal-filtration-technologies",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0239",
@@ -2781,7 +2781,7 @@
     "tags": [
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0240",
@@ -2795,7 +2795,7 @@
       "power",
       "cloud"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0241",
@@ -2804,7 +2804,7 @@
     "description": "Workhelix is an enterprise platform that helps organizations know and grow the ROI of their AI by finding where it can have the biggest impact, tracking adoption, and measuring results over time.",
     "website": "",
     "tags": [],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0242",
@@ -2816,7 +2816,7 @@
       "vision",
       "smart factory"
     ],
-    "hall_zone": "Hall D \u2014 Data Center"
+    "hall_zone": "Main floor \u2014 north"
   },
   {
     "id": "ex_real_0243",
@@ -2825,7 +2825,7 @@
     "description": "Use Yuki to maximize your Snowflake and BigQuery investment in real time, with autonomous query-level control that keeps you within SLA and budget.http://yukidata.com",
     "website": "http://yukidata.com",
     "tags": [],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   },
   {
     "id": "ex_real_0244",
@@ -2838,7 +2838,7 @@
       "power",
       "automation"
     ],
-    "hall_zone": "Hall C \u2014 Cyber"
+    "hall_zone": "Main floor \u2014 south"
   },
   {
     "id": "ex_real_0245",
@@ -2850,6 +2850,6 @@
       "automation",
       "cloud"
     ],
-    "hall_zone": "Hall A \u2014 AI"
+    "hall_zone": "Main floor \u2014 center"
   }
 ]

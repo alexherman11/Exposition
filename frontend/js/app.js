@@ -39,14 +39,16 @@ function setView(name) {
 async function boot() {
   // Fetch corpus
   try {
-    const [booths, exhibitors, sessions, annSummary] = await Promise.all([
+    const [booths, exhibitors, sessions, speakers, annSummary] = await Promise.all([
       fetch(API_BASE + "/api/booths").then(r => r.json()),
       fetch(API_BASE + "/api/exhibitors").then(r => r.json()),
       fetch(API_BASE + "/api/sessions").then(r => r.json()),
+      fetch(API_BASE + "/api/speakers").then(r => r.json()).catch(() => []),
       fetch(API_BASE + "/api/annotations/summary").then(r => r.json()).catch(() => ({})),
     ]);
     state.booths = booths;
     state.exhibitors = exhibitors;
+    state.speakers = speakers || [];
     state.sessions = sessions;
     state.annotations = annSummary;
   } catch (e) {

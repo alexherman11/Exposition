@@ -1,5 +1,4 @@
 backend/.venv/
-backend/app/data/embeddings.npy
 backend/app/data/exhibitors_real.json
 backend/app/data/sessions_real.json
 backend/app/data/speakers_real.json
@@ -8,9 +7,16 @@ backend/app/data/sessions.synth.json
 backend/app/data/speakers.synth.json
 backend/app/data/booths.synth.json
 backend/app/data/floorplan_url.txt
+backend/app/data/floorplan_spans.json
 __pycache__/
 *.pyc
 .pytest_cache/
 tests/bench_report.json
 /tmp/
 *.log
+.claude/
+.env
+.env.local
+node_modules/
+.idea/
+.vscode/

@@ -99,7 +99,7 @@ def build_index(use_gemini: bool | None = None) -> None:
     np.save(DATA_DIR / "embeddings.npy", matrix)
     with open(DATA_DIR / "embedding_ids.json", "w") as f:
         json.dump({"ids": ids, "types": types}, f)
-    print(f"Wrote {matrix.shape} → {DATA_DIR/'embeddings.npy'} (gemini={use_gemini})")
+    print(f"Wrote {matrix.shape} -> {DATA_DIR/'embeddings.npy'} (gemini={use_gemini})")
 
 
 def embed_query(text: str, use_gemini: bool | None = None) -> np.ndarray:

@@ -1,3507 +1,2810 @@
 [
   {
-    "id": "sp_000",
-    "name": "Diego Park",
-    "title": "Principal Engineer",
-    "company": "Orbital Labs",
-    "bio": "Diego leads work on LLM, agents at Orbital Labs. 15+ years building enterprise infrastructure.",
+    "id": "sp_60db753dfe",
+    "name": "Matt Mahan",
+    "title": "Mayor",
+    "company": "City of San Jos\u00e9",
+    "bio": "",
     "session_ids": [
-      "se_029",
-      "se_047",
-      "se_090"
+      "se_6f60b60aaa"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211283",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_001",
-    "name": "Jordan Romano",
-    "title": "Chief Architect",
-    "company": "Mesh Labs",
-    "bio": "Jordan leads work on post-quantum, EDR at Mesh Labs. Author of two books on systems engineering.",
+    "id": "sp_ab0d3828b1",
+    "name": "Rhett Power",
+    "title": "Contributor",
+    "company": "Forbes Columnist",
+    "bio": "",
     "session_ids": [
-      "se_218"
+      "se_ac1576aa7f",
+      "se_a59ce9a4c4"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211297",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_002",
-    "name": "Aisha Aydin",
-    "title": "Principal Engineer",
-    "company": "Aether Robotics",
-    "bio": "Aisha leads work on agents, LLM at Aether Robotics. Frequent conference speaker.",
+    "id": "sp_4a566748a3",
+    "name": "Chad Smykay",
+    "title": "AI CTO & Distinguished Technologist",
+    "company": "HPE",
+    "bio": "",
     "session_ids": [
-      "se_146"
+      "se_36c655a2e5",
+      "se_72131c0d69"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211301",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_003",
-    "name": "Linh Costa",
-    "title": "Research Lead",
-    "company": "Tessera AI",
-    "bio": "Linh leads work on on-device inference, edge AI at Tessera AI. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211305",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_004",
-    "name": "Anya Garcia",
-    "title": "Distinguished Engineer",
-    "company": "Helix Robotics",
-    "bio": "Anya leads work on power optimization, liquid cooling at Helix Robotics. Frequent conference speaker.",
-    "session_ids": [
-      "se_169"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211309",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_005",
-    "name": "Theo Almeida",
-    "title": "Principal Engineer",
-    "company": "Vertex Quantum",
-    "bio": "Theo leads work on rack PDU, liquid cooling at Vertex Quantum. Frequent conference speaker.",
-    "session_ids": [
-      "se_083"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211315",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_006",
-    "name": "Sara Rivera",
-    "title": "Chief Architect",
-    "company": "Atlas Robotics",
-    "bio": "Sara leads work on IoT, asset tracking at Atlas Robotics. Frequent conference speaker.",
-    "session_ids": [
-      "se_105"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211320",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_007",
-    "name": "Priya Wong",
-    "title": "Research Lead",
-    "company": "Echo Quantum",
-    "bio": "Priya leads work on asset tracking, fleet telemetry at Echo Quantum. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211327",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_008",
-    "name": "Priya Rivera",
-    "title": "Research Lead",
-    "company": "Pulse Robotics",
-    "bio": "Priya leads work on IoT, LoRa at Pulse Robotics. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211331",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_009",
-    "name": "Yusuf Liu",
-    "title": "Distinguished Engineer",
-    "company": "Photon Labs",
-    "bio": "Yusuf leads work on EDR, zero trust at Photon Labs. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_122"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211335",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_010",
-    "name": "Felix Choudhury",
-    "title": "VP Engineering",
-    "company": "ISARA",
-    "bio": "Felix leads work on quantum-safe, PKI at ISARA. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_103",
-      "se_192",
-      "se_213"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211341",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_011",
-    "name": "Theo Nguyen",
-    "title": "Field CTO",
-    "company": "Atlas Compute",
-    "bio": "Theo leads work on EDR, post-quantum at Atlas Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_058"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211344",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_012",
-    "name": "Marcus Holm",
-    "title": "Chief Architect",
-    "company": "Beacon Systems",
-    "bio": "Marcus leads work on zero trust, post-quantum at Beacon Systems. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_055"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211348",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_013",
-    "name": "Sara Brown",
-    "title": "Chief Architect",
-    "company": "Aether Cloud",
-    "bio": "Sara leads work on fine-tuning, agents at Aether Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_170"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211353",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_014",
-    "name": "Tom Garcia",
-    "title": "Principal Engineer",
-    "company": "Aether Cloud",
-    "bio": "Tom leads work on fine-tuning, agents at Aether Cloud. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_018",
-      "se_084",
-      "se_119",
-      "se_181"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211363",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_015",
-    "name": "Sara Larsen",
-    "title": "Head of Product",
-    "company": "Hydra AI",
-    "bio": "Sara leads work on asset tracking, LoRa at Hydra AI. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_089"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211370",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_016",
-    "name": "Sven Yoon",
-    "title": "Director of AI",
-    "company": "Loom AI",
-    "bio": "Sven leads work on RAG, fine-tuning at Loom AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_118"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211373",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_017",
-    "name": "Yusuf Almeida",
-    "title": "Director of AI",
-    "company": "Tessera Robotics",
-    "bio": "Yusuf leads work on RAG, agents at Tessera Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_061",
-      "se_064",
-      "se_187"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211377",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_018",
-    "name": "Diego Romano",
-    "title": "VP Engineering",
-    "company": "Mira Compute",
-    "bio": "Diego leads work on fine-tuning, agents at Mira Compute. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_033",
-      "se_112",
-      "se_211",
-      "se_220",
-      "se_225",
-      "se_232"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211382",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_019",
-    "name": "Layla Reyes",
-    "title": "Staff Researcher",
-    "company": "Crowdstrike",
-    "bio": "Layla leads work on EDR, threat intel at Crowdstrike. Frequent conference speaker.",
-    "session_ids": [
-      "se_010"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211386",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_020",
-    "name": "Sven Hadid",
-    "title": "Principal Engineer",
-    "company": "Actility",
-    "bio": "Sven leads work on LoRaWAN, network server at Actility. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_057"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211395",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_021",
-    "name": "Anya Khan",
-    "title": "Staff Researcher",
-    "company": "Mesh Labs",
-    "bio": "Anya leads work on post-quantum, EDR at Mesh Labs. Frequent conference speaker.",
-    "session_ids": [
-      "se_125"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211406",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_022",
-    "name": "Anya Rivera",
-    "title": "VP Engineering",
-    "company": "Helios AI",
-    "bio": "Anya leads work on IoT, asset tracking at Helios AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211415",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_023",
-    "name": "Yusuf Wong",
-    "title": "Research Lead",
-    "company": "Databricks",
-    "bio": "Yusuf leads work on lakehouse, MLflow at Databricks. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_088"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211424",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_024",
-    "name": "Jordan Bauer",
-    "title": "Principal Engineer",
-    "company": "Foxglove Robotics",
-    "bio": "Jordan leads work on asset tracking, LoRa at Foxglove Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_054"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211429",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_025",
-    "name": "Marta Larsen",
-    "title": "Principal Engineer",
-    "company": "Nimbus Logic",
-    "bio": "Marta leads work on fleet telemetry, asset tracking at Nimbus Logic. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_006"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211432",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_026",
-    "name": "Hiroshi Webb",
-    "title": "Research Lead",
-    "company": "Mesh Systems",
-    "bio": "Hiroshi leads work on on-device inference, edge AI at Mesh Systems. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211438",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_027",
-    "name": "Diego Khan",
-    "title": "Head of Product",
-    "company": "Mira Edge",
-    "bio": "Diego leads work on zero trust, post-quantum at Mira Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_176",
-      "se_189"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211442",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_028",
-    "name": "Priya Choudhury",
-    "title": "Distinguished Engineer",
-    "company": "Weights & Biases",
-    "bio": "Priya leads work on ML observability, experiments at Weights & Biases. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_013"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211445",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_029",
-    "name": "Aisha Costa",
-    "title": "Head of Product",
-    "company": "PQShield",
-    "bio": "Aisha leads work on post-quantum, cryptography at PQShield. Frequent conference speaker.",
-    "session_ids": [
-      "se_121",
-      "se_159",
-      "se_245"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211448",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_030",
-    "name": "Aisha Rivera",
-    "title": "Field CTO",
-    "company": "Helios Compute",
-    "bio": "Aisha leads work on LLM, RAG at Helios Compute. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211452",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_031",
-    "name": "Marcus Okafor",
-    "title": "Chief Architect",
-    "company": "Nimbus Labs",
-    "bio": "Marcus leads work on post-quantum, EDR at Nimbus Labs. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_021",
-      "se_115",
-      "se_216"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211457",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_032",
-    "name": "Felix Brown",
-    "title": "Field CTO",
-    "company": "Nova Logic",
-    "bio": "Felix leads work on on-device inference, edge AI at Nova Logic. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_035",
-      "se_237"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211460",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_033",
-    "name": "Hiroshi Bauer",
-    "title": "Principal Engineer",
-    "company": "Prism Cortex",
-    "bio": "Hiroshi leads work on power optimization, liquid cooling at Prism Cortex. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_040"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211465",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_034",
-    "name": "Mei Choudhury",
-    "title": "Distinguished Engineer",
-    "company": "Foxglove Cortex",
-    "bio": "Mei leads work on LLM, RAG at Foxglove Cortex. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_016",
-      "se_065",
-      "se_091"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211471",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_035",
-    "name": "Noah Webb",
-    "title": "Distinguished Engineer",
-    "company": "ISARA",
-    "bio": "Noah leads work on quantum-safe, PKI at ISARA. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211475",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_036",
-    "name": "Eva Singh",
-    "title": "Staff Researcher",
-    "company": "Lyra Logic",
-    "bio": "Eva leads work on edge AI, TinyML at Lyra Logic. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211478",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_037",
-    "name": "Hiroshi Aydin",
-    "title": "VP Engineering",
-    "company": "Quanta Cortex",
-    "bio": "Hiroshi leads work on rack PDU, liquid cooling at Quanta Cortex. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_017"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211483",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_038",
-    "name": "Hiroshi Hadid",
-    "title": "Field CTO",
-    "company": "Echo Quantum",
-    "bio": "Hiroshi leads work on asset tracking, fleet telemetry at Echo Quantum. Frequent conference speaker.",
-    "session_ids": [
-      "se_015",
-      "se_242"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211486",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_039",
-    "name": "Vera Garcia",
-    "title": "Principal Engineer",
-    "company": "Atlas Cloud",
-    "bio": "Vera leads work on manipulation, industrial robotics at Atlas Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211489",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_040",
-    "name": "Vera Webb",
-    "title": "CTO",
-    "company": "Tessera AI",
-    "bio": "Vera leads work on on-device inference, edge AI at Tessera AI. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_069"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211499",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_041",
-    "name": "Diego Aydin",
-    "title": "Research Lead",
-    "company": "Nimbus Robotics",
-    "bio": "Diego leads work on industrial robotics, vision at Nimbus Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_000",
-      "se_016",
-      "se_085",
-      "se_144"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211509",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_042",
-    "name": "Sven Khan",
-    "title": "Chief Architect",
-    "company": "UiPath",
-    "bio": "Sven leads work on RPA, agentic automation at UiPath. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_042",
-      "se_064",
-      "se_231"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211513",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_043",
-    "name": "Ines Tanaka",
-    "title": "Distinguished Engineer",
-    "company": "Strato AI",
-    "bio": "Ines leads work on zero trust, EDR at Strato AI. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_204"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211517",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_044",
-    "name": "Alex Okafor",
-    "title": "Chief Architect",
-    "company": "Microsoft Azure",
-    "bio": "Alex leads work on OpenAI service, AI Foundry at Microsoft Azure. Frequent conference speaker.",
-    "session_ids": [
-      "se_016"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211526",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_045",
-    "name": "Anya Costa",
-    "title": "CTO",
-    "company": "Helios Cortex",
-    "bio": "Anya leads work on liquid cooling, power optimization at Helios Cortex. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_041",
-      "se_197"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211531",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_046",
-    "name": "Naomi Lindqvist",
-    "title": "Field CTO",
-    "company": "Forge Logic",
-    "bio": "Naomi leads work on edge AI, on-device inference at Forge Logic. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_116"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211543",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_047",
-    "name": "Jordan Holm",
-    "title": "CTO",
-    "company": "Halo Cortex",
-    "bio": "Jordan leads work on RAG, fine-tuning at Halo Cortex. Frequent conference speaker.",
-    "session_ids": [
-      "se_243"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211547",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_048",
-    "name": "Mei Liu",
-    "title": "VP Engineering",
-    "company": "Weights & Biases",
-    "bio": "Mei leads work on ML observability, experiments at Weights & Biases. Frequent conference speaker.",
-    "session_ids": [
-      "se_174"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211551",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_049",
-    "name": "Ines Webb",
-    "title": "Head of Product",
-    "company": "Echo Systems",
-    "bio": "Ines leads work on manipulation, industrial robotics at Echo Systems. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_077"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211557",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_050",
-    "name": "Ines Okafor",
-    "title": "Research Lead",
-    "company": "Foxglove Edge",
-    "bio": "Ines leads work on edge AI, on-device inference at Foxglove Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_068",
-      "se_118"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211560",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_051",
-    "name": "Alex Yoon",
-    "title": "Staff Researcher",
-    "company": "Mira Edge",
-    "bio": "Alex leads work on zero trust, post-quantum at Mira Edge. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_132",
-      "se_227"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211564",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_052",
-    "name": "Marcus Khan",
-    "title": "Research Lead",
-    "company": "Calyx Edge",
-    "bio": "Marcus leads work on fine-tuning, LLM at Calyx Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_005",
-      "se_008",
-      "se_203"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211567",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_053",
-    "name": "Ines Larsen",
-    "title": "Distinguished Engineer",
-    "company": "Prism Compute",
-    "bio": "Ines leads work on vision, industrial robotics at Prism Compute. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_026",
-      "se_239"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211572",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_054",
-    "name": "Alex Bauer",
-    "title": "CTO",
-    "company": "Vanta Labs",
-    "bio": "Alex leads work on LLM, agents at Vanta Labs. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_027",
-      "se_236"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211577",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_055",
-    "name": "Marta Rivera",
-    "title": "Chief Architect",
-    "company": "Mira AI",
-    "bio": "Marta leads work on power optimization, liquid cooling at Mira AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211580",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_056",
-    "name": "Mei Park",
-    "title": "CTO",
-    "company": "Forge Foundry",
-    "bio": "Mei leads work on fleet telemetry, asset tracking at Forge Foundry. Frequent conference speaker.",
-    "session_ids": [
-      "se_071",
-      "se_222"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211587",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_057",
-    "name": "Tom Holm",
-    "title": "Staff Researcher",
-    "company": "Cortex Edge",
-    "bio": "Tom leads work on manipulation, industrial robotics at Cortex Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_129",
-      "se_147",
-      "se_190"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211596",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_058",
-    "name": "Yusuf Brown",
-    "title": "Principal Engineer",
-    "company": "UiPath",
-    "bio": "Yusuf leads work on RPA, agentic automation at UiPath. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_046",
-      "se_060"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211601",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_059",
-    "name": "Felix Garcia",
-    "title": "Staff Researcher",
-    "company": "Quanta Foundry",
-    "bio": "Felix leads work on LLM, agents at Quanta Foundry. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211605",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_060",
-    "name": "Tom Bauer",
-    "title": "Head of Product",
-    "company": "Tessera Networks",
-    "bio": "Tom leads work on liquid cooling, rack PDU at Tessera Networks. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211609",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_061",
-    "name": "Sven Aydin",
-    "title": "Research Lead",
-    "company": "Nimbus AI",
-    "bio": "Sven leads work on post-quantum, EDR at Nimbus AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_173",
-      "se_175"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211614",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_062",
-    "name": "Alex Holm",
-    "title": "Chief Architect",
-    "company": "Iris AI",
-    "bio": "Alex leads work on rack PDU, power optimization at Iris AI. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_107",
-      "se_176"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211617",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_063",
-    "name": "Eva Tanaka",
-    "title": "CTO",
-    "company": "Prism Edge",
-    "bio": "Eva leads work on LLM, fine-tuning at Prism Edge. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211622",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_064",
-    "name": "Anya Khan",
-    "title": "Head of Product",
-    "company": "Solstice Systems",
-    "bio": "Anya leads work on power optimization, rack PDU at Solstice Systems. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_017",
-      "se_244"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211627",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_065",
-    "name": "Hiroshi Garcia",
-    "title": "Distinguished Engineer",
-    "company": "Nimbus Compute",
-    "bio": "Hiroshi leads work on zero trust, post-quantum at Nimbus Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_172"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211630",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_066",
-    "name": "Hiroshi Brown",
-    "title": "Staff Researcher",
-    "company": "Hailo",
-    "bio": "Hiroshi leads work on edge AI, NPU at Hailo. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_063",
-      "se_165"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211634",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_067",
-    "name": "Yusuf Hadid",
-    "title": "CTO",
-    "company": "Mesh Logic",
-    "bio": "Yusuf leads work on power optimization, rack PDU at Mesh Logic. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_086",
-      "se_142",
-      "se_149"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211638",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_068",
-    "name": "Sven Brown",
-    "title": "Principal Engineer",
-    "company": "Loom Cortex",
-    "bio": "Sven leads work on TinyML, on-device inference at Loom Cortex. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_025",
-      "se_073",
-      "se_093",
-      "se_118",
-      "se_182",
-      "se_195",
-      "se_231"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211641",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_069",
-    "name": "Anya Almeida",
-    "title": "Staff Researcher",
-    "company": "Pulse Foundry",
-    "bio": "Anya leads work on TinyML, edge AI at Pulse Foundry. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_206"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211646",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_070",
-    "name": "Eva Reyes",
-    "title": "Staff Researcher",
-    "company": "Tessera Cloud",
-    "bio": "Eva leads work on zero trust, post-quantum at Tessera Cloud. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_009",
-      "se_070"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211649",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_071",
-    "name": "Felix Schmidt",
-    "title": "Distinguished Engineer",
-    "company": "Atlas Compute",
-    "bio": "Felix leads work on EDR, post-quantum at Atlas Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_075"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211652",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_072",
-    "name": "Alex Tanaka",
-    "title": "Chief Architect",
-    "company": "Loom Systems",
-    "bio": "Alex leads work on IoT, LoRa at Loom Systems. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_120"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211665",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_073",
-    "name": "Felix Liu",
-    "title": "Field CTO",
-    "company": "Cortex Systems",
-    "bio": "Felix leads work on on-device inference, edge AI at Cortex Systems. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_167"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211671",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_074",
-    "name": "Layla Petrov",
-    "title": "Director of AI",
-    "company": "Forge Logic",
-    "bio": "Layla leads work on edge AI, on-device inference at Forge Logic. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_120",
-      "se_154",
-      "se_160"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211674",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_075",
-    "name": "Kai Singh",
-    "title": "Head of Product",
-    "company": "Foxglove Quantum",
-    "bio": "Kai leads work on agents, LLM at Foxglove Quantum. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_143"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211678",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_076",
-    "name": "Aisha Park",
-    "title": "Distinguished Engineer",
-    "company": "Calyx Cloud",
-    "bio": "Aisha leads work on zero trust, EDR at Calyx Cloud. Frequent conference speaker.",
-    "session_ids": [
-      "se_051",
-      "se_079",
-      "se_105",
-      "se_109",
-      "se_176"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211681",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_077",
-    "name": "Mei Park",
-    "title": "VP Engineering",
-    "company": "Onyx AI",
-    "bio": "Mei leads work on RAG, LLM at Onyx AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_049",
-      "se_235"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211685",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_078",
-    "name": "Diego Petrov",
-    "title": "Distinguished Engineer",
-    "company": "Mira Logic",
-    "bio": "Diego leads work on LoRa, IoT at Mira Logic. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_178",
-      "se_186",
-      "se_224"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211688",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_079",
-    "name": "Vera Yoon",
-    "title": "Chief Architect",
-    "company": "Pinecone",
-    "bio": "Vera leads work on vector DB, RAG at Pinecone. Frequent conference speaker.",
-    "session_ids": [
-      "se_081",
-      "se_091"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211696",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_080",
-    "name": "Noah Park",
-    "title": "Research Lead",
-    "company": "Pulse Labs",
-    "bio": "Noah leads work on LLM, fine-tuning at Pulse Labs. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_184",
-      "se_222"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211707",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_081",
-    "name": "Tom Khan",
-    "title": "VP Engineering",
-    "company": "Halo Cortex",
-    "bio": "Tom leads work on RAG, fine-tuning at Halo Cortex. Frequent conference speaker.",
-    "session_ids": [
-      "se_159",
-      "se_239"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211712",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_082",
-    "name": "Kai Khan",
-    "title": "Head of Product",
-    "company": "Prism Compute",
-    "bio": "Kai leads work on vision, industrial robotics at Prism Compute. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_173",
-      "se_217",
-      "se_235"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211722",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_083",
-    "name": "Sara Rivera",
-    "title": "Director of AI",
-    "company": "Iris Cortex",
-    "bio": "Sara leads work on IoT, fleet telemetry at Iris Cortex. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_053",
-      "se_214"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211734",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_084",
-    "name": "Eva Romano",
-    "title": "Director of AI",
-    "company": "Atlas Foundry",
-    "bio": "Eva leads work on TinyML, edge AI at Atlas Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_024"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211741",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_085",
-    "name": "Ines Petrov",
-    "title": "VP Engineering",
-    "company": "Forge Edge",
-    "bio": "Ines leads work on fine-tuning, RAG at Forge Edge. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_038"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211751",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_086",
-    "name": "Tom Garcia",
-    "title": "Head of Product",
-    "company": "Halo Cloud",
-    "bio": "Tom leads work on fleet telemetry, asset tracking at Halo Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_019",
-      "se_151",
-      "se_158",
-      "se_221"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211762",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_087",
-    "name": "Diego Costa",
-    "title": "Director of AI",
-    "company": "Helix Quantum",
-    "bio": "Diego leads work on zero trust, post-quantum at Helix Quantum. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_077",
-      "se_174",
-      "se_226"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211769",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_088",
-    "name": "Anya Nguyen",
-    "title": "Distinguished Engineer",
-    "company": "Halo AI",
-    "bio": "Anya leads work on EDR, post-quantum at Halo AI. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_165",
-      "se_189"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211777",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_089",
-    "name": "Rhea Garcia",
-    "title": "Distinguished Engineer",
-    "company": "Mesh Foundry",
-    "bio": "Rhea leads work on vision, manipulation at Mesh Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_089",
-      "se_149",
-      "se_243"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211783",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_090",
-    "name": "Naomi Khan",
-    "title": "Staff Researcher",
-    "company": "Latent AI",
-    "bio": "Naomi leads work on edge optimization, compiler at Latent AI. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211788",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_091",
-    "name": "Priya Romano",
-    "title": "Principal Engineer",
-    "company": "Beacon Systems",
-    "bio": "Priya leads work on zero trust, post-quantum at Beacon Systems. Frequent conference speaker.",
-    "session_ids": [
-      "se_012",
-      "se_130"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211794",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_092",
-    "name": "Linh Nguyen",
-    "title": "VP Engineering",
-    "company": "AWS",
-    "bio": "Linh leads work on Bedrock, Trainium at AWS. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_044",
-      "se_075"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211799",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_093",
-    "name": "Priya Lindqvist",
-    "title": "Distinguished Engineer",
-    "company": "Veea",
-    "bio": "Priya leads work on smart hubs, edge platform, mesh at Veea. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_007",
-      "se_099",
-      "se_184",
-      "se_200"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211805",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_094",
-    "name": "Eva Bauer",
-    "title": "Distinguished Engineer",
-    "company": "Nimbus Labs",
-    "bio": "Eva leads work on post-quantum, EDR at Nimbus Labs. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_054",
-      "se_193",
-      "se_248"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211809",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_095",
-    "name": "Mei Lindqvist",
-    "title": "CTO",
-    "company": "Nova Cloud",
-    "bio": "Mei leads work on fleet telemetry, LoRa at Nova Cloud. Frequent conference speaker.",
-    "session_ids": [
-      "se_177"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211815",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_096",
-    "name": "Mei Aydin",
-    "title": "Principal Engineer",
-    "company": "Cortex Systems",
-    "bio": "Mei leads work on on-device inference, edge AI at Cortex Systems. Frequent conference speaker.",
-    "session_ids": [
-      "se_108"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211820",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_097",
-    "name": "Hiroshi Holm",
-    "title": "Head of Product",
-    "company": "Beacon Cloud",
-    "bio": "Hiroshi leads work on RAG, LLM at Beacon Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_087",
-      "se_092",
-      "se_204"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211824",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_098",
-    "name": "Hiroshi Schmidt",
-    "title": "Staff Researcher",
-    "company": "Quanta Systems",
-    "bio": "Hiroshi leads work on fleet telemetry, IoT at Quanta Systems. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211829",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_099",
-    "name": "Yusuf Larsen",
-    "title": "Field CTO",
-    "company": "Nova Cloud",
-    "bio": "Yusuf leads work on fleet telemetry, LoRa at Nova Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_062",
-      "se_138",
-      "se_149",
-      "se_238"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211832",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_100",
-    "name": "Rhea Holm",
-    "title": "Chief Architect",
-    "company": "Pulse Labs",
-    "bio": "Rhea leads work on LLM, fine-tuning at Pulse Labs. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_048",
-      "se_083",
-      "se_205",
-      "se_230"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211837",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_101",
-    "name": "Anya Hadid",
-    "title": "CTO",
-    "company": "Calyx Systems",
-    "bio": "Anya leads work on TinyML, edge AI at Calyx Systems. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_040",
-      "se_134",
-      "se_209",
-      "se_226"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211843",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_102",
-    "name": "Felix Wong",
-    "title": "Chief Architect",
-    "company": "Quanta Robotics",
-    "bio": "Felix leads work on fine-tuning, LLM at Quanta Robotics. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_137"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211846",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_103",
-    "name": "Naomi Schmidt",
-    "title": "Chief Architect",
-    "company": "Foxglove Quantum",
-    "bio": "Naomi leads work on agents, LLM at Foxglove Quantum. Frequent conference speaker.",
-    "session_ids": [
-      "se_096",
-      "se_112",
-      "se_178",
-      "se_186"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211852",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_104",
-    "name": "Diego Choudhury",
-    "title": "Distinguished Engineer",
-    "company": "Vanta Robotics",
-    "bio": "Diego leads work on zero trust, EDR at Vanta Robotics. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_068",
-      "se_101",
-      "se_175",
-      "se_248"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211856",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_105",
-    "name": "Layla Lindqvist",
-    "title": "Head of Product",
-    "company": "Loom Robotics",
-    "bio": "Layla leads work on edge AI, TinyML at Loom Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_171",
-      "se_238",
-      "se_242"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211859",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_106",
-    "name": "Kai Romano",
-    "title": "Principal Engineer",
-    "company": "Aether Cloud",
-    "bio": "Kai leads work on fine-tuning, agents at Aether Cloud. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_076",
-      "se_171"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211862",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_107",
-    "name": "Alex Holm",
-    "title": "Principal Engineer",
-    "company": "Calyx Cloud",
-    "bio": "Alex leads work on zero trust, EDR at Calyx Cloud. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_064"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211866",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_108",
-    "name": "Felix Holm",
-    "title": "Field CTO",
-    "company": "Forge Labs",
-    "bio": "Felix leads work on agents, LLM at Forge Labs. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_031"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211875",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_109",
-    "name": "Ines Larsen",
-    "title": "VP Engineering",
-    "company": "Cortex Logic",
-    "bio": "Ines leads work on vision, industrial robotics at Cortex Logic. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_202"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211881",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_110",
-    "name": "Marcus Bauer",
-    "title": "Staff Researcher",
-    "company": "Iris Compute",
-    "bio": "Marcus leads work on liquid cooling, rack PDU at Iris Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_137"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211887",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_111",
-    "name": "Linh Reyes",
-    "title": "Distinguished Engineer",
-    "company": "Halo Foundry",
-    "bio": "Linh leads work on fine-tuning, agents at Halo Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_155"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211892",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_112",
-    "name": "Jordan Khan",
-    "title": "Head of Product",
-    "company": "Foxglove Edge",
-    "bio": "Jordan leads work on edge AI, on-device inference at Foxglove Edge. Frequent conference speaker.",
-    "session_ids": [
-      "se_003"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211912",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_113",
-    "name": "Alex Liu",
-    "title": "VP Engineering",
-    "company": "Solstice Foundry",
-    "bio": "Alex leads work on vision, manipulation at Solstice Foundry. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_098"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211920",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_114",
-    "name": "Tom Costa",
-    "title": "CTO",
-    "company": "Mesh Foundry",
-    "bio": "Tom leads work on vision, manipulation at Mesh Foundry. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_012",
-      "se_106"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211932",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_115",
-    "name": "Noah Liu",
-    "title": "CTO",
-    "company": "Loom Edge",
-    "bio": "Noah leads work on rack PDU, power optimization at Loom Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_098",
-      "se_199",
-      "se_249"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211937",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_116",
-    "name": "Aisha Brown",
-    "title": "Head of Product",
-    "company": "Loom AI",
-    "bio": "Aisha leads work on RAG, fine-tuning at Loom AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_164"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211942",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_117",
-    "name": "Hiroshi Park",
-    "title": "CTO",
-    "company": "Halo Labs",
-    "bio": "Hiroshi leads work on fine-tuning, LLM at Halo Labs. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211948",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_118",
-    "name": "Layla Larsen",
-    "title": "Chief Architect",
-    "company": "Nova Edge",
-    "bio": "Layla leads work on EDR, post-quantum at Nova Edge. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211953",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_119",
-    "name": "Hiroshi Hadid",
-    "title": "Distinguished Engineer",
-    "company": "Vanta AI",
-    "bio": "Hiroshi leads work on RAG, fine-tuning at Vanta AI. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_183",
-      "se_191"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211961",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_120",
-    "name": "Priya Almeida",
-    "title": "Research Lead",
-    "company": "Nokia",
-    "bio": "Priya leads work on 5G, fixed wireless at Nokia. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211970",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_121",
-    "name": "Priya Bauer",
-    "title": "CTO",
-    "company": "Schneider Electric",
-    "bio": "Priya leads work on power management, EcoStruxure at Schneider Electric. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_139"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.211979",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_122",
-    "name": "Alex Tanaka",
-    "title": "Staff Researcher",
-    "company": "Echo Labs",
-    "bio": "Alex leads work on edge AI, on-device inference at Echo Labs. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212024",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_123",
-    "name": "Marcus Rivera",
-    "title": "VP Engineering",
-    "company": "Calyx Compute",
-    "bio": "Marcus leads work on fleet telemetry, IoT at Calyx Compute. Frequent conference speaker.",
-    "session_ids": [
-      "se_166"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212027",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_124",
-    "name": "Eva Webb",
-    "title": "Principal Engineer",
-    "company": "Nimbus Quantum",
-    "bio": "Eva leads work on asset tracking, LoRa at Nimbus Quantum. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212030",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_125",
-    "name": "Yusuf Schmidt",
-    "title": "Head of Product",
-    "company": "Lyra Foundry",
-    "bio": "Yusuf leads work on fine-tuning, LLM at Lyra Foundry. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212039",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_126",
-    "name": "Marcus Rivera",
-    "title": "Director of AI",
-    "company": "Lyra Logic",
-    "bio": "Marcus leads work on edge AI, TinyML at Lyra Logic. Frequent conference speaker.",
-    "session_ids": [
-      "se_026",
-      "se_212",
-      "se_240"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212047",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_127",
-    "name": "Marta Costa",
-    "title": "Principal Engineer",
-    "company": "Foxglove Systems",
-    "bio": "Marta leads work on manipulation, industrial robotics at Foxglove Systems. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212051",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_128",
-    "name": "Marcus Bauer",
-    "title": "Chief Architect",
-    "company": "Loom Compute",
-    "bio": "Marcus leads work on rack PDU, power optimization at Loom Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_080"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212054",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_129",
-    "name": "Tom Almeida",
-    "title": "Field CTO",
-    "company": "Snowflake",
-    "bio": "Tom leads work on cloud warehouse, Cortex at Snowflake. Frequent conference speaker.",
-    "session_ids": [
-      "se_085"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212058",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_130",
-    "name": "Kai Park",
-    "title": "Staff Researcher",
-    "company": "Iris Quantum",
-    "bio": "Kai leads work on rack PDU, power optimization at Iris Quantum. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_106",
-      "se_136",
-      "se_179"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212062",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_131",
-    "name": "Owen Costa",
-    "title": "Chief Architect",
-    "company": "Iris Labs",
-    "bio": "Owen leads work on TinyML, on-device inference at Iris Labs. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_007",
-      "se_059",
-      "se_154",
-      "se_181"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212065",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_132",
-    "name": "Noah Garcia",
-    "title": "Head of Product",
-    "company": "Iris Networks",
-    "bio": "Noah leads work on on-device inference, edge AI at Iris Networks. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_061",
-      "se_069",
-      "se_121"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212068",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_133",
-    "name": "Hiroshi Park",
-    "title": "CTO",
-    "company": "AWS",
-    "bio": "Hiroshi leads work on Bedrock, Trainium at AWS. Frequent conference speaker.",
-    "session_ids": [
-      "se_011",
-      "se_095"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212073",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_134",
-    "name": "Noah Park",
-    "title": "Research Lead",
-    "company": "Vanta Logic",
-    "bio": "Noah leads work on asset tracking, fleet telemetry at Vanta Logic. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_234"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212077",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_135",
-    "name": "Marta Singh",
-    "title": "Field CTO",
-    "company": "Nimbus Edge",
-    "bio": "Marta leads work on agents, fine-tuning at Nimbus Edge. Frequent conference speaker.",
-    "session_ids": [
-      "se_023",
-      "se_101"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212081",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_136",
-    "name": "Vera Garcia",
-    "title": "Chief Architect",
-    "company": "Actility",
-    "bio": "Vera leads work on LoRaWAN, network server at Actility. Frequent conference speaker.",
-    "session_ids": [
-      "se_083"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212084",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_137",
-    "name": "Felix Nguyen",
-    "title": "Distinguished Engineer",
-    "company": "Calyx Foundry",
-    "bio": "Felix leads work on EDR, zero trust at Calyx Foundry. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_057",
-      "se_163"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212087",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_138",
-    "name": "Naomi Garcia",
-    "title": "CTO",
-    "company": "Pulse Networks",
-    "bio": "Naomi leads work on industrial robotics, vision at Pulse Networks. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212090",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_139",
-    "name": "Anya Reyes",
-    "title": "Field CTO",
-    "company": "Nimbus Robotics",
-    "bio": "Anya leads work on industrial robotics, vision at Nimbus Robotics. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_127",
-      "se_157",
-      "se_219"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212097",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_140",
-    "name": "Priya Garcia",
-    "title": "Head of Product",
-    "company": "Mesh Cloud",
-    "bio": "Priya leads work on vision, manipulation at Mesh Cloud. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212101",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_141",
-    "name": "Aisha Webb",
-    "title": "Director of AI",
-    "company": "Mesh Quantum",
-    "bio": "Aisha leads work on post-quantum, EDR at Mesh Quantum. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_004",
-      "se_148",
-      "se_203"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212104",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_142",
-    "name": "Sara Aydin",
-    "title": "Distinguished Engineer",
-    "company": "ISARA",
-    "bio": "Sara leads work on quantum-safe, PKI at ISARA. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_061",
-      "se_122"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212111",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_143",
-    "name": "Vera Nguyen",
-    "title": "Chief Architect",
-    "company": "Salesforce",
-    "bio": "Vera leads work on Einstein, Agentforce at Salesforce. Frequent conference speaker.",
-    "session_ids": [
-      "se_071"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212115",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_144",
-    "name": "Kai Bauer",
-    "title": "Director of AI",
-    "company": "AWS",
-    "bio": "Kai leads work on Bedrock, Trainium at AWS. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_180"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212119",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_145",
-    "name": "Aisha Schmidt",
-    "title": "Director of AI",
-    "company": "Cortex Systems",
-    "bio": "Aisha leads work on on-device inference, edge AI at Cortex Systems. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_029",
-      "se_087",
-      "se_128",
-      "se_217",
-      "se_221"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212122",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_146",
-    "name": "Diego Bauer",
-    "title": "Distinguished Engineer",
-    "company": "Foxglove AI",
-    "bio": "Diego leads work on IoT, LoRa at Foxglove AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_034",
-      "se_194"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212125",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_147",
-    "name": "Marcus Aydin",
-    "title": "CTO",
-    "company": "Calyx Edge",
-    "bio": "Marcus leads work on fine-tuning, LLM at Calyx Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_112",
-      "se_156"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212134",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_148",
-    "name": "Owen Khan",
-    "title": "Head of Product",
-    "company": "Photon Edge",
-    "bio": "Owen leads work on manipulation, industrial robotics at Photon Edge. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_139"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212140",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_149",
-    "name": "Sara Almeida",
-    "title": "Director of AI",
-    "company": "Foxglove AI",
-    "bio": "Sara leads work on IoT, LoRa at Foxglove AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_010",
-      "se_068",
-      "se_102",
-      "se_111",
-      "se_126",
-      "se_131"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212147",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_150",
-    "name": "Mei Romano",
-    "title": "Head of Product",
-    "company": "Mesh Foundry",
-    "bio": "Mei leads work on vision, manipulation at Mesh Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_000"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212153",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_151",
-    "name": "Jordan Singh",
-    "title": "VP Engineering",
-    "company": "Helios Compute",
-    "bio": "Jordan leads work on LLM, RAG at Helios Compute. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212156",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_152",
-    "name": "Alex Brown",
-    "title": "VP Engineering",
-    "company": "Actility",
-    "bio": "Alex leads work on LoRaWAN, network server at Actility. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_183"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212161",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_153",
-    "name": "Alex Romano",
-    "title": "Principal Engineer",
-    "company": "Together AI",
-    "bio": "Alex leads work on LLM hosting, fine-tuning at Together AI. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212164",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_154",
-    "name": "Priya Khan",
-    "title": "Principal Engineer",
-    "company": "Vertex AI",
-    "bio": "Priya leads work on fine-tuning, agents at Vertex AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_057"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212168",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_155",
-    "name": "Vera Liu",
-    "title": "Staff Researcher",
-    "company": "Vanta AI",
-    "bio": "Vera leads work on RAG, fine-tuning at Vanta AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212171",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_156",
-    "name": "Owen Park",
-    "title": "Chief Architect",
-    "company": "Orbital Robotics",
-    "bio": "Owen leads work on LoRa, fleet telemetry at Orbital Robotics. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_033",
-      "se_088",
-      "se_123"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212175",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_157",
-    "name": "Diego Petrov",
-    "title": "Director of AI",
-    "company": "Foxglove Compute",
-    "bio": "Diego leads work on vision, manipulation at Foxglove Compute. Frequent conference speaker.",
-    "session_ids": [
-      "se_039",
-      "se_229"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212181",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_158",
-    "name": "Aisha Romano",
-    "title": "Head of Product",
-    "company": "Solstice Edge",
-    "bio": "Aisha leads work on vision, manipulation at Solstice Edge. Frequent conference speaker.",
-    "session_ids": [
-      "se_086",
-      "se_141",
-      "se_143",
-      "se_239"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212185",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_159",
-    "name": "Tom Petrov",
-    "title": "Research Lead",
-    "company": "Atlas Networks",
-    "bio": "Tom leads work on agents, LLM at Atlas Networks. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_124"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212189",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_160",
-    "name": "Diego Tanaka",
-    "title": "Director of AI",
-    "company": "ISARA",
-    "bio": "Diego leads work on quantum-safe, PKI at ISARA. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_079",
-      "se_139",
-      "se_164",
-      "se_244"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212192",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_161",
-    "name": "Hiroshi Bauer",
-    "title": "Head of Product",
-    "company": "Vanta Cloud",
-    "bio": "Hiroshi leads work on power optimization, rack PDU at Vanta Cloud. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_140",
-      "se_235"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212195",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_162",
-    "name": "Noah Almeida",
-    "title": "Head of Product",
-    "company": "Lyra Cloud",
-    "bio": "Noah leads work on fleet telemetry, IoT at Lyra Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_126"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212198",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_163",
-    "name": "Anya Lindqvist",
-    "title": "VP Engineering",
-    "company": "Submer",
-    "bio": "Anya leads work on immersion cooling, sustainability at Submer. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_034",
-      "se_150"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212202",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_164",
-    "name": "Kai Yoon",
-    "title": "Head of Product",
-    "company": "Pulse Robotics",
-    "bio": "Kai leads work on IoT, LoRa at Pulse Robotics. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_224"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212205",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_165",
-    "name": "Hiroshi Khan",
-    "title": "Research Lead",
-    "company": "Loom Compute",
-    "bio": "Hiroshi leads work on rack PDU, power optimization at Loom Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_065",
-      "se_097"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212219",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_166",
-    "name": "Sven Khan",
-    "title": "Chief Architect",
-    "company": "Helios Cortex",
-    "bio": "Sven leads work on liquid cooling, power optimization at Helios Cortex. Frequent conference speaker.",
-    "session_ids": [
-      "se_043",
-      "se_110"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212224",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_167",
-    "name": "Naomi Romano",
-    "title": "Principal Engineer",
-    "company": "Atlas Foundry",
-    "bio": "Naomi leads work on TinyML, edge AI at Atlas Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_002",
-      "se_087"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212228",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_168",
-    "name": "Theo Yoon",
-    "title": "VP Engineering",
-    "company": "Databricks",
-    "bio": "Theo leads work on lakehouse, MLflow at Databricks. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_069",
-      "se_102"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212231",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_169",
-    "name": "Mei Bauer",
-    "title": "Distinguished Engineer",
-    "company": "Forge Labs",
-    "bio": "Mei leads work on agents, LLM at Forge Labs. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212235",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_170",
-    "name": "Priya Holm",
-    "title": "Distinguished Engineer",
-    "company": "Databricks",
-    "bio": "Priya leads work on lakehouse, MLflow at Databricks. Frequent conference speaker.",
-    "session_ids": [
-      "se_086",
-      "se_173"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212245",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_171",
-    "name": "Owen Bauer",
-    "title": "Chief Architect",
-    "company": "Calyx Cortex",
-    "bio": "Owen leads work on zero trust, EDR at Calyx Cortex. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_033",
-      "se_234"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212250",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_172",
-    "name": "Layla Schmidt",
-    "title": "Head of Product",
-    "company": "Ericsson",
-    "bio": "Layla leads work on 5G, private networks at Ericsson. Frequent conference speaker.",
-    "session_ids": [
-      "se_121"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212253",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_173",
-    "name": "Priya Costa",
-    "title": "Staff Researcher",
-    "company": "Helios Foundry",
-    "bio": "Priya leads work on RAG, LLM at Helios Foundry. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_027"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212259",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_174",
-    "name": "Linh Tanaka",
-    "title": "Field CTO",
-    "company": "Halo Logic",
-    "bio": "Linh leads work on TinyML, edge AI at Halo Logic. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_122",
-      "se_162"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212263",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_175",
-    "name": "Jordan Liu",
-    "title": "Distinguished Engineer",
-    "company": "Hydra AI",
-    "bio": "Jordan leads work on asset tracking, LoRa at Hydra AI. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_032",
-      "se_109",
-      "se_117"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212268",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_176",
-    "name": "Owen Yoon",
-    "title": "VP Engineering",
-    "company": "Foxglove Edge",
-    "bio": "Owen leads work on edge AI, on-device inference at Foxglove Edge. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_137"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212271",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_177",
-    "name": "Naomi Petrov",
-    "title": "Field CTO",
-    "company": "Iris Systems",
-    "bio": "Naomi leads work on LoRa, asset tracking at Iris Systems. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_161"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212275",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_178",
-    "name": "Hiroshi Costa",
-    "title": "Head of Product",
-    "company": "Foxglove Networks",
-    "bio": "Hiroshi leads work on edge AI, on-device inference at Foxglove Networks. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_120"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212279",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_179",
-    "name": "Rhea Webb",
-    "title": "VP Engineering",
-    "company": "Halo Compute",
-    "bio": "Rhea leads work on LLM, RAG at Halo Compute. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_065",
-      "se_074",
-      "se_133"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212283",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_180",
-    "name": "Hiroshi Aydin",
-    "title": "CTO",
-    "company": "Cortex Labs",
-    "bio": "Hiroshi leads work on fleet telemetry, IoT at Cortex Labs. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212288",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_181",
-    "name": "Sara Nguyen",
-    "title": "VP Engineering",
-    "company": "Google Cloud",
-    "bio": "Sara leads work on Vertex AI, TPU, Gemini at Google Cloud. Frequent conference speaker.",
-    "session_ids": [
-      "se_020"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212296",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_182",
-    "name": "Owen Garcia",
-    "title": "Field CTO",
-    "company": "Together AI",
-    "bio": "Owen leads work on LLM hosting, fine-tuning at Together AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_188"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212300",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_183",
-    "name": "Vera Okafor",
-    "title": "Research Lead",
-    "company": "Prism Cortex",
-    "bio": "Vera leads work on power optimization, liquid cooling at Prism Cortex. Frequent conference speaker.",
-    "session_ids": [
-      "se_119"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212303",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_184",
-    "name": "Hiroshi Nguyen",
-    "title": "Distinguished Engineer",
-    "company": "Atlas Networks",
-    "bio": "Hiroshi leads work on agents, LLM at Atlas Networks. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_036",
-      "se_050",
-      "se_123"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212306",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_185",
-    "name": "Owen Schmidt",
-    "title": "Distinguished Engineer",
-    "company": "Calyx Compute",
-    "bio": "Owen leads work on fleet telemetry, IoT at Calyx Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_013",
-      "se_141"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212309",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_186",
-    "name": "Yusuf Lindqvist",
-    "title": "Head of Product",
-    "company": "Vantage Data Centers",
-    "bio": "Yusuf leads work on colocation, liquid cooling at Vantage Data Centers. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_092",
-      "se_201"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212313",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_187",
-    "name": "Tom Costa",
-    "title": "CTO",
-    "company": "Vertex Quantum",
-    "bio": "Tom leads work on rack PDU, liquid cooling at Vertex Quantum. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_092",
-      "se_186"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212317",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_188",
-    "name": "Rhea Park",
-    "title": "Field CTO",
-    "company": "Tessera Robotics",
-    "bio": "Rhea leads work on RAG, agents at Tessera Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212321",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_189",
-    "name": "Jordan Singh",
-    "title": "Field CTO",
-    "company": "Vanta Cloud",
-    "bio": "Jordan leads work on power optimization, rack PDU at Vanta Cloud. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212324",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_190",
-    "name": "Sven Park",
-    "title": "Staff Researcher",
-    "company": "Cisco",
-    "bio": "Sven leads work on networking, secure connect at Cisco. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212327",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_191",
-    "name": "Sven Garcia",
-    "title": "Principal Engineer",
-    "company": "Atlas AI",
-    "bio": "Sven leads work on power optimization, liquid cooling at Atlas AI. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_098",
-      "se_136"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212330",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_192",
-    "name": "Mei Aydin",
-    "title": "Director of AI",
-    "company": "Calyx Cloud",
-    "bio": "Mei leads work on zero trust, EDR at Calyx Cloud. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212338",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_193",
-    "name": "Tom Holm",
-    "title": "VP Engineering",
-    "company": "Mesh Cloud",
-    "bio": "Tom leads work on vision, manipulation at Mesh Cloud. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_119",
-      "se_134",
-      "se_142",
-      "se_192"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212347",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_194",
-    "name": "Marta Khan",
-    "title": "Head of Product",
-    "company": "Halo Compute",
-    "bio": "Marta leads work on LLM, RAG at Halo Compute. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_231"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212350",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_195",
-    "name": "Owen Rivera",
-    "title": "Director of AI",
-    "company": "Sierra Wireless",
-    "bio": "Owen leads work on cellular IoT, modules at Sierra Wireless. Author of two books on systems engineering.",
-    "session_ids": [
-      "se_168"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212353",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_196",
-    "name": "Naomi Tanaka",
-    "title": "Principal Engineer",
-    "company": "SentinelOne",
-    "bio": "Naomi leads work on XDR, endpoint at SentinelOne. Background in distributed systems and ML.",
-    "session_ids": [
-      "se_000",
-      "se_055",
-      "se_082",
-      "se_209",
-      "se_246"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212359",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_197",
-    "name": "Naomi Garcia",
-    "title": "Research Lead",
-    "company": "Nova Labs",
-    "bio": "Naomi leads work on zero trust, post-quantum at Nova Labs. Frequent conference speaker.",
-    "session_ids": [
-      "se_022",
-      "se_070",
-      "se_246"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212365",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_198",
-    "name": "Marcus Petrov",
-    "title": "Research Lead",
-    "company": "Quanta Quantum",
-    "bio": "Marcus leads work on TinyML, edge AI at Quanta Quantum. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_034",
-      "se_047"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212368",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_199",
-    "name": "Rhea Tanaka",
-    "title": "Distinguished Engineer",
-    "company": "Halo AI",
-    "bio": "Rhea leads work on EDR, post-quantum at Halo AI. Frequent conference speaker.",
-    "session_ids": [
-      "se_037",
-      "se_093"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212373",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_200",
-    "name": "Mei Larsen",
-    "title": "Field CTO",
-    "company": "Helix Compute",
-    "bio": "Mei leads work on industrial robotics, vision at Helix Compute. 15+ years building enterprise infrastructure.",
-    "session_ids": [
-      "se_001",
-      "se_023",
-      "se_028"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212376",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_201",
-    "name": "Marta Costa",
-    "title": "Research Lead",
-    "company": "Beacon Systems",
-    "bio": "Marta leads work on zero trust, post-quantum at Beacon Systems. Frequent conference speaker.",
-    "session_ids": [
-      "se_117",
-      "se_169"
-    ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212380",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_202",
-    "name": "Owen Yoon",
-    "title": "Distinguished Engineer",
-    "company": "Mesh Foundry",
-    "bio": "Owen leads work on vision, manipulation at Mesh Foundry. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212383",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_203",
-    "name": "Theo Okafor",
-    "title": "Director of AI",
-    "company": "Sierra Wireless",
-    "bio": "Theo leads work on cellular IoT, modules at Sierra Wireless. Author of two books on systems engineering.",
+    "id": "sp_a1c5c9b5f5",
+    "name": "Doug Freud",
+    "title": "Vice President, AI",
+    "company": "SAP",
+    "bio": "",
     "session_ids": [
-      "se_027",
-      "se_128",
-      "se_152",
-      "se_164"
+      "se_36c655a2e5"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212386",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_204",
-    "name": "Linh Webb",
-    "title": "Chief Architect",
-    "company": "Prism Labs",
-    "bio": "Linh leads work on power optimization, liquid cooling at Prism Labs. Author of two books on systems engineering.",
+    "id": "sp_97ff16ced3",
+    "name": "Edward Achtner",
+    "title": "Vice President: Head of Applied Artificial Intelligence",
+    "company": "BMO",
+    "bio": "",
     "session_ids": [
-      "se_209"
+      "se_36c655a2e5"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212391",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_205",
-    "name": "Anya Schmidt",
-    "title": "Principal Engineer",
-    "company": "Atlas Foundry",
-    "bio": "Anya leads work on TinyML, edge AI at Atlas Foundry. 15+ years building enterprise infrastructure.",
+    "id": "sp_f835f987f0",
+    "name": "Danny Fortson",
+    "title": "West Coast Correspondent",
+    "company": "The Sunday Times",
+    "bio": "",
     "session_ids": [
-      "se_077",
-      "se_142",
-      "se_169"
+      "se_36c655a2e5"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212394",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_206",
-    "name": "Layla Nguyen",
-    "title": "CTO",
-    "company": "Pulse Edge",
-    "bio": "Layla leads work on IoT, LoRa at Pulse Edge. Frequent conference speaker.",
+    "id": "sp_031a599fed",
+    "name": "Devendra Sharma",
+    "title": "Chief Data & Analytics Officer",
+    "company": "Exadel",
+    "bio": "",
     "session_ids": [
-      "se_054",
-      "se_143",
-      "se_223"
+      "se_36c655a2e5"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212397",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_207",
-    "name": "Rhea Larsen",
-    "title": "Chief Architect",
-    "company": "Mesh Cloud",
-    "bio": "Rhea leads work on vision, manipulation at Mesh Cloud. Background in distributed systems and ML.",
+    "id": "sp_01115bf118",
+    "name": "Lutz Beck",
+    "title": "Chief Information Officer",
+    "company": "Daimler Truck North America",
+    "bio": "",
     "session_ids": [
-      "se_026",
-      "se_178"
+      "se_e2a58b910e"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212401",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_208",
-    "name": "Priya Liu",
-    "title": "Head of Product",
-    "company": "Helix Robotics",
-    "bio": "Priya leads work on power optimization, liquid cooling at Helix Robotics. Author of two books on systems engineering.",
+    "id": "sp_95926b1560",
+    "name": "Sriram Sitaraman",
+    "title": "CIO",
+    "company": "Synopsys",
+    "bio": "",
     "session_ids": [
-      "se_147",
-      "se_183"
+      "se_9f62c188f1"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212404",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_209",
-    "name": "Ines Holm",
-    "title": "Field CTO",
-    "company": "Mesh Edge",
-    "bio": "Ines leads work on fine-tuning, LLM at Mesh Edge. Background in distributed systems and ML.",
+    "id": "sp_c963f1172a",
+    "name": "Prakul Sharma",
+    "title": "AI & Insights Practice Leader",
+    "company": "Deloitte",
+    "bio": "",
     "session_ids": [
-      "se_067",
-      "se_072",
-      "se_234"
+      "se_9ae412b637",
+      "se_9f62c188f1"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212408",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_210",
-    "name": "Sara Bauer",
-    "title": "Director of AI",
-    "company": "Halo Logic",
-    "bio": "Sara leads work on TinyML, edge AI at Halo Logic. Frequent conference speaker.",
+    "id": "sp_cb9642f2ea",
+    "name": "Manmeet Dhillon",
+    "title": "Enterprise AI Strategy Lead",
+    "company": "HPE",
+    "bio": "",
     "session_ids": [
-      "se_155",
-      "se_196"
+      "se_9ae412b637",
+      "se_9f62c188f1"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212411",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_211",
-    "name": "Tom Larsen",
-    "title": "Chief Architect",
-    "company": "Mira AI",
-    "bio": "Tom leads work on power optimization, liquid cooling at Mira AI. 15+ years building enterprise infrastructure.",
+    "id": "sp_35c91e2de5",
+    "name": "Sunil Murthy",
+    "title": "AI Field CTO",
+    "company": "IBM",
+    "bio": "",
     "session_ids": [
-      "se_153",
-      "se_154"
+      "se_ac1576aa7f",
+      "se_d1666d8d7f"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212416",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_212",
-    "name": "Yusuf Singh",
-    "title": "Chief Architect",
-    "company": "Calyx Systems",
-    "bio": "Yusuf leads work on TinyML, edge AI at Calyx Systems. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212421",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_213",
-    "name": "Mei Aydin",
-    "title": "VP Engineering",
-    "company": "Mesh Logic",
-    "bio": "Mei leads work on power optimization, rack PDU at Mesh Logic. Author of two books on systems engineering.",
+    "id": "sp_b64cc4d3ef",
+    "name": "Anjali Arora Mehra",
+    "title": "Director, AI Strategy & Transformation",
+    "company": "eBay",
+    "bio": "",
     "session_ids": [
-      "se_030",
-      "se_106"
+      "se_6b4a18ffc8"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212426",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_214",
-    "name": "Vera Lindqvist",
-    "title": "Staff Researcher",
-    "company": "Vanta Compute",
-    "bio": "Vera leads work on power optimization, liquid cooling at Vanta Compute. Background in distributed systems and ML.",
+    "id": "sp_59e462ea9b",
+    "name": "Arvi Sreenivasan",
+    "title": "Director, Data Science - AI Platform",
+    "company": "Indeed",
+    "bio": "",
     "session_ids": [
-      "se_042"
+      "se_6b4a18ffc8"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212430",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_215",
-    "name": "Diego Nguyen",
-    "title": "CTO",
-    "company": "Vantage Data Centers",
-    "bio": "Diego leads work on colocation, liquid cooling at Vantage Data Centers. Frequent conference speaker.",
+    "id": "sp_63fddaa1eb",
+    "name": "Bala Muthiah",
+    "title": "Director of Engineering",
+    "company": "Lyft",
+    "bio": "",
     "session_ids": [
-      "se_100",
-      "se_163"
+      "se_6b4a18ffc8"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212433",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_216",
-    "name": "Hiroshi Webb",
-    "title": "CTO",
-    "company": "Iris Networks",
-    "bio": "Hiroshi leads work on on-device inference, edge AI at Iris Networks. Frequent conference speaker.",
+    "id": "sp_c95b4685fa",
+    "name": "Chris Bruman",
+    "title": "CDAO",
+    "company": "DOW",
+    "bio": "",
     "session_ids": [
-      "se_101"
+      "se_ac1576aa7f",
+      "se_e2ebc17880"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212437",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_217",
-    "name": "Anya Romano",
-    "title": "Head of Product",
-    "company": "Beacon Logic",
-    "bio": "Anya leads work on EDR, zero trust at Beacon Logic. 15+ years building enterprise infrastructure.",
+    "id": "sp_d2b7ce5684",
+    "name": "Tarun Sood",
+    "title": "Chief Data and AI Officer",
+    "company": "American Century Investments",
+    "bio": "",
     "session_ids": [
-      "se_020",
-      "se_228"
+      "se_ac1576aa7f"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212441",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_218",
-    "name": "Layla Liu",
-    "title": "Staff Researcher",
-    "company": "Halo Cloud",
-    "bio": "Layla leads work on fleet telemetry, asset tracking at Halo Cloud. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212445",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_219",
-    "name": "Anya Larsen",
-    "title": "Principal Engineer",
-    "company": "Foxglove Robotics",
-    "bio": "Anya leads work on asset tracking, LoRa at Foxglove Robotics. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212451",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_220",
-    "name": "Layla Almeida",
-    "title": "Field CTO",
-    "company": "Vertiv",
-    "bio": "Layla leads work on power, cooling, rack PDU at Vertiv. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212454",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_221",
-    "name": "Rhea Webb",
-    "title": "Distinguished Engineer",
-    "company": "Mesh Cloud",
-    "bio": "Rhea leads work on vision, manipulation at Mesh Cloud. 15+ years building enterprise infrastructure.",
+    "id": "sp_8676763898",
+    "name": "Chris Maddock",
+    "title": "Head of Product & Engineering",
+    "company": "Unstructured",
+    "bio": "",
     "session_ids": [
-      "se_230"
+      "se_ac1576aa7f"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212457",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_222",
-    "name": "Marcus Yoon",
-    "title": "CTO",
-    "company": "Cortex Systems",
-    "bio": "Marcus leads work on on-device inference, edge AI at Cortex Systems. 15+ years building enterprise infrastructure.",
+    "id": "sp_bad0f6cb6b",
+    "name": "Sindhu Gangadharan",
+    "title": "MD, SAP Labs India - Head, Customer Innovation Services",
+    "company": "SAP",
+    "bio": "",
     "session_ids": [
-      "se_109",
-      "se_174"
+      "se_3d52dc3563"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212461",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_223",
-    "name": "Alex Hadid",
-    "title": "Research Lead",
-    "company": "Loom Compute",
-    "bio": "Alex leads work on rack PDU, power optimization at Loom Compute. Frequent conference speaker.",
+    "id": "sp_388f968284",
+    "name": "Robert Szmigiel",
+    "title": "Founder and Vancouver Host",
+    "company": "Canada's Podcast",
+    "bio": "",
     "session_ids": [
-      "se_107"
+      "se_79ed3fd749"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212464",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_224",
-    "name": "Ines Lindqvist",
-    "title": "Director of AI",
-    "company": "Foxglove Edge",
-    "bio": "Ines leads work on edge AI, on-device inference at Foxglove Edge. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212467",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_225",
-    "name": "Linh Romano",
-    "title": "Director of AI",
-    "company": "Halo Compute",
-    "bio": "Linh leads work on LLM, RAG at Halo Compute. 15+ years building enterprise infrastructure.",
+    "id": "sp_6b3e1e5c18",
+    "name": "Manav Khatri",
+    "title": "Vice President of Product & Strategy",
+    "company": "Ford Credit",
+    "bio": "",
     "session_ids": [
-      "se_168",
-      "se_185",
-      "se_198"
+      "se_53d5cbb57b",
+      "se_79ed3fd749"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212470",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_226",
-    "name": "Naomi Wong",
-    "title": "Head of Product",
-    "company": "SentinelOne",
-    "bio": "Naomi leads work on XDR, endpoint at SentinelOne. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212474",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_227",
-    "name": "Layla Reyes",
-    "title": "Research Lead",
-    "company": "Vanta Quantum",
-    "bio": "Layla leads work on agents, fine-tuning at Vanta Quantum. Author of two books on systems engineering.",
+    "id": "sp_29bd740d63",
+    "name": "Mir Islam",
+    "title": "Head of AIOps and SRE Platform",
+    "company": "PayPal",
+    "bio": "",
     "session_ids": [
-      "se_105"
+      "se_79ed3fd749"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212479",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_228",
-    "name": "Diego Almeida",
-    "title": "Staff Researcher",
-    "company": "Halo Labs",
-    "bio": "Diego leads work on fine-tuning, LLM at Halo Labs. 15+ years building enterprise infrastructure.",
+    "id": "sp_c3390f32e0",
+    "name": "Julien Khaleghy",
+    "title": "CEO & Founder",
+    "company": "SerpApi",
+    "bio": "",
     "session_ids": [
-      "se_075",
-      "se_113",
-      "se_230"
+      "se_79ed3fd749"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212482",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_229",
-    "name": "Sara Costa",
-    "title": "VP Engineering",
-    "company": "Helios Compute",
-    "bio": "Sara leads work on LLM, RAG at Helios Compute. Author of two books on systems engineering.",
+    "id": "sp_3401184124",
+    "name": "Ava Chawla",
+    "title": "Field CTO; Data and AI",
+    "company": "EDB",
+    "bio": "",
     "session_ids": [
-      "se_017",
-      "se_131"
+      "se_79ed3fd749"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212489",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_230",
-    "name": "Naomi Larsen",
-    "title": "CTO",
-    "company": "Vanta Cortex",
-    "bio": "Naomi leads work on rack PDU, liquid cooling at Vanta Cortex. 15+ years building enterprise infrastructure.",
+    "id": "sp_409acabeb9",
+    "name": "Event Info",
+    "title": "Get Involved",
+    "company": "Co-located Events",
+    "bio": "",
     "session_ids": [
-      "se_056",
-      "se_094"
+      "se_7c1f28c848",
+      "se_07abaed96d",
+      "se_f3ee321aa0",
+      "se_d9323991ac",
+      "se_0cf6e3580f",
+      "se_edba4c7cd3",
+      "se_79ed3fd749",
+      "se_2554cdd10a",
+      "se_3c1911b9bf",
+      "se_bbc4e2030b",
+      "se_df8baa46d0",
+      "se_1a3418f4d1",
+      "se_abca533cdf"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212493",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_231",
-    "name": "Naomi Yoon",
-    "title": "VP Engineering",
-    "company": "Iris Cortex",
-    "bio": "Naomi leads work on IoT, fleet telemetry at Iris Cortex. Author of two books on systems engineering.",
+    "id": "sp_117e59ec68",
+    "name": "Event Series",
+    "title": "",
+    "company": "",
+    "bio": "",
     "session_ids": [
-      "se_093",
-      "se_208",
-      "se_214",
-      "se_249"
+      "se_7c1f28c848",
+      "se_07abaed96d",
+      "se_f3ee321aa0",
+      "se_d9323991ac",
+      "se_0cf6e3580f",
+      "se_edba4c7cd3",
+      "se_79ed3fd749",
+      "se_bbc4e2030b",
+      "se_df8baa46d0"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212496",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_232",
-    "name": "Ines Schmidt",
-    "title": "Head of Product",
-    "company": "Orbital Networks",
-    "bio": "Ines leads work on LLM, agents at Orbital Networks. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212499",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_233",
-    "name": "Naomi Choudhury",
-    "title": "Field CTO",
-    "company": "Calyx Foundry",
-    "bio": "Naomi leads work on EDR, zero trust at Calyx Foundry. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212502",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_234",
-    "name": "Priya Tanaka",
-    "title": "Chief Architect",
-    "company": "Vertex Quantum",
-    "bio": "Priya leads work on rack PDU, liquid cooling at Vertex Quantum. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212505",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_235",
-    "name": "Anya Almeida",
-    "title": "Field CTO",
-    "company": "Calyx Cloud",
-    "bio": "Anya leads work on zero trust, EDR at Calyx Cloud. Background in distributed systems and ML.",
+    "id": "sp_75121fb0d0",
+    "name": "Greg Cosso",
+    "title": "Co-Founder",
+    "company": "Topio Networks",
+    "bio": "",
     "session_ids": [
-      "se_116"
+      "se_3f24102a54"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212510",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_236",
-    "name": "Sven Nguyen",
-    "title": "CTO",
-    "company": "Lyra Foundry",
-    "bio": "Sven leads work on fine-tuning, LLM at Lyra Foundry. Author of two books on systems engineering.",
+    "id": "sp_4aa10ba4f6",
+    "name": "Saima Shafiq",
+    "title": "SVP, Head of AI Enablement",
+    "company": "US Bank",
+    "bio": "",
     "session_ids": [
-      "se_145"
+      "se_802f467ee1"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212514",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_237",
-    "name": "Mei Holm",
-    "title": "Distinguished Engineer",
-    "company": "Helium",
-    "bio": "Mei leads work on LoRaWAN, wireless, decentralized at Helium. 15+ years building enterprise infrastructure.",
+    "id": "sp_94040c441e",
+    "name": "Jorge Torres",
+    "title": "Co-Founder & CEO",
+    "company": "MindsDB",
+    "bio": "",
     "session_ids": [
-      "se_219"
+      "se_aac1d6768c",
+      "se_f9bd86f29e"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212518",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_238",
-    "name": "Owen Tanaka",
-    "title": "Director of AI",
-    "company": "Prism Edge",
-    "bio": "Owen leads work on LLM, fine-tuning at Prism Edge. Background in distributed systems and ML.",
+    "id": "sp_769d0d1898",
+    "name": "Animesh Singh",
+    "title": "Executive Director, AI and Machine Learning Platform",
+    "company": "LinkedIn",
+    "bio": "",
     "session_ids": [
-      "se_155",
-      "se_196"
+      "se_4e1b6e15c1"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212521",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_239",
-    "name": "Theo Costa",
-    "title": "Distinguished Engineer",
-    "company": "Lyra Logic",
-    "bio": "Theo leads work on edge AI, TinyML at Lyra Logic. Background in distributed systems and ML.",
+    "id": "sp_a2d21b9a1f",
+    "name": "Salome Mikadze",
+    "title": "Product Strategist and Co-Founder",
+    "company": "Movadex",
+    "bio": "",
     "session_ids": [
-      "se_151"
+      "se_f721ef5a0b"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212524",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_240",
-    "name": "Priya Larsen",
-    "title": "Chief Architect",
-    "company": "Prism Edge",
-    "bio": "Priya leads work on LLM, fine-tuning at Prism Edge. Background in distributed systems and ML.",
+    "id": "sp_db4275573a",
+    "name": "Vijay Sanikal",
+    "title": "Product Owner \u2013 Vehicle Simulation Integration",
+    "company": "General Motors",
+    "bio": "",
     "session_ids": [
-      "se_012",
-      "se_217"
+      "se_f721ef5a0b"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212527",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_241",
-    "name": "Tom Romano",
-    "title": "Chief Architect",
+    "id": "sp_597083cb02",
+    "name": "Shally Garg",
+    "title": "Senior Technical Program Manager",
     "company": "NVIDIA",
-    "bio": "Tom leads work on GPUs, edge inference, Jetson at NVIDIA. Frequent conference speaker.",
+    "bio": "",
     "session_ids": [
-      "se_020",
-      "se_052",
-      "se_167",
-      "se_207",
-      "se_222"
+      "se_f721ef5a0b"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212530",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_242",
-    "name": "Marta Brown",
-    "title": "Chief Architect",
-    "company": "Loom Robotics",
-    "bio": "Marta leads work on edge AI, TinyML at Loom Robotics. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212568",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_243",
-    "name": "Alex Singh",
-    "title": "Staff Researcher",
-    "company": "Prism Robotics",
-    "bio": "Alex leads work on power optimization, liquid cooling at Prism Robotics. Background in distributed systems and ML.",
+    "id": "sp_66be443fec",
+    "name": "Shamindra Peiris",
+    "title": "Senior AI Product Manager",
+    "company": "Visa",
+    "bio": "",
     "session_ids": [
-      "se_207"
+      "se_f721ef5a0b"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212582",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_244",
-    "name": "Alex Khan",
-    "title": "Distinguished Engineer",
-    "company": "Loom Systems",
-    "bio": "Alex leads work on IoT, LoRa at Loom Systems. Frequent conference speaker.",
+    "id": "sp_6be8659948",
+    "name": "Anthony Puleo",
+    "title": "Director, Data Science & AI",
+    "company": "AstraZeneca",
+    "bio": "",
     "session_ids": [
-      "se_210"
+      "se_818fe4cb3f"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212589",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_245",
-    "name": "Diego Larsen",
-    "title": "Head of Product",
-    "company": "Prism Networks",
-    "bio": "Diego leads work on rack PDU, liquid cooling at Prism Networks. Author of two books on systems engineering.",
+    "id": "sp_e5b80eb0b0",
+    "name": "Kapil Gupta",
+    "title": "Former Sr. Director, Gen AI Product",
+    "company": "The Cigna Group",
+    "bio": "",
     "session_ids": [
-      "se_078",
-      "se_243"
+      "se_21bf0fe972"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212597",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_246",
-    "name": "Aisha Liu",
-    "title": "Director of AI",
-    "company": "Tessera Systems",
-    "bio": "Aisha leads work on on-device inference, TinyML at Tessera Systems. Author of two books on systems engineering.",
+    "id": "sp_2648c1cd1f",
+    "name": "Nitin Kumar",
+    "title": "Director of Data Science and GenAI",
+    "company": "Marriott International",
+    "bio": "",
     "session_ids": [
-      "se_215"
+      "se_21bf0fe972"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212607",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_247",
-    "name": "Ines Schmidt",
-    "title": "Research Lead",
-    "company": "SentinelOne",
-    "bio": "Ines leads work on XDR, endpoint at SentinelOne. Frequent conference speaker.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212615",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_248",
-    "name": "Jordan Rivera",
-    "title": "Distinguished Engineer",
-    "company": "Iris Systems",
-    "bio": "Jordan leads work on LoRa, asset tracking at Iris Systems. Frequent conference speaker.",
+    "id": "sp_359f64d0ad",
+    "name": "Adrish Sannyasi",
+    "title": "Vice President, Customer Solutions and Delivery",
+    "company": "Rhino Federated Computing",
+    "bio": "",
     "session_ids": [
-      "se_114",
-      "se_165",
-      "se_247"
+      "se_21bf0fe972"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212619",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_249",
-    "name": "Marcus Choudhury",
-    "title": "Head of Product",
-    "company": "Foxglove Robotics",
-    "bio": "Marcus leads work on asset tracking, LoRa at Foxglove Robotics. Author of two books on systems engineering.",
+    "id": "sp_52d51cef42",
+    "name": "Hamed Faqirzai",
+    "title": "Vice President of Global Development",
+    "company": "Luna PR",
+    "bio": "",
     "session_ids": [
-      "se_135"
+      "se_21bf0fe972"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212625",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_250",
-    "name": "Vera Yoon",
-    "title": "Head of Product",
-    "company": "Nimbus Compute",
-    "bio": "Vera leads work on zero trust, post-quantum at Nimbus Compute. Frequent conference speaker.",
+    "id": "sp_2496d22185",
+    "name": "Robbie Beyer",
+    "title": "Director - Data Science and AI",
+    "company": "RSM US LLP",
+    "bio": "",
     "session_ids": [
-      "se_004",
-      "se_019",
-      "se_104",
-      "se_207",
-      "se_247"
+      "se_21bf0fe972"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212630",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_251",
-    "name": "Aisha Choudhury",
-    "title": "Distinguished Engineer",
-    "company": "ServiceNow",
-    "bio": "Aisha leads work on Now Assist, workflows at ServiceNow. Author of two books on systems engineering.",
+    "id": "sp_e1b54062b1",
+    "name": "Warren Durrett",
+    "title": "Sr. Director of Product, Data and AI",
+    "company": "Electronic Arts",
+    "bio": "",
     "session_ids": [
-      "se_042",
-      "se_045",
-      "se_081"
+      "se_07abaed96d"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212634",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_252",
-    "name": "Rhea Aydin",
-    "title": "VP Engineering",
-    "company": "Veea",
-    "bio": "Rhea leads work on smart hubs, edge platform, mesh at Veea. Author of two books on systems engineering.",
+    "id": "sp_c4a6fd6746",
+    "name": "Satyen Sangani",
+    "title": "CEO & Co-Founder",
+    "company": "Alation",
+    "bio": "",
     "session_ids": [
-      "se_014"
+      "se_07abaed96d"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212637",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_253",
-    "name": "Alex Reyes",
-    "title": "Staff Researcher",
-    "company": "Nova Compute",
-    "bio": "Alex leads work on vision, manipulation at Nova Compute. Frequent conference speaker.",
+    "id": "sp_4e4c7cc974",
+    "name": "David Palmer",
+    "title": "Chief Product Officer",
+    "company": "Pairpoint by Vodafone",
+    "bio": "",
     "session_ids": [
-      "se_089",
-      "se_113",
-      "se_126"
+      "se_d745b6e212"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212640",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_254",
-    "name": "Ines Liu",
-    "title": "Research Lead",
-    "company": "Helix Networks",
-    "bio": "Ines leads work on liquid cooling, power optimization at Helix Networks. Background in distributed systems and ML.",
+    "id": "sp_6095055d5d",
+    "name": "Troy Liljedahl",
+    "title": "Sr. Director, Solutions Engineering",
+    "company": "Backblaze",
+    "bio": "",
     "session_ids": [
-      "se_066"
+      "se_712e8e8c64"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212644",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_255",
-    "name": "Eva Larsen",
-    "title": "Distinguished Engineer",
-    "company": "Vantage Data Centers",
-    "bio": "Eva leads work on colocation, liquid cooling at Vantage Data Centers. Author of two books on systems engineering.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212648",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_256",
-    "name": "Felix Lindqvist",
-    "title": "Head of Product",
-    "company": "Vertex Quantum",
-    "bio": "Felix leads work on rack PDU, liquid cooling at Vertex Quantum. Background in distributed systems and ML.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212653",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_257",
-    "name": "Noah Almeida",
-    "title": "Research Lead",
-    "company": "Crowdstrike",
-    "bio": "Noah leads work on EDR, threat intel at Crowdstrike. 15+ years building enterprise infrastructure.",
-    "session_ids": [],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212657",
-    "is_synthetic": true
-  },
-  {
-    "id": "sp_258",
-    "name": "Sven Schmidt",
-    "title": "Research Lead",
-    "company": "Helix Robotics",
-    "bio": "Sven leads work on power optimization, liquid cooling at Helix Robotics. Author of two books on systems engineering.",
+    "id": "sp_7c08e8d05a",
+    "name": "Szymon Kulec",
+    "title": "Lead Developer Advocate",
+    "company": "RavenDB",
+    "bio": "",
     "session_ids": [
-      "se_019",
-      "se_163",
-      "se_233"
+      "se_2f1a53a336"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212662",
-    "is_synthetic": true
+    "headshot_url": null
   },
   {
-    "id": "sp_259",
-    "name": "Vera Liu",
-    "title": "Director of AI",
-    "company": "Cognex",
-    "bio": "Vera leads work on machine vision at Cognex. 15+ years building enterprise infrastructure.",
+    "id": "sp_acf1c20e8a",
+    "name": "Navin Nair",
+    "title": "Vice President, Digital Engineering & AI",
+    "company": "Mindsprint",
+    "bio": "",
     "session_ids": [
-      "se_241"
+      "se_65a011c59d"
     ],
-    "headshot_url": null,
-    "freshness": "2026-05-19T01:54:26.212666",
-    "is_synthetic": true
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6d71c812ba",
+    "name": "Sandeep Sahai",
+    "title": "Senior Director Payment Platforms",
+    "company": "Visa",
+    "bio": "",
+    "session_ids": [
+      "se_aac1d6768c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_36917875a5",
+    "name": "Nikita Sachdev",
+    "title": "Founder & CEO",
+    "company": "LUNA PR",
+    "bio": "",
+    "session_ids": [
+      "se_aac1d6768c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_baa4139348",
+    "name": "Jinesh Jain",
+    "title": "Director of Data and AI Architecture",
+    "company": "Abbot",
+    "bio": "",
+    "session_ids": [
+      "se_aac1d6768c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_baa250f5d8",
+    "name": "Joseph Rose",
+    "title": "President",
+    "company": "JBS Dev",
+    "bio": "",
+    "session_ids": [
+      "se_d4b2da59fa",
+      "se_23556aa0e0",
+      "se_7327799492",
+      "se_fad295b0ac"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3a6c0808b6",
+    "name": "Claire Bushnell",
+    "title": "Strategic Solutions Engineer",
+    "company": "Retool",
+    "bio": "",
+    "session_ids": [
+      "se_87ef732745"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_72796d87df",
+    "name": "Ido Arieli Noga",
+    "title": "CEO & Co-Founder",
+    "company": "Yuki",
+    "bio": "",
+    "session_ids": [
+      "se_2dcbe43746"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3a4929e3e2",
+    "name": "Avinash Deshpande",
+    "title": "Field CTO - Data",
+    "company": "Workato",
+    "bio": "",
+    "session_ids": [
+      "se_62574af211"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4f9742710f",
+    "name": "Amal Bagulayan",
+    "title": "Director, AI Engineering",
+    "company": "Capital One",
+    "bio": "",
+    "session_ids": [
+      "se_34397a13f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e1883aec67",
+    "name": "Sudha Reddy",
+    "title": "Principal AI Product Leader - Enterprise Conversational AI",
+    "company": "GEICO",
+    "bio": "",
+    "session_ids": [
+      "se_34397a13f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d4f668286c",
+    "name": "Sean Alexander",
+    "title": "Senior Vice President",
+    "company": "Lumen Technologies",
+    "bio": "",
+    "session_ids": [
+      "se_34397a13f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a3e19e44dd",
+    "name": "Mayank Bansal",
+    "title": "Senior Manager, AI & Operations",
+    "company": "Grazitti Interactive",
+    "bio": "",
+    "session_ids": [
+      "se_34397a13f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d293b4f044",
+    "name": "Kevin Shen",
+    "title": "Principal Product Manager",
+    "company": "VeloDB",
+    "bio": "",
+    "session_ids": [
+      "se_34397a13f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e943a74ce9",
+    "name": "Alan Gibson",
+    "title": "CRO",
+    "company": "Datacamp",
+    "bio": "",
+    "session_ids": [
+      "se_a7658963bd"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8138f77ac4",
+    "name": "Dominic Sartorio",
+    "title": "Vice President of Product Marketing",
+    "company": "Denodo Technologies",
+    "bio": "",
+    "session_ids": [
+      "se_f3ee321aa0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d3ecdf6de5",
+    "name": "Daniel Wu",
+    "title": "AI Executive, Educator, Speaker, Author",
+    "company": "Stanford University",
+    "bio": "",
+    "session_ids": [
+      "se_625bd8a741"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_24ff96bd88",
+    "name": "Cydni Tetro",
+    "title": "CIO",
+    "company": "Swire Coca-Cola",
+    "bio": "",
+    "session_ids": [
+      "se_7b5d19f055"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_50c13260de",
+    "name": "Esra Vural",
+    "title": "Principal AI Engineer",
+    "company": "Abbott",
+    "bio": "",
+    "session_ids": [
+      "se_7b5d19f055"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7f29abf8fd",
+    "name": "Tarang Vaish",
+    "title": "CTO",
+    "company": "Granica",
+    "bio": "",
+    "session_ids": [
+      "se_7b5d19f055"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c79a0fbfcd",
+    "name": "Dianna Wilusz",
+    "title": "VP of People Experience and Operations",
+    "company": "SoftBank Robotics",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c",
+      "se_7b5d19f055"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_9268ae2fd8",
+    "name": "Niels Zeilemaker",
+    "title": "Global CTO",
+    "company": "Xebia",
+    "bio": "",
+    "session_ids": [
+      "se_2a73f0c235"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a02b11c870",
+    "name": "Patrick Summers",
+    "title": "Founding Enterprise Lead",
+    "company": "Perplexity",
+    "bio": "",
+    "session_ids": [
+      "se_b4e6aef687"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_9f873f13ee",
+    "name": "Ashish Garg",
+    "title": "Principal Product Manager",
+    "company": "Walmart",
+    "bio": "",
+    "session_ids": [
+      "se_b4e6aef687",
+      "se_1ddd8b8be7"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_bdeaa17b08",
+    "name": "Pino Agostino",
+    "title": "Vice President, Solutions Consulting",
+    "company": "SS&C Blue Prism",
+    "bio": "",
+    "session_ids": [
+      "se_5bca27ea48"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_53eaff706b",
+    "name": "Jamil Badrudeen",
+    "title": "Vice President - Artificial Intelligence and Financial Engineering",
+    "company": "State Street",
+    "bio": "",
+    "session_ids": [
+      "se_23556aa0e0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b4758b47a6",
+    "name": "Vida Vidyangi Patil",
+    "title": "Host",
+    "company": "Ctrl Alt Podcast",
+    "bio": "",
+    "session_ids": [
+      "se_23556aa0e0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_83e4cb2c65",
+    "name": "Reena Solomon",
+    "title": "Head of AI Partnerships - North America",
+    "company": "Airbus",
+    "bio": "",
+    "session_ids": [
+      "se_23556aa0e0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2104ce88ba",
+    "name": "Sandra Ten Brink",
+    "title": "AI Strategist",
+    "company": "SAP",
+    "bio": "",
+    "session_ids": [
+      "se_23556aa0e0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_84728aa7da",
+    "name": "Sunzay Passari",
+    "title": "Director & Head - Architecture of Tomorrow (AI & Innovation)",
+    "company": "UPS",
+    "bio": "",
+    "session_ids": [
+      "se_23556aa0e0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5cac7cc8fa",
+    "name": "Lagan Khare",
+    "title": "Executive Director of Software Development Engineering and AI Enablement",
+    "company": "CVS Health",
+    "bio": "",
+    "session_ids": [
+      "se_97317637b3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6dcb51b984",
+    "name": "Gunther Lenz",
+    "title": "VP & GM, Productivity Solutions Division",
+    "company": "Agilent",
+    "bio": "",
+    "session_ids": [
+      "se_7c1f28c848"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_110d8f48d9",
+    "name": "Tom Samiljan",
+    "title": "Senior Content Strategist and Editor",
+    "company": "WebMD Ignite",
+    "bio": "",
+    "session_ids": [
+      "se_33ffd99645"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_bde301dcec",
+    "name": "Nishtha Jain",
+    "title": "AI-Enabled External Innovation Platform Leader, R&D",
+    "company": "CSL",
+    "bio": "",
+    "session_ids": [
+      "se_7d75a95430"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1884435d8f",
+    "name": "Gaurav Jain",
+    "title": "Vice President - AI and Data Products",
+    "company": "Rakuten",
+    "bio": "",
+    "session_ids": [
+      "se_7d75a95430"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6af0fd02cc",
+    "name": "Keatra Nesbitt",
+    "title": "Principal Solutions Engineer",
+    "company": "Valkyrie",
+    "bio": "",
+    "session_ids": [
+      "se_7d75a95430"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_ae7d373a73",
+    "name": "Allan Mendes",
+    "title": "Principal AI Engineer",
+    "company": "Mastercard",
+    "bio": "",
+    "session_ids": [
+      "se_7d75a95430"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7f56a67e93",
+    "name": "Ryan Courtier",
+    "title": "SVP AI Product Leader",
+    "company": "Citi",
+    "bio": "",
+    "session_ids": [
+      "se_bcd14ba736"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a2cec1148f",
+    "name": "John Conway",
+    "title": "Solutions Engineer",
+    "company": "Hex",
+    "bio": "",
+    "session_ids": [
+      "se_823ab34efe"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_eb186d241c",
+    "name": "Carina Ruiz",
+    "title": "Silicon Valley, Managing Partner",
+    "company": "Deloitte",
+    "bio": "",
+    "session_ids": [
+      "se_7a4afa57eb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_498d2b4e5c",
+    "name": "Rohini Gutha",
+    "title": "Sr. Product Leader",
+    "company": "Kaiser Permanente",
+    "bio": "",
+    "session_ids": [
+      "se_7a4afa57eb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_789b553047",
+    "name": "Bhupinder Singh Narang",
+    "title": "Director/Principal Staff \u2013 R&D Regulatory Compliance \u2013 Data & AI",
+    "company": "LinkedIn",
+    "bio": "",
+    "session_ids": [
+      "se_7a4afa57eb",
+      "se_a1f95c8a75"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_daadd8199e",
+    "name": "Agatha Isabel",
+    "title": "AI Governance & Compliance Lead",
+    "company": "TikTok Product, PDPO",
+    "bio": "",
+    "session_ids": [
+      "se_7a4afa57eb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8d3605b6c2",
+    "name": "Jitender Aswani",
+    "title": "Senior Vice President of Engineering",
+    "company": "Starburst",
+    "bio": "",
+    "session_ids": [
+      "se_c759846ce3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_097e24198f",
+    "name": "Abraham Jeevagunta",
+    "title": "Head of Advanced Concepts",
+    "company": "Cequence",
+    "bio": "",
+    "session_ids": [
+      "se_91ea8a06ba"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_82e2b3e2f9",
+    "name": "Shilpa Daule",
+    "title": "Director of Product Analytics",
+    "company": "First Citizens Bank",
+    "bio": "",
+    "session_ids": [
+      "se_53328cea6c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6100ffb97e",
+    "name": "Marzieh Abolhelm",
+    "title": "VP, Model Risk Manager and AI Governance",
+    "company": "MUFG Bank",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_208363e466",
+    "name": "Kristi Kunworee Baishya",
+    "title": "AVP \u2013 Data and AI Product Management",
+    "company": "Nomura Holding America",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_903e6df8bc",
+    "name": "Iman Saleh",
+    "title": "Responsible AI Fellow",
+    "company": "Maik Taro Wehmeyer",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3ebdf82d43",
+    "name": "Co-Founder & CEO",
+    "title": "Taktile",
+    "company": "3:50",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2035c9b731",
+    "name": "Chairperson's Closing Remarks",
+    "title": "Sign up to the TechEx Newsletter",
+    "company": "Event Info",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_588fbb0cea",
+    "name": "Get Involved",
+    "title": "Co-located Events",
+    "company": "Event Series",
+    "bio": "",
+    "session_ids": [
+      "se_17d46eaacb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_07c0c8624b",
+    "name": "Pawel Czech",
+    "title": "Co-Founder and CEO",
+    "company": "NativelyAI",
+    "bio": "",
+    "session_ids": [
+      "se_b8658c9981"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_275ce8c9aa",
+    "name": "Dhanshri More",
+    "title": "Associate Vice President, AI Innovation and Engineering,",
+    "company": "Molina Healthcare",
+    "bio": "",
+    "session_ids": [
+      "se_b8658c9981"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_51d20117ff",
+    "name": "Arihant Jain",
+    "title": "Product Management - AI/ML",
+    "company": "TikTok",
+    "bio": "",
+    "session_ids": [
+      "se_b8658c9981"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7d6e799111",
+    "name": "Payal Fofadiya",
+    "title": "Engineering Manager",
+    "company": "LinkedIn",
+    "bio": "",
+    "session_ids": [
+      "se_b8658c9981"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_209e204378",
+    "name": "Sawyer Bowerman",
+    "title": "AI Developer Advocate",
+    "company": "Red Hat",
+    "bio": "",
+    "session_ids": [
+      "se_7413fe09c5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b90d9f143e",
+    "name": "Grace Ableidinger",
+    "title": "AI Developer Advocate",
+    "company": "Red Hat",
+    "bio": "",
+    "session_ids": [
+      "se_7413fe09c5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_bc2c3ce652",
+    "name": "Sureshkumar Karuppuchamy",
+    "title": "Engineering Lead",
+    "company": "eBay",
+    "bio": "",
+    "session_ids": [
+      "se_0f1ad28539"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8dd01c40c7",
+    "name": "Tyler Suard",
+    "title": "Director of AI Research and Analysis",
+    "company": "Cencora",
+    "bio": "",
+    "session_ids": [
+      "se_365857685a"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_007148b969",
+    "name": "Sundeep Jain",
+    "title": "Enterprise AI Strategy, Global Cloud and Digital Infrastructure Leader",
+    "company": "NXP Semiconductors",
+    "bio": "",
+    "session_ids": [
+      "se_9ae412b637"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e2359e6c3a",
+    "name": "Ashay Satav",
+    "title": "Director of Product Management",
+    "company": "eBay",
+    "bio": "",
+    "session_ids": [
+      "se_9ae412b637"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6959dda593",
+    "name": "Nishant Lakshmikanth",
+    "title": "Engineering Leader in AI Infrastructure",
+    "company": "LinkedIn",
+    "bio": "",
+    "session_ids": [
+      "se_9ae412b637"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_861f28d7ea",
+    "name": "Pavana Kumar Chandana",
+    "title": "Principal Engineering Manager",
+    "company": "Northern Trust",
+    "bio": "",
+    "session_ids": [
+      "se_9ae412b637"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4b9a5c22cb",
+    "name": "Dr. Gurpinder Dhillon",
+    "title": "Head of Data & AI Ecosystem",
+    "company": "Senzing",
+    "bio": "",
+    "session_ids": [
+      "se_57de5296fb"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_74d0397983",
+    "name": "Kapil Poreddy",
+    "title": "Senior Software Engineering Manager",
+    "company": "Walmart Global Tech",
+    "bio": "",
+    "session_ids": [
+      "se_2a330cbd82"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_68137cd64d",
+    "name": "Pierre-Alexandre Balland",
+    "title": "Chief Data Scientist at CEPS, Visiting Professor at Harvard & Co-founder",
+    "company": "General Robotics",
+    "bio": "",
+    "session_ids": [
+      "se_cfbbde56f4",
+      "se_1a904ba577",
+      "se_a629c58e59"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_eda15773e9",
+    "name": "Leslie Karpas",
+    "title": "Inception Global Head of Physical AI",
+    "company": "NVIDIA",
+    "bio": "",
+    "session_ids": [
+      "se_5749a1c00c",
+      "se_da4673de6e",
+      "se_421779c721"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6378c1e083",
+    "name": "Dr Vinesh Sukumar",
+    "title": "Vice President of AI",
+    "company": "Qualcomm",
+    "bio": "",
+    "session_ids": [
+      "se_5749a1c00c",
+      "se_421779c721"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_ee922369ac",
+    "name": "Simon Ninan",
+    "title": "SVP | Global Head of Strategy",
+    "company": "Hitachi",
+    "bio": "",
+    "session_ids": [
+      "se_5749a1c00c",
+      "se_da4673de6e",
+      "se_421779c721"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_36a2d5aa12",
+    "name": "Mark Albertson",
+    "title": "Senior Writer",
+    "company": "SiliconANGLE Media",
+    "bio": "",
+    "session_ids": [
+      "se_5749a1c00c",
+      "se_421779c721"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_746da375a0",
+    "name": "Anuradha Bhamidipaty",
+    "title": "IBM Distinguished Engineer, Master Inventor, AI Research",
+    "company": "IBM",
+    "bio": "",
+    "session_ids": [
+      "se_f6c55e5941",
+      "se_ef83401fd7",
+      "se_4bd14f1e8a"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_ba16630787",
+    "name": "Jose Alvarez",
+    "title": "Director of Research",
+    "company": "NVIDIA",
+    "bio": "",
+    "session_ids": [
+      "se_34c743fbb4",
+      "se_c9956ab760"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a25f84bf87",
+    "name": "Sunil Sabat",
+    "title": "Principal Program Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "session_ids": [
+      "se_7675ff4389",
+      "se_faf7e2aea2"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_cc3a4c4043",
+    "name": "Arne Stoschek",
+    "title": "VP AI and Autonomous",
+    "company": "Airbus Acubed",
+    "bio": "",
+    "session_ids": [
+      "se_e5d8e73dea",
+      "se_55c9f18302",
+      "se_cb8dd74732"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6e588d3208",
+    "name": "Coco Wang",
+    "title": "VP of Business Development",
+    "company": "Unitree",
+    "bio": "",
+    "session_ids": [
+      "se_e5d8e73dea",
+      "se_55c9f18302",
+      "se_cb8dd74732"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3a6f369eb9",
+    "name": "Becky Soltanian PhD",
+    "title": "Principal AI Engineer",
+    "company": "Forterra",
+    "bio": "",
+    "session_ids": [
+      "se_e5d8e73dea",
+      "se_55c9f18302",
+      "se_cb8dd74732"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a59dc769b0",
+    "name": "Dr. Massimiliano Moruzzi",
+    "title": "Co-Founder",
+    "company": "Xaba.ai",
+    "bio": "",
+    "session_ids": [
+      "se_e5d8e73dea",
+      "se_55c9f18302",
+      "se_cb8dd74732"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f16bc5b44a",
+    "name": "David H. Holtzman",
+    "title": "CSO & Technical Advisor",
+    "company": "Naoris Protocol",
+    "bio": "",
+    "session_ids": [
+      "se_55c9f18302",
+      "se_cb8dd74732"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_dd50107c7a",
+    "name": "Rucha Apte",
+    "title": "Generative AI Architect",
+    "company": "NVIDIA",
+    "bio": "",
+    "session_ids": [
+      "se_3c1911b9bf",
+      "se_bbc4e2030b",
+      "se_abca533cdf"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_13baca10c3",
+    "name": "Saurav Nanda",
+    "title": "Senior Solutions Architect | Robotics | Physical AI",
+    "company": "NVIDIA",
+    "bio": "",
+    "session_ids": [
+      "se_3c1911b9bf",
+      "se_bbc4e2030b",
+      "se_abca533cdf"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_280e72c5a8",
+    "name": "Payam Shokrzadeh",
+    "title": "Technical Program Manager",
+    "company": "Ford Motor Company",
+    "bio": "",
+    "session_ids": [
+      "se_5749a1c00c",
+      "se_e5d8e73dea"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_361b5787c9",
+    "name": "Events Series",
+    "title": "",
+    "company": "",
+    "bio": "",
+    "session_ids": [
+      "se_3c1911b9bf",
+      "se_2554cdd10a",
+      "se_1a3418f4d1",
+      "se_abca533cdf"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4e11ed897b",
+    "name": "Marissa Schmidt",
+    "title": "Senior Director | Analyst",
+    "company": "Gartner",
+    "bio": "",
+    "session_ids": [
+      "se_dc8dcaa8e1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5f8d46ab39",
+    "name": "Troy Rydman",
+    "title": "CISO",
+    "company": "Packsize",
+    "bio": "",
+    "session_ids": [
+      "se_eeece8b907"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e26e44e90c",
+    "name": "Sean D. Mack",
+    "title": "Chief Security Officer & Managing Director",
+    "company": "Information Security Media Group",
+    "bio": "",
+    "session_ids": [
+      "se_7b91525c99",
+      "se_eeece8b907"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f81e204d7a",
+    "name": "Matt Costello",
+    "title": "Vice President",
+    "company": "Booz Allen",
+    "bio": "",
+    "session_ids": [
+      "se_eeece8b907"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_73a9add28c",
+    "name": "Rohan Ravindranath",
+    "title": "Founder & CEO",
+    "company": "Zappsec",
+    "bio": "",
+    "session_ids": [
+      "se_eeece8b907",
+      "se_79e2a694d5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_045e79b745",
+    "name": "Amy Yee",
+    "title": "Founder & Host",
+    "company": "Wired for Change Podcast",
+    "bio": "",
+    "session_ids": [
+      "se_df8baa46d0",
+      "se_eeece8b907",
+      "se_5c52f74927"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_fab22a24e3",
+    "name": "Jeremiah C. Johnson",
+    "title": "US Cloud Engineering Manager",
+    "company": "Fortinet",
+    "bio": "",
+    "session_ids": [
+      "se_90e02287c1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8108e0bf5f",
+    "name": "Ganesh Raghavan",
+    "title": "CISO",
+    "company": "Provident Credit Union",
+    "bio": "",
+    "session_ids": [
+      "se_79e2a694d5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2704c7d6c7",
+    "name": "Jim Blevins",
+    "title": "Chief Information Officer",
+    "company": "Richwood Bank",
+    "bio": "",
+    "session_ids": [
+      "se_79e2a694d5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b0bf692472",
+    "name": "Bhavana Nathani",
+    "title": "BISO",
+    "company": "PwC",
+    "bio": "",
+    "session_ids": [
+      "se_79e2a694d5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_0bb727b18e",
+    "name": "Kevin Shin",
+    "title": "CISO",
+    "company": "Samsung",
+    "bio": "",
+    "session_ids": [
+      "se_7c69470f5e",
+      "se_490167e0ab"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c60aaab958",
+    "name": "Mike D'Arezzo",
+    "title": "Executive Director of Information Security and GRC",
+    "company": "Wellstar Health Systems",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d",
+      "se_8d24efcbc9"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4b855074bf",
+    "name": "Treb Ryan",
+    "title": "General Manager",
+    "company": "Passless",
+    "bio": "",
+    "session_ids": [
+      "se_4798ff2219"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_44b8743501",
+    "name": "John Waller",
+    "title": "Cloud and Cyber Practice Lead",
+    "company": "UltraViolet Cyber",
+    "bio": "",
+    "session_ids": [
+      "se_5a79ac014d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c0150b6c96",
+    "name": "Sign up to the TechEx Newsletter",
+    "title": "Event Info",
+    "company": "Get Involved",
+    "bio": "",
+    "session_ids": [
+      "se_a2ef72d88c",
+      "se_d3e929bf78"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e9bc90731f",
+    "name": "Co-located Events",
+    "title": "Events Series",
+    "company": "",
+    "bio": "",
+    "session_ids": [
+      "se_a2ef72d88c",
+      "se_d3e929bf78"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_65b76dee5a",
+    "name": "Evan Stewart",
+    "title": "President & Chair of the Board of Directors",
+    "company": "ISC2 Silicon Valley Chapter",
+    "bio": "",
+    "session_ids": [
+      "se_08df0769b0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8d7fc57736",
+    "name": "Michael Calderin",
+    "title": "Chief Information Security Officer",
+    "company": "Barnes Aerospace",
+    "bio": "",
+    "session_ids": [
+      "se_4ac2073d73"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f107344e2e",
+    "name": "Elias Salazar",
+    "title": "Sandia Laboratories",
+    "company": "Deputy CISO",
+    "bio": "",
+    "session_ids": [
+      "se_755958f253"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2ce81db321",
+    "name": "John Sarantakes",
+    "title": "Chief Revenue Officer",
+    "company": "Blackfog",
+    "bio": "",
+    "session_ids": [
+      "se_61cb8197e8"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_faf1299f3d",
+    "name": "GS Jha",
+    "title": "Global CIO and CISO",
+    "company": "QuantumScape",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d",
+      "se_ad1b337b41"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2039a5a824",
+    "name": "Aaron Pzepka",
+    "title": "Deputy Head of Customer Applications",
+    "company": "Los Angeles County Internal Services Department",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a50a225720",
+    "name": "Becky Bracken",
+    "title": "Senior Editor",
+    "company": "Dark Reading",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d",
+      "se_490167e0ab"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e4826ddf62",
+    "name": "Cory Wolff",
+    "title": "Director of Proactive Services",
+    "company": "risk3sixty",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d437b3cdc3",
+    "name": "Clay Speckmiear",
+    "title": "Vice President of Growth",
+    "company": "Dispel",
+    "bio": "",
+    "session_ids": [
+      "se_433699f01d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5d63aa95e2",
+    "name": "Pete Daderko",
+    "title": "Director of Product Marketing",
+    "company": "EchoMark",
+    "bio": "",
+    "session_ids": [
+      "se_7fe0c1331d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2c9e069843",
+    "name": "Chris DeMars",
+    "title": "Senior Developer Advocate",
+    "company": "TuxCare",
+    "bio": "",
+    "session_ids": [
+      "se_adcbb19d73"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d89cf2c237",
+    "name": "Ben Lipczynski",
+    "title": "VP Security Services",
+    "company": "Origina",
+    "bio": "",
+    "session_ids": [
+      "se_6ab7406059"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b9ebeeb131",
+    "name": "Hiranya Maru",
+    "title": "Senior Director of Information Security",
+    "company": "Marriott International",
+    "bio": "",
+    "session_ids": [
+      "se_490167e0ab"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_d5a8510036",
+    "name": "Nicholas DeMeo",
+    "title": "CIO",
+    "company": "Vista Clinical Laboratory",
+    "bio": "",
+    "session_ids": [
+      "se_490167e0ab"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a5cbd342f3",
+    "name": "Rishi Kant",
+    "title": "Founder",
+    "company": "Sekant Security",
+    "bio": "",
+    "session_ids": [
+      "se_14f5e3c1a4"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1a05e96b47",
+    "name": "Amanda Sutliff",
+    "title": "Director of Product Marketing",
+    "company": "Guardsquare",
+    "bio": "",
+    "session_ids": [
+      "se_2554cdd10a"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b9c96d2573",
+    "name": "Romona Brown",
+    "title": "President, North America",
+    "company": "Prosci",
+    "bio": "",
+    "session_ids": [
+      "se_53d5cbb57b",
+      "se_017739f92c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_19d6a39132",
+    "name": "Rob Pegoraro",
+    "title": "Tech Journalist & Contributor",
+    "company": "PCMag/Fast Company/Others",
+    "bio": "",
+    "session_ids": [
+      "se_53d5cbb57b",
+      "se_007f18726e"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1e236add24",
+    "name": "Sanjoy Sarkar",
+    "title": "Senior Vice President | Senior Director of Workflow Automation & Robotics",
+    "company": "First Citizens Bank",
+    "bio": "",
+    "session_ids": [
+      "se_cbb542e186"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_9c7ed19cb3",
+    "name": "Sara Clark",
+    "title": "VP, Strategic Business Transformation",
+    "company": "Greif",
+    "bio": "",
+    "session_ids": [
+      "se_a19c43bdd6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f24b1035f7",
+    "name": "Robert Mark Moore",
+    "title": "Director Customer Learning and Performance",
+    "company": "Travelport",
+    "bio": "",
+    "session_ids": [
+      "se_71780f257d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6ef3ed48cc",
+    "name": "Chuck Siu",
+    "title": "VP, Product - Enterprise Journey & AI Transformation",
+    "company": "Gap Inc.",
+    "bio": "",
+    "session_ids": [
+      "se_007f18726e"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_abf62223c0",
+    "name": "Leo Le Hoang Dung",
+    "title": "Director of Manufacturing Digital Systems & Regional Digital Transformation",
+    "company": "Procter & Gamble",
+    "bio": "",
+    "session_ids": [
+      "se_007f18726e"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_73b3b0d590",
+    "name": "Brenton House",
+    "title": "Principal Advisor, Automation and Emerging Technology",
+    "company": "IBM",
+    "bio": "",
+    "session_ids": [
+      "se_007f18726e",
+      "se_02e190ed51"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_72b45fb3d8",
+    "name": "Alice Hilson",
+    "title": "Senior Director, Digital Innovation and Enterprise Technology",
+    "company": "DuPont",
+    "bio": "",
+    "session_ids": [
+      "se_007f18726e"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_fb5dfb147f",
+    "name": "Eric Stevens",
+    "title": "Engineer Lead",
+    "company": "Nextcloud",
+    "bio": "",
+    "session_ids": [
+      "se_18355fc6a5"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5f6aad4095",
+    "name": "Stephanie Harvey",
+    "title": "Principal Technology Strategy",
+    "company": "AT&T",
+    "bio": "",
+    "session_ids": [
+      "se_017739f92c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3969c67a23",
+    "name": "Patrick Martin",
+    "title": "Senior Customer Success Account Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "session_ids": [
+      "se_017739f92c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_81f242d7c6",
+    "name": "Abby Pledger",
+    "title": "Senior Director | Global Business Transformation",
+    "company": "Mondelez International",
+    "bio": "",
+    "session_ids": [
+      "se_5c52f74927"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6b2afc52f1",
+    "name": "Ryan Hicks",
+    "title": "Director of Continuous Improvement",
+    "company": "Intermountain Health",
+    "bio": "",
+    "session_ids": [
+      "se_5c52f74927"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_66135af94c",
+    "name": "Aaron Rzepka",
+    "title": "Deputy GM Head of Customer Applications",
+    "company": "LA County ISD",
+    "bio": "",
+    "session_ids": [
+      "se_5c52f74927"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b420cdc058",
+    "name": "Tim Patrick",
+    "title": "Global Head of solutions",
+    "company": "Blue Wireless",
+    "bio": "",
+    "session_ids": [
+      "se_5c52f74927"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4342124c43",
+    "name": "Shaina Green",
+    "title": "Vice President of Digital",
+    "company": "Constellation Energy",
+    "bio": "",
+    "session_ids": [
+      "se_0cf6e3580f"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_9547a8dba7",
+    "name": "Attul Sehgal",
+    "title": "Founder & Owner",
+    "company": "Red Octopus Innovation",
+    "bio": "",
+    "session_ids": [
+      "se_8dba026a3b"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_808b37d932",
+    "name": "Raymond Mitten",
+    "title": "Vice President, Advanced Digital Technologies",
+    "company": "Energy",
+    "bio": "",
+    "session_ids": [
+      "se_bdc0eb3552"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_240acf074e",
+    "name": "Jesse Fewell",
+    "title": "Program Director, Digital Transformation",
+    "company": "BAE Systems",
+    "bio": "",
+    "session_ids": [
+      "se_bdc0eb3552"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_e3f85a9697",
+    "name": "Daniela Busse",
+    "title": "President",
+    "company": "Hilden Labs",
+    "bio": "",
+    "session_ids": [
+      "se_bdc0eb3552"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_9a6ac6be6c",
+    "name": "Michael Folkers",
+    "title": "VP, Enterprise AI & Automation",
+    "company": "Foxit",
+    "bio": "",
+    "session_ids": [
+      "se_bdc0eb3552"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c927fcc1ae",
+    "name": "Erin Boyd",
+    "title": "Chief Digital Strategy & AI Officer",
+    "company": "The AES Corporation",
+    "bio": "",
+    "session_ids": [
+      "se_362b43acb1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_41cee2feb2",
+    "name": "Tim Keer",
+    "title": "Director, Pre-Sales, North America",
+    "company": "Aras",
+    "bio": "",
+    "session_ids": [
+      "se_f328704f64"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6788610a1d",
+    "name": "Tony Sina",
+    "title": "Sales Engineer",
+    "company": "Blue Dolphin",
+    "bio": "",
+    "session_ids": [
+      "se_1817878466"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b724a016ef",
+    "name": "Ajay Gupta",
+    "title": "Chief Digital Transformation Officer",
+    "company": "California DMV | State of California",
+    "bio": "",
+    "session_ids": [
+      "se_1e07dfe86a"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_984aad71eb",
+    "name": "Stephen Caines",
+    "title": "Chief Innovation Officer",
+    "company": "City of San Jose",
+    "bio": "",
+    "session_ids": [
+      "se_5fe041f491"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b1e2254b8f",
+    "name": "Will Hankla CSCP",
+    "title": "Vice President of Transformation",
+    "company": "The Hershey Company",
+    "bio": "",
+    "session_ids": [
+      "se_df8baa46d0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_95a90f8448",
+    "name": "Ryan Mosley",
+    "title": "Medi-Cal Enterprise Systems Modernization (MESMD) Division Chief",
+    "company": "California Department of Health Care Services",
+    "bio": "",
+    "session_ids": [
+      "se_df8baa46d0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7874236749",
+    "name": "Ethan Barajas",
+    "title": "Co-Founder and CEO",
+    "company": "Icarus",
+    "bio": "",
+    "session_ids": [
+      "se_3b8fb40ee4"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c143db0e6b",
+    "name": "Jennifer Fitzgerald",
+    "title": "Director, Product Management, Observability",
+    "company": "IBM",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c",
+      "se_ff6b26764a"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_0f42b4c460",
+    "name": "Avinash Vaidya",
+    "title": "VP Information technology",
+    "company": "Franklin Templeton",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_55625cbf0e",
+    "name": "Rafael Muniz",
+    "title": "AI & Digital Intelligence Manager LATAM",
+    "company": "Bayer",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6eb4be5571",
+    "name": "Kevin Hearn",
+    "title": "SVP, Head of Consumer Bank Development",
+    "company": "Axos Bank",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_52d3009e31",
+    "name": "Anjali Garg",
+    "title": "Senior Operations Intelligence Lead - Strategy & Process Automation",
+    "company": "Walmart",
+    "bio": "",
+    "session_ids": [
+      "se_20b2c4725c"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_93b7a93d8c",
+    "name": "Bhushan Shitole",
+    "title": "Head of Engineering",
+    "company": "Indeed",
+    "bio": "",
+    "session_ids": [
+      "se_bcc9a86113"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7b34df4934",
+    "name": "David Park",
+    "title": "CEO, Cofounder",
+    "company": "Narada AI",
+    "bio": "",
+    "session_ids": [
+      "se_240d3dcbb1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7a697ef560",
+    "name": "Maxim Ioffe",
+    "title": "Senior Director, Global Intelligent Automation and Advanced Analytics",
+    "company": "Wesco",
+    "bio": "",
+    "session_ids": [
+      "se_5eb2a16069"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b08bfaa3a4",
+    "name": "Dr. Agness Mnena Gaadi",
+    "title": "Global Head of Marketing Operations",
+    "company": "Ford Motor Company",
+    "bio": "",
+    "session_ids": [
+      "se_110694f7e7"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_b4a52a02f2",
+    "name": "Mohit Goenka",
+    "title": "Director of Engineering",
+    "company": "Yahoo",
+    "bio": "",
+    "session_ids": [
+      "se_c6362e00f0",
+      "se_05430958c4"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_0d3017857c",
+    "name": "Hugo Slepicka",
+    "title": "VP of Engineering",
+    "company": "BotCity",
+    "bio": "",
+    "session_ids": [
+      "se_49fd26caa0"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_cb43fbdcae",
+    "name": "Naresh Dulam",
+    "title": "Senior VP of Software Engineering",
+    "company": "JPMorgan",
+    "bio": "",
+    "session_ids": [
+      "se_1a3418f4d1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5470615693",
+    "name": "Pierre-Alexandre Balland",
+    "title": "Chief Data Scientist at CEPS, Visiting Professor at Harvard & Co-founder of General Robotics",
+    "company": "",
+    "bio": "",
+    "session_ids": [
+      "se_70e8da9589",
+      "se_9907e163fa"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_fa53f4cd91",
+    "name": "Vinesh Sukumar",
+    "title": "Vice President - AI",
+    "company": "Qualcomm",
+    "bio": "",
+    "session_ids": [
+      "se_da4673de6e"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_32b9d836bc",
+    "name": "Jos\u00e9 \u00c1lvarez",
+    "title": "Director of Research",
+    "company": "NVIDIA",
+    "bio": "",
+    "session_ids": [
+      "se_9b383afda6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1b12b5561c",
+    "name": "Subhankar Dhar",
+    "title": "Professor of Information Systems & Technology",
+    "company": "San Jose State University",
+    "bio": "",
+    "session_ids": [
+      "se_3ea0198e82"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2f145b5fae",
+    "name": "Brad Barton",
+    "title": "SVP Construction Procurement",
+    "company": "Applied Digital",
+    "bio": "",
+    "session_ids": [
+      "se_57114da272"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_fa7ab4fcb9",
+    "name": "Dean Richards",
+    "title": "Co-CEO",
+    "company": "Global Piller Group",
+    "bio": "",
+    "session_ids": [
+      "se_5a05da08dd"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_51e4645996",
+    "name": "Reena Brilliot",
+    "title": "Director of Economic Development & Sustainability",
+    "company": "City of Santa Clara",
+    "bio": "",
+    "session_ids": [
+      "se_bdecef7748"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f68e844828",
+    "name": "Melissa Farney",
+    "title": "Editor at Large",
+    "company": "Data Center Frontier",
+    "bio": "",
+    "session_ids": [
+      "se_bdecef7748"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_abde7bacce",
+    "name": "Mayor Lisa Gillmor",
+    "title": "Mayor",
+    "company": "City of Santa Clara",
+    "bio": "",
+    "session_ids": [
+      "se_bdecef7748"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_60424815c8",
+    "name": "Andrew Klinman",
+    "title": "Principal, Sales Engineer",
+    "company": "Channel Performance",
+    "bio": "",
+    "session_ids": [
+      "se_e621166cbc"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_c629dcbdd4",
+    "name": "Chris Summers",
+    "title": "Head of Customer Engineering",
+    "company": "Aria Networks",
+    "bio": "",
+    "session_ids": [
+      "se_6be49733a1"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_149887c40e",
+    "name": "Lori Mitchell",
+    "title": "Director",
+    "company": "San Jos\u00e9 Clean Energy",
+    "bio": "",
+    "session_ids": [
+      "se_abdd708375"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2f483a9b44",
+    "name": "Claire Inan, P.E.",
+    "title": "Water Program Manager - Data Center Development",
+    "company": "Meta",
+    "bio": "",
+    "session_ids": [
+      "se_abdd708375"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_2251f74163",
+    "name": "Peter Hoegler",
+    "title": "Associate Director Data Center Solutions",
+    "company": "EDF power solutions",
+    "bio": "",
+    "session_ids": [
+      "se_abdd708375"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1598b0747e",
+    "name": "Alan Howard",
+    "title": "Vice President, Data Center Solutions",
+    "company": "National Power",
+    "bio": "",
+    "session_ids": [
+      "se_abdd708375"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_1ad7313aec",
+    "name": "Tess Hau",
+    "title": "Founder",
+    "company": "Tess Ventures",
+    "bio": "",
+    "session_ids": [
+      "se_abdd708375"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_34c15d2a7a",
+    "name": "Dominik Fry, P.E.",
+    "title": "Director of Product, PIPE-FLO",
+    "company": "PIPE.FLO from Revalize",
+    "bio": "",
+    "session_ids": [
+      "se_58fb5ee6fe"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_55680bda44",
+    "name": "Vincent Racine",
+    "title": "DC & DCI Sales Engineer",
+    "company": "EXFO",
+    "bio": "",
+    "session_ids": [
+      "se_d06ef59011"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3d2b8ca445",
+    "name": "Ambroise Lalloz",
+    "title": "Director of Strategic Development",
+    "company": "FirstBlock",
+    "bio": "",
+    "session_ids": [
+      "se_d06ef59011"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_346d335982",
+    "name": "R. Tee Gibson",
+    "title": "Sales Support Engineer",
+    "company": "Distech Controls",
+    "bio": "",
+    "session_ids": [
+      "se_d06ef59011"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4bd6aa7e9f",
+    "name": "Guillaume Lavall\u00e9e",
+    "title": "Senior Director, Innovation & Partnerships",
+    "company": "Ecosystem",
+    "bio": "",
+    "session_ids": [
+      "se_d06ef59011"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_080056d7c7",
+    "name": "Anne-Catherine Briand-Fortin",
+    "title": "Delegate of Qu\u00e9bec in Los Angeles",
+    "company": "Qu\u00e9bec Government Office in Los Angeles",
+    "bio": "",
+    "session_ids": [
+      "se_d06ef59011"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_dd24ce1281",
+    "name": "Gordon Johnson",
+    "title": "Senior CFD Engineering (BSEE, CDCDP, DCEP)",
+    "company": "Subzero Engineering",
+    "bio": "",
+    "session_ids": [
+      "se_9069ad44ab"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_76bd678065",
+    "name": "Kushal Dagli",
+    "title": "Global Data Center Deployment Optimization Lead",
+    "company": "Microsoft",
+    "bio": "",
+    "session_ids": [
+      "se_05430958c4"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_523461377e",
+    "name": "Roger Strukhoff",
+    "title": "Editor-in-Chief",
+    "company": "International Data Center Authority (IDCA)",
+    "bio": "",
+    "session_ids": [
+      "se_05430958c4",
+      "se_3a72dd023f"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3d2990778e",
+    "name": "Sri Soundararajan",
+    "title": "Senior Manager - AI Software",
+    "company": "Samsung Semiconductor",
+    "bio": "",
+    "session_ids": [
+      "se_05430958c4"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_8e87358c0d",
+    "name": "Erica Garaffo",
+    "title": "Large Load Energy Customer Development Lead",
+    "company": "City of San Jose",
+    "bio": "",
+    "session_ids": [
+      "se_e3d7d443f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_6950a8384e",
+    "name": "EJ Odo",
+    "title": "Principal Product Manager",
+    "company": "Microsoft",
+    "bio": "",
+    "session_ids": [
+      "se_e3d7d443f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_f211bad134",
+    "name": "Yuval Bachar",
+    "title": "Founder & CEO",
+    "company": "EdgeCloudLink",
+    "bio": "",
+    "session_ids": [
+      "se_e3d7d443f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_74caed43d1",
+    "name": "Eric Turon",
+    "title": "Chief Experience Officer",
+    "company": "Spartan Critical Systems",
+    "bio": "",
+    "session_ids": [
+      "se_e3d7d443f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_64bc6fe6e5",
+    "name": "Michael Lisonbee",
+    "title": "Director of Enterprise Sales: Data Center / Colocation",
+    "company": "Ziply Fiber",
+    "bio": "",
+    "session_ids": [
+      "se_e3d7d443f6"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_92f4f53c67",
+    "name": "Dr. Joseph G. Allen, DSc, MPH, CIH",
+    "title": "Professor and Director of the Healthy Buildings Program",
+    "company": "Harvard T.H. Chan School of Public Health",
+    "bio": "",
+    "session_ids": [
+      "se_cfc8ce57cc"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_bf5a24c2a4",
+    "name": "Shivani Cott, PhD",
+    "title": "Senior Scientist",
+    "company": "9 Foundations",
+    "bio": "",
+    "session_ids": [
+      "se_cfc8ce57cc"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_433a0ac16a",
+    "name": "Jeff Wood",
+    "title": "Vice President North America",
+    "company": "Uptime Institute",
+    "bio": "",
+    "session_ids": [
+      "se_77931d3763"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_5e1b8d5361",
+    "name": "Ganesh Mani",
+    "title": "Senior Director of Engineering",
+    "company": "GEICO",
+    "bio": "",
+    "session_ids": [
+      "se_77931d3763"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_fae45ad481",
+    "name": "Martin Renkis",
+    "title": "Executive Director Data Center Infrastructure Services",
+    "company": "Johnson Controls",
+    "bio": "",
+    "session_ids": [
+      "se_77931d3763"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_99de6bb896",
+    "name": "Christopher (CJ) Johnson",
+    "title": "Principal and Founder",
+    "company": "Avanza Energy",
+    "bio": "",
+    "session_ids": [
+      "se_77931d3763"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a4258418d1",
+    "name": "Olivier Crene",
+    "title": "President, Digital Workplace, Cloud, and Infrastructure",
+    "company": "Milestone Technologies",
+    "bio": "",
+    "session_ids": [
+      "se_1cc01de47d"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_ebac80a387",
+    "name": "Jay Paidipati",
+    "title": "Vice President of Energy and Sustainability Program Management",
+    "company": "Uptime Institute",
+    "bio": "",
+    "session_ids": [
+      "se_ce09567983"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a8a87a6704",
+    "name": "David Warrick",
+    "title": "EVP Enterprise",
+    "company": "Overhaul",
+    "bio": "",
+    "session_ids": [
+      "se_f43e2eb3a3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_7e90fae51e",
+    "name": "Edward Jingdong QU",
+    "title": "CEO & Co-Founder",
+    "company": "Vigiles Robotics Inc",
+    "bio": "",
+    "session_ids": [
+      "se_50c78f5ae3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_a8a11da06a",
+    "name": "Bryan Dusza",
+    "title": "Sales Director",
+    "company": "Rypos",
+    "bio": "",
+    "session_ids": [
+      "se_174af98757"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_4b1e33e4d6",
+    "name": "Jesline Leston",
+    "title": "Program Manager, Data Center Delivery",
+    "company": "Microsoft",
+    "bio": "",
+    "session_ids": [
+      "se_edba4c7cd3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_0703d95617",
+    "name": "Andy Dickey",
+    "title": "Head of Americas & Asia-Pacific - HP Construction Services",
+    "company": "HP",
+    "bio": "",
+    "session_ids": [
+      "se_edba4c7cd3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_00c249a226",
+    "name": "Dave Stehlin",
+    "title": "Chief Executive Officer",
+    "company": "Telecommunications Industry Association (TIA)",
+    "bio": "",
+    "session_ids": [
+      "se_edba4c7cd3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_63d0ab353e",
+    "name": "Mark Scher",
+    "title": "President and Founder",
+    "company": "Applied High Voltage",
+    "bio": "",
+    "session_ids": [
+      "se_edba4c7cd3"
+    ],
+    "headshot_url": null
+  },
+  {
+    "id": "sp_3c52bc7878",
+    "name": "Brian Matthews",
+    "title": "Founder & CEO",
+    "company": "AMPERA",
+    "bio": "",
+    "session_ids": [
+      "se_edba4c7cd3"
+    ],
+    "headshot_url": null
   }
 ]

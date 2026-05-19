@@ -25,17 +25,61 @@ Google AI Studio), demoed at TechEx North America 2026.
 ## Running locally
 
 ```bash
-# 1. Backend
+# 1. Install backend deps
 cd backend
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-export GEMINI_API_KEY=...           # required for live agent
-python -m app.main                  # FastAPI on :8000
+pip install pymupdf                 # used by the floorplan extractor
 
-# 2. Frontend (any static server)
-cd ../frontend
-python -m http.server 5173          # open http://localhost:5173
+# 2. Ingest real data (one-shot; commit the JSON outputs)
+cd ..
+python scripts/extract_floorplan.py        # parses real PDF -> booth coords + zones
+python scripts/scrape_agenda.py            # scrapes public agenda pages -> sessions/speakers
+python scripts/link_exhibitors_to_booths.py  # joins real exhibitors to real booth coords
+
+# 3. (Optional) real Gemini embeddings + agent
+export GEMINI_API_KEY=...           # without this, pseudo-embeddings + chat disabled
+
+# 4. Run the server (also serves the frontend)
+cd backend
+PYTHONIOENCODING=utf-8 python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
+# open http://localhost:8000
 ```
+
+### Tests
+
+```bash
+# Full suite (data, API, tools, chat scenarios, browser visual)
+python scripts/run_tests.py
+
+# Fast subset (no live Gemini, no headless browser)
+python scripts/run_tests.py --skip chat --skip visual
+```
+
+The visual layer uses Playwright. Once-per-machine setup:
+```bash
+python -m pip install playwright httpx websockets
+python -m playwright install chromium
+```
+
+The suite covers ~150 checks across five layers: data integrity, REST/WebSocket
+endpoints, direct tool calls, real-Gemini chat scenarios, and headless-browser
+visual + click coverage at five viewport widths (320 → 1920).
+
+### Data sources (real, not synthetic)
+
+The app refuses to fabricate data. Everything you see comes from:
+
+| Entity      | Source                                                  | Script                          |
+|-------------|---------------------------------------------------------|---------------------------------|
+| Booths      | Official TechEx NA 2026 floorplan PDF                   | `scripts/extract_floorplan.py`  |
+| Exhibitors  | `ai-expo.net/northamerica/exhibitors/` (one-shot)       | `backend/app/ingest/scrape.py`  |
+| Sessions    | Per-track agenda pages on the 7 TechEx microsites       | `scripts/scrape_agenda.py`      |
+| Speakers    | Derived from session agenda blocks                      | `scripts/scrape_agenda.py`      |
+
+If any of those JSON files are missing, the backend starts with a warning
+(`[store] WARNING: missing data files…`) and shows empty states in the UI
+rather than synthesizing. Re-run the ingest scripts to refresh.
 
 The frontend is a single-page PWA — installable on mobile, works offline for
 already-loaded data, no build step.

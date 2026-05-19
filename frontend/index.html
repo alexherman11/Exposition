@@ -3,59 +3,80 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <meta name="theme-color" content="#0a0e1f" />
+  <meta name="theme-color" content="#FAFAF7" />
   <title>Expo Concierge — TechEx NA 2026</title>
   <link rel="manifest" href="/manifest.json" />
+  <link rel="preconnect" href="https://rsms.me" />
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
   <link rel="stylesheet" href="/css/app.css" />
 </head>
 <body>
   <div id="app">
 
-    <!-- ───── Top bar ───── -->
     <header class="topbar">
       <div class="brand">
-        <div class="dot"></div>
+        <div class="logo">
+          <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true">
+            <defs>
+              <linearGradient id="lg" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0" stop-color="#FB7185"/>
+                <stop offset="0.5" stop-color="#F59E0B"/>
+                <stop offset="1" stop-color="#34D399"/>
+              </linearGradient>
+            </defs>
+            <path d="M16 3 L28 9 L28 23 L16 29 L4 23 L4 9 Z" fill="url(#lg)" />
+            <circle cx="16" cy="16" r="4.5" fill="#fff"/>
+          </svg>
+        </div>
         <div>
           <div class="brand-name">Expo Concierge</div>
           <div class="brand-sub">TechEx NA 2026 · San Jose · May 18–19</div>
         </div>
       </div>
       <nav class="view-switch">
-        <button data-view="chat" class="active">Chat</button>
-        <button data-view="map">Map</button>
-        <button data-view="schedule">Schedule</button>
+        <button data-view="chat" class="active">
+          <svg viewBox="0 0 20 20" width="14" height="14"><path fill="currentColor" d="M4 4h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H8l-4 3v-3a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Z"/></svg>
+          Chat
+        </button>
+        <button data-view="map">
+          <svg viewBox="0 0 20 20" width="14" height="14"><path fill="currentColor" d="M10 2c-3 0-6 2.5-6 6 0 4.5 6 10 6 10s6-5.5 6-10c0-3.5-3-6-6-6Zm0 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4Z"/></svg>
+          Map
+        </button>
+        <button data-view="schedule">
+          <svg viewBox="0 0 20 20" width="14" height="14"><path fill="currentColor" d="M6 2v2H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-2V2h-2v2H8V2H6Zm-2 6h12v8H4V8Z"/></svg>
+          Schedule
+        </button>
       </nav>
-      <div class="user-pill">
+      <div class="user-pill" id="user-pill">
         <div class="avatar">A</div>
         <div class="meta">
           <div class="name">Alex Park</div>
-          <div class="interests">LoRa IoT · edge compute · cooling <span class="edit">✏️</span></div>
+          <div class="interests">LoRa IoT · edge compute · cooling <span class="edit" title="Edit interests">✎</span></div>
         </div>
       </div>
     </header>
 
-    <!-- ───── Main grid ───── -->
     <main class="layout">
 
       <!-- chat column -->
       <section class="col chat-col" data-pane="chat">
         <div class="chat-scroll" id="chat-scroll">
           <div class="welcome-card">
-            <h2>Hi Alex — welcome to TechEx</h2>
-            <p>I'm your concierge. I keep your map, schedule, and conversation in sync.
-              Try:</p>
+            <div class="welcome-badge">Welcome</div>
+            <h2>Hi Alex — let's plan your day</h2>
+            <p>I'm your concierge. I keep your map, schedule, and conversation in sync. Try one of these:</p>
             <div class="prompt-chips">
               <button class="chip">Plan my day for LoRa IoT</button>
               <button class="chip">I just talked to Semtech — who's similar?</button>
-              <button class="chip">I'm at booth B14, what's nearby?</button>
+              <button class="chip">I'm at booth 297, what's nearby?</button>
               <button class="chip">Recap my day</button>
             </div>
           </div>
         </div>
         <form class="chat-input" id="chat-form">
           <input type="text" id="chat-text" placeholder="Ask anything about the show…" autocomplete="off" />
-          <button type="submit" aria-label="Send">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12l16-8-6 18-3-7-7-3z"/></svg>
+          <button type="submit" aria-label="Send" class="send">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12l16-8-6 18-3-7-7-3z"/></svg>
           </button>
         </form>
       </section>
@@ -66,20 +87,19 @@
         <div class="view-pane" data-pane="map" hidden>
           <div class="map-toolbar">
             <div class="legend">
-              <span class="dot lg-here"></span> You
-              <span class="dot lg-plan"></span> In plan
-              <span class="dot lg-focus"></span> Focus
-              <span class="dot lg-match"></span> Match
-              <span class="dot lg-visited"></span> Visited
+              <span><i class="dot lg-here"></i> You</span>
+              <span><i class="dot lg-plan"></i> Planned</span>
+              <span><i class="dot lg-focus"></i> Highlighted</span>
+              <span><i class="dot lg-match"></i> Match</span>
+              <span><i class="dot lg-visited"></i> Visited</span>
             </div>
             <div class="map-actions">
-              <button id="map-reset">Reset view</button>
+              <button id="map-zoom-out" title="Zoom out">−</button>
+              <button id="map-zoom-in" title="Zoom in">+</button>
+              <button id="map-reset" title="Fit floorplan">Fit</button>
             </div>
           </div>
-          <div class="map-wrap" id="map-wrap">
-            <img id="map-base" alt="floorplan base" />
-            <svg id="map-overlay" preserveAspectRatio="none" viewBox="0 0 1600 1000"></svg>
-          </div>
+          <div class="map-wrap" id="map-wrap"></div>
           <div class="map-detail" id="map-detail" hidden></div>
         </div>
 
@@ -90,12 +110,12 @@
             <button data-layer="attended">Attended</button>
           </div>
           <div class="timeline" id="timeline"></div>
+          <div class="schedule-detail" id="schedule-detail" hidden></div>
         </div>
 
       </section>
     </main>
 
-    <!-- toast for agent actions -->
     <div class="toasts" id="toasts"></div>
   </div>
 

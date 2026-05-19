@@ -141,13 +141,19 @@ async def run_turn(conv: Conversation, user_text: str, max_steps: int = 6) -> As
 
     for step in range(max_steps):
         contents = _to_gemini_history(conv)
-        resp = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=contents,
-            config=cfg,
-        )
-        cand = resp.candidates[0] if resp.candidates else None
+        cand = None
+        # Up to 2 tries — Gemini occasionally returns 0 candidates / empty parts.
+        for attempt in range(2):
+            resp = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=contents,
+                config=cfg,
+            )
+            cand = resp.candidates[0] if resp.candidates else None
+            if cand and cand.content and cand.content.parts:
+                break
         if not cand or not cand.content or not cand.content.parts:
+            yield {"type": "text_delta", "delta": "Sorry — I didn't get a response from the model. Try rephrasing or asking again."}
             yield {"type": "done"}
             return
 
